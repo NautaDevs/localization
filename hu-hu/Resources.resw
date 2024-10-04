@@ -68,7 +68,7 @@
     <value>Csatlakozz a Discordhoz</value>
   </data>
   <data name="Tray_Exit.Text" xml:space="preserve">
-    <value>Kijárat</value>
+    <value>Bezárás</value>
   </data>
   <data name="About_Card.Text" xml:space="preserve">
     <value>Minden jog fenntartva.</value>
@@ -119,7 +119,7 @@
     <value>A egy elegáns és hatékony módosító eszköz, amelynek célja, hogy a PC-re elérhető legkifinomultabb Call of Duty csalószoftver legyen. Amellett, hogy lenyűgöző felhasználói felülettel rendelkezik, amely más modding programokon nem található meg, tele van olyan funkciókkal is, amelyeket más külső eszközök nem biztosítanak. 💗-val készítette a Nauta Dev Team.</value>
   </data>
   <data name="AboutTitle.Text" xml:space="preserve">
-    <value>Ról ről</value>
+    <value>Az appról.</value>
   </data>
   <data name="AppDisplayBuild.Text" xml:space="preserve">
     <value>Alpha</value>
@@ -155,7 +155,7 @@
     <value>Szivárvány</value>
   </data>
   <data name="Appearance_CreateTheme.Text" xml:space="preserve">
-    <value>Újat készíteni</value>
+    <value>Újat készíteni/hozzáadni</value>
   </data>
   <data name="Appearance_ImportTheme.Text" xml:space="preserve">
     <value>Téma importálása</value>
@@ -197,10 +197,10 @@
     <value>Gleccser</value>
   </data>
   <data name="Appearance_Theme_Light.Content" xml:space="preserve">
-    <value>Fény</value>
+    <value>Világos</value>
   </data>
   <data name="Appearance_Theme_Light.Text" xml:space="preserve">
-    <value>Fény</value>
+    <value>Világos</value>
   </data>
   <data name="Appearance_Theme_Solitary" xml:space="preserve">
     <value>Magányos felfedező</value>
@@ -212,7 +212,7 @@
     <value>Használja a rendszerbeállításokat</value>
   </data>
   <data name="AppearanceDesc.Text" xml:space="preserve">
-    <value>Válasszon egy sor vizuálisan tetszetős téma közül 🎨 ízlésének megfelelően. Élvezze böngészési élményét egy olyan környezetben, amely tükrözi személyiségét.</value>
+    <value>Válasszon egy vizuálisan tetszetős téma közül 🎨 ízlésének megfelelően. Élvezze böngészési élményét egy olyan környezetben, amely tükrözi személyiségét.</value>
   </data>
   <data name="AppearanceTitle.Text" xml:space="preserve">
     <value>Kinézet</value>
@@ -221,10 +221,10 @@
     <value>Mindig a tetején</value>
   </data>
   <data name="Application_Card_CloseToTray.Header" xml:space="preserve">
-    <value>Közel a rendszertálcához</value>
+    <value>Bezáráskor csak a tálcára minimalizálja.</value>
   </data>
   <data name="Application_Card_Discord.Description" xml:space="preserve">
-    <value>Megjelenítés a Discord tevékenységben.</value>
+    <value>Megjelenítés mint Discord tevékenység.</value>
   </data>
   <data name="Application_Card_Discord.Header" xml:space="preserve">
     <value>Discord Rich Presence</value>
@@ -362,10 +362,10 @@
     <value>Válasszon ki egy mintát</value>
   </data>
   <data name="Dashboard_Banner_Title.Text" xml:space="preserve">
-    <value>Irányítsd a tapasztalataidat</value>
+    <value>Használd még ma:</value>
   </data>
   <data name="Dashboard_Group_New.Header" xml:space="preserve">
-    <value>Mi újság</value>
+    <value>Újdonságok</value>
   </data>
   <data name="Dashboard_Group_Stats.Header" xml:space="preserve">
     <value>Élő statisztika</value>
@@ -422,7 +422,7 @@
     <value>A nap üzenete</value>
   </data>
   <data name="Dashboard_Stats_LibraryUses.Text" xml:space="preserve">
-    <value>Könyvtári felhasználások</value>
+    <value>A Könyvtár használatainak száma.</value>
   </data>
   <data name="Dashboard_Stats_Online.Text" xml:space="preserve">
     <value>Online</value>
@@ -446,16 +446,16 @@
     <value>Discord szerver</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Description" xml:space="preserve">
-    <value>Működésének áttekintése.</value>
+    <value>Az app működésének áttekintése.</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Title" xml:space="preserve">
-    <value>Elkezdeni</value>
+    <value>Dokumentáció</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Description" xml:space="preserve">
-    <value>Adományozással segítse ingyenesen megőrizni.</value>
+    <value>Adományozással segítsen ingyenesen tartani az appot.</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Title" xml:space="preserve">
-    <value>Csíkos adományok</value>
+    <value>Stripe adományok</value>
   </data>
   <data name="Dashboard_Tile_Trello.Description" xml:space="preserve">
     <value>Legyen naprakész a tervezett funkciókkal és frissítésekkel.</value>
@@ -479,13 +479,10 @@
     <value>Egyetértek</value>
   </data>
   <data name="Dialog_Button_Buy.Text" xml:space="preserve">
-    <value>Vásároljon érte</value>
+    <value>Megvásárlás</value>
   </data>
   <data name="Dialog_Button_Close.Content" xml:space="preserve">
     <value>Bezárás</value>
-  </data>
-  <data name="Dialog_Button_Next.Content" xml:space="preserve">
-    <value>Következő</value>
   </data>
   <data name="Dialog_Button_Save.Content" xml:space="preserve">
     <value>Megment</value>
@@ -584,7 +581,7 @@
     <value>Szerző</value>
   </data>
   <data name="Library_Game.Text" xml:space="preserve">
-    <value>Játszma, meccs</value>
+    <value>Játék</value>
   </data>
   <data name="Library_Settings.Header" xml:space="preserve">
     <value>Projektbeállítások</value>
@@ -596,7 +593,7 @@
     <value>Válassza ki a platformot</value>
   </data>
   <data name="Library_Inject.Text" xml:space="preserve">
-    <value>Injekciós</value>
+    <value>Injektálás</value>
   </data>
   <data name="Library_InjectionCount.Text" xml:space="preserve">
     <value>Injekciók</value>
@@ -608,13 +605,13 @@
     <value>Kirakat</value>
   </data>
   <data name="Library_Unload.Text" xml:space="preserve">
-    <value>Kirak</value>
+    <value>Kitöltés</value>
   </data>
   <data name="Library_Version.Header" xml:space="preserve">
     <value>Változat</value>
   </data>
   <data name="Login_Dialog.Title" xml:space="preserve">
-    <value>Isten hozott a</value>
+    <value>Üdvözölje a</value>
   </data>
   <data name="Login_Dialog_Button_Login.Content" xml:space="preserve">
     <value>Belépés</value>
@@ -635,16 +632,16 @@
     <value>Felhasználónév</value>
   </data>
   <data name="Minigame_Selector_Dialog_Cooldown.Description" xml:space="preserve">
-    <value>Lehűtés aktív.</value>
+    <value>Napi limit aktív.</value>
   </data>
   <data name="Minigame_Selector_Dialog_Emoji.Header" xml:space="preserve">
-    <value>Keresse meg a 🎉</value>
+    <value>Keresse meg a 🎉-t</value>
   </data>
   <data name="Minigame_Selector_Dialog_Title" xml:space="preserve">
     <value>Válassz egy minijátékot</value>
   </data>
   <data name="MyProfile_AccountBalance.Header" xml:space="preserve">
-    <value>Számlaegyenleg</value>
+    <value>Egyenleg</value>
   </data>
   <data name="MyProfile_AccountRole.Header" xml:space="preserve">
     <value>Fiók szerepkör</value>
@@ -656,7 +653,7 @@
     <value>Válassz egy avatart</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Válasszon ki egy szalaghirdetést</value>
+    <value>Válasszon ki egy bannert</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Title.Text" xml:space="preserve">
     <value>Banner testreszabása</value>
@@ -668,7 +665,7 @@
     <value>Böngésszen a bannerek között</value>
   </data>
   <data name="MyProfile_Card_AccountInfo.Header" xml:space="preserve">
-    <value>Számlainformáció</value>
+    <value>Fiókformáció</value>
   </data>
   <data name="MyProfile_Card_Avatar.Header" xml:space="preserve">
     <value>Válassz egy avatart</value>
@@ -698,7 +695,7 @@
     <value>Fiók testreszabása</value>
   </data>
   <data name="MyProfile_Group_General.Header" xml:space="preserve">
-    <value>Tábornok</value>
+    <value>Általános</value>
   </data>
   <data name="MyProfile_InfoBar_FreeMode.Title" xml:space="preserve">
     <value>Az ingyenes mód előfizetés aktív.</value>
@@ -710,7 +707,7 @@
     <value>Nézd meg az üzletet</value>
   </data>
   <data name="MyProfileDesc.Text" xml:space="preserve">
-    <value>Szabja testre profilját, hogy kiemelkedjen. Nyerj NautaCoinokat, vásárolj avatarokat és bannereket az üzletből, és mutasd meg a chat 💬 oldalon!</value>
+    <value>Szabja testre profilját, hogy kiemelkedjen. Nyerj NautaCoinokat, vásárolj avatarokat és bannereket az üzletből, és mutasd meg a chat 💬 szobában!</value>
   </data>
   <data name="MyProfileTitle.Text" xml:space="preserve">
     <value>A fiókom</value>
@@ -955,44 +952,20 @@
   <data name="Shell_Store_Title.Text" xml:space="preserve">
     <value>Bolt</value>
   </data>
-  <data name="Shell_UserDropDown_Admin.Text" xml:space="preserve">
-    <value>Admin</value>
-  </data>
   <data name="Shell_UserDropDown_AppSettings.Text" xml:space="preserve">
     <value>Alkalmazás beállítások</value>
   </data>
   <data name="Shell_UserDropDown_BrowseStore.Text" xml:space="preserve">
     <value>Böngésszen az áruházban</value>
   </data>
-  <data name="Shell_UserDropDown_BugFinder.Text" xml:space="preserve">
-    <value>Hibakereső</value>
-  </data>
-  <data name="Shell_UserDropDown_Contributor.Text" xml:space="preserve">
-    <value>Hozzájáruló</value>
-  </data>
-  <data name="Shell_UserDropDown_Developer.Text" xml:space="preserve">
-    <value>Fejlesztő</value>
-  </data>
-  <data name="Shell_UserDropDown_Donator.Text" xml:space="preserve">
-    <value>Adományozó</value>
-  </data>
   <data name="Shell_UserDropDown_EarnPoints.Text" xml:space="preserve">
-    <value>Szerezz NautaCoins</value>
+    <value>Szerezz NautaCoin-t</value>
   </data>
   <data name="Shell_UserDropDown_MyAccount.Text" xml:space="preserve">
     <value>A fiókom</value>
   </data>
   <data name="Shell_UserDropDown_SignOut.Text" xml:space="preserve">
     <value>Kijelentkezés</value>
-  </data>
-  <data name="Shell_UserDropDown_Tester.Text" xml:space="preserve">
-    <value>Vizsgáló</value>
-  </data>
-  <data name="Shell_UserDropDown_User.Text" xml:space="preserve">
-    <value>Felhasználó</value>
-  </data>
-  <data name="Shell_UserDropDown_VIP.Text" xml:space="preserve">
-    <value>VIP</value>
   </data>
   <data name="Search_Games_Hint.PlaceholderText" xml:space="preserve">
     <value>Játékok keresése</value>
