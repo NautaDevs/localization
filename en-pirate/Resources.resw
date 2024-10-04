@@ -484,9 +484,6 @@
   <data name="Dialog_Button_Close.Content" xml:space="preserve">
     <value>Close</value>
   </data>
-  <data name="Dialog_Button_Next.Content" xml:space="preserve">
-    <value>Next</value>
-  </data>
   <data name="Dialog_Button_Save.Content" xml:space="preserve">
     <value>Save</value>
   </data>
@@ -961,26 +958,11 @@
   <data name="Shell_Store_Title.Text" xml:space="preserve">
     <value>Store</value>
   </data>
-  <data name="Shell_UserDropDown_Admin.Text" xml:space="preserve">
-    <value>Admin</value>
-  </data>
   <data name="Shell_UserDropDown_AppSettings.Text" xml:space="preserve">
     <value>Application settings</value>
   </data>
   <data name="Shell_UserDropDown_BrowseStore.Text" xml:space="preserve">
     <value>Browse store</value>
-  </data>
-  <data name="Shell_UserDropDown_BugFinder.Text" xml:space="preserve">
-    <value>Bug finder</value>
-  </data>
-  <data name="Shell_UserDropDown_Contributor.Text" xml:space="preserve">
-    <value>Contributor</value>
-  </data>
-  <data name="Shell_UserDropDown_Developer.Text" xml:space="preserve">
-    <value>Developer</value>
-  </data>
-  <data name="Shell_UserDropDown_Donator.Text" xml:space="preserve">
-    <value>Donator</value>
   </data>
   <data name="Shell_UserDropDown_EarnPoints.Text" xml:space="preserve">
     <value>Earn NautaCoins</value>
@@ -990,15 +972,6 @@
   </data>
   <data name="Shell_UserDropDown_SignOut.Text" xml:space="preserve">
     <value>Sign out</value>
-  </data>
-  <data name="Shell_UserDropDown_Tester.Text" xml:space="preserve">
-    <value>Tester</value>
-  </data>
-  <data name="Shell_UserDropDown_User.Text" xml:space="preserve">
-    <value>Land lover</value>
-  </data>
-  <data name="Shell_UserDropDown_VIP.Text" xml:space="preserve">
-    <value>VIP</value>
   </data>
   <data name="Search_Games_Hint.PlaceholderText" xml:space="preserve">
     <value>Search games</value>
