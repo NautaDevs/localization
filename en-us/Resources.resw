@@ -416,7 +416,7 @@
     <value>Achievements</value>
   </data>
   <data name="Dashboard_New_Changelogs.Text" xml:space="preserve">
-    <value>Changelogs</value>
+    <value>Release notes for</value>
   </data>
   <data name="Dashboard_New_MOTD.Text" xml:space="preserve">
     <value>Message of the day</value>
@@ -1026,6 +1026,9 @@
   </data>
   <data name="Splash_Status_Update.Text" xml:space="preserve">
     <value>New update available!</value>
+  </data>
+  <data name="Splash_Status_Downloading.Text" xml:space="preserve">
+    <value>Downloading</value>
   </data>
   <data name="Store_Filter_All.Content" xml:space="preserve">
     <value>All</value>

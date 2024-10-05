@@ -416,7 +416,7 @@
     <value>Eredmények</value>
   </data>
   <data name="Dashboard_New_Changelogs.Text" xml:space="preserve">
-    <value>Változásnaplók</value>
+    <value>Kiadási megjegyzések a</value>
   </data>
   <data name="Dashboard_New_MOTD.Text" xml:space="preserve">
     <value>A nap üzenete</value>
@@ -1020,6 +1020,9 @@
   </data>
   <data name="Splash_Status_Update.Text" xml:space="preserve">
     <value>Új frissítés elérhető!</value>
+  </data>
+  <data name="Splash_Status_Downloading.Text" xml:space="preserve">
+    <value>Letöltés</value>
   </data>
   <data name="Store_Filter_All.Content" xml:space="preserve">
     <value>Minden</value>

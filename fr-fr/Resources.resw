@@ -418,7 +418,7 @@
     <value>Trophées</value>
   </data>
   <data name="Dashboard_New_Changelogs.Text" xml:space="preserve">
-    <value>Notes de mise à jour</value>
+    <value>Notes de version pour</value>
   </data>
   <data name="Dashboard_New_MOTD.Text" xml:space="preserve">
     <value>Le message du jour</value>
@@ -1022,6 +1022,9 @@
   </data>
   <data name="Splash_Status_Update.Text" xml:space="preserve">
     <value>Nouvelle mise à jour disponible!</value>
+  </data>
+  <data name="Splash_Status_Downloading.Text" xml:space="preserve">
+    <value>Téléchargement</value>
   </data>
   <data name="Store_Filter_All.Content" xml:space="preserve">
     <value>Tout</value>
