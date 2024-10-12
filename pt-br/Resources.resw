@@ -238,6 +238,12 @@
   <data name="Application_Card_Sounds.Header" xml:space="preserve">
     <value>Sons</value>
   </data>
+  <data name="Application_Card_ProcessMem.Header" xml:space="preserve">
+    <value>Memória de Processo</value>
+  </data>
+  <data name="Application_Card_CPUMem.Header" xml:space="preserve">
+    <value>Memória CPU</value>
+  </data>
   <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
     <value>Logo animada</value>
   </data>
@@ -362,7 +368,7 @@
     <value>Selecione um padrão</value>
   </data>
   <data name="Dashboard_Banner_Title.Text" xml:space="preserve">
-    <value>Controle sua experiência com</value>
+    <value>Controle sua experiência com {App-LibraryMenu}</value>
   </data>
   <data name="Dashboard_Group_New.Header" xml:space="preserve">
     <value>O que há de novo</value>
@@ -377,40 +383,40 @@
     <value>Jogue ZBR hoje!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_11.Text" xml:space="preserve">
-    <value>ssnobaby!</value>
+    <value>{App-Helper2}!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_12.Text" xml:space="preserve">
-    <value>https://nautaexternal.dev</value>
+    <value>{App-Website}</value>
   </data>
   <data name="Dashboard_HeaderMOTD_13.Text" xml:space="preserve">
     <value>Confira nossos Devlogs no YouTube!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_14.Text" xml:space="preserve">
-    <value>Acorda logo, amor, o NautaExternal acabou de lançar.</value>
+    <value>Acorda logo, amor, o {App-Name} acabou de lançar.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_2.Text" xml:space="preserve">
-    <value>Nauta-Good tool.</value>
+    <value>{App-NameShort}-Good tool.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_3.Text" xml:space="preserve">
-    <value>ItsFebiven esteve aqui.</value>
+    <value>{App-Dev2} esteve aqui.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_4.Text" xml:space="preserve">
-    <value>candy esteve aqui.</value>
+    <value>{App-Dev1} esteve aqui.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_5.Text" xml:space="preserve">
     <value>Desculpe pelos atrasos! 🤐</value>
   </data>
   <data name="Dashboard_HeaderMOTD_6.Text" xml:space="preserve">
-    <value>Feito com 💸 por candy.</value>
+    <value>Feito com 💸 por {App-Dev1}.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_7.Text" xml:space="preserve">
-    <value>O que aconteceu com a loja do Infinity Loader?</value>
+    <value>O que aconteceu com a loja do {IL}?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_8.Text" xml:space="preserve">
-    <value>Você já ouviu falar do Infinity Loader 2.0??</value>
+    <value>Você já ouviu falar do {IL} 2.0??</value>
   </data>
   <data name="Dashboard_HeaderMOTD_9.Text" xml:space="preserve">
-    <value>Ei, o que está acontecendo pessoal, -SeriousHD aqui.</value>
+    <value>Ei, o que está acontecendo pessoal, {App-Helper1} aqui.</value>
   </data>
   <data name="Dashboard_New_Achievements.Text" xml:space="preserve">
     <value>Conquistas</value>
@@ -620,7 +626,7 @@
     <value>Cadastre-se</value>
   </data>
   <data name="Login_Dialog_Button_Register_Info.Text" xml:space="preserve">
-    <value>Novo no</value>
+    <value>Novo no {App-Name}</value>
   </data>
   <data name="Login_Dialog_ForgotPassword.Content" xml:space="preserve">
     <value>Esqueceu sua senha?</value>

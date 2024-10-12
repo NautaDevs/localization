@@ -238,6 +238,12 @@
   <data name="Application_Card_Sounds.Header" xml:space="preserve">
     <value>Hangok</value>
   </data>
+  <data name="Application_Card_ProcessMem.Header" xml:space="preserve">
+    <value>Process Memory</value>
+  </data>
+  <data name="Application_Card_CPUMem.Header" xml:space="preserve">
+    <value>CPU Memory</value>
+  </data>
   <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
     <value>Animált logó</value>
   </data>
@@ -362,7 +368,7 @@
     <value>Válasszon ki egy mintát</value>
   </data>
   <data name="Dashboard_Banner_Title.Text" xml:space="preserve">
-    <value>Használd még ma:</value>
+    <value>Használd még ma: {App-LibraryMenu}</value>
   </data>
   <data name="Dashboard_Group_New.Header" xml:space="preserve">
     <value>Újdonságok</value>
@@ -377,40 +383,40 @@
     <value>Játssz a ZBR-vel még ma!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_11.Text" xml:space="preserve">
-    <value>ssnobaby!</value>
+    <value>{App-Helper2}!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_12.Text" xml:space="preserve">
-    <value>https://nautaexternal.dev</value>
+    <value>{App-Website}</value>
   </data>
   <data name="Dashboard_HeaderMOTD_13.Text" xml:space="preserve">
     <value>Tekintse meg Devlogjainkat a YouTube-on!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_14.Text" xml:space="preserve">
-    <value>Ébredj a picsába csajszi, a NautaExternal most leesett.</value>
+    <value>Ébredj a picsába csajszi, a {App-Name} most leesett.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_2.Text" xml:space="preserve">
-    <value>Nauta-Jó eszköz.</value>
+    <value>{App-NameShort}-Jó eszköz.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_3.Text" xml:space="preserve">
-    <value>ItsFebiven itt volt.</value>
+    <value>{App-Dev2} itt volt.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_4.Text" xml:space="preserve">
-    <value>candy itt volt.</value>
+    <value>{App-Dev1} itt volt.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_5.Text" xml:space="preserve">
     <value>Elnézést a késésekért! 🤐</value>
   </data>
   <data name="Dashboard_HeaderMOTD_6.Text" xml:space="preserve">
-    <value>💸-val készült, cukorka.</value>
+    <value>💸-val készült, {App-Dev1}.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_7.Text" xml:space="preserve">
-    <value>Mi történt az Infinity Loader üzlettel?</value>
+    <value>Mi történt az {IL} üzlettel?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_8.Text" xml:space="preserve">
-    <value>Hallottál már az Infinity Loader 2.0-ról?</value>
+    <value>Hallottál már az {IL} 2.0-ról?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_9.Text" xml:space="preserve">
-    <value>Jaj, mi folyik itt srácok, -SeriousHD itt.</value>
+    <value>Jaj, mi folyik itt srácok, {App-Helper1} itt.</value>
   </data>
   <data name="Dashboard_New_Achievements.Text" xml:space="preserve">
     <value>Eredmények</value>
@@ -620,7 +626,7 @@
     <value>Regisztráció</value>
   </data>
   <data name="Login_Dialog_Button_Register_Info.Text" xml:space="preserve">
-    <value>Új</value>
+    <value>Új a {App-Name}-nál</value>
   </data>
   <data name="Login_Dialog_ForgotPassword.Content" xml:space="preserve">
     <value>Elfelejtette a jelszavát?</value>
