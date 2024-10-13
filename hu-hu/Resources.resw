@@ -80,7 +80,7 @@
     <value>Közreműködők</value>
   </data>
   <data name="About_Dependencies.Header" xml:space="preserve">
-    <value>Függőségek és hivatkozások</value>
+    <value>Dependenciák</value>
   </data>
   <data name="About_Developers.Header" xml:space="preserve">
     <value>Fejlesztők</value>
@@ -110,13 +110,13 @@
     <value>Dokumentáció</value>
   </data>
   <data name="About_PageLink_Donate.Text" xml:space="preserve">
-    <value>Adományoz</value>
+    <value>Adományozás</value>
   </data>
   <data name="About_Version.Text" xml:space="preserve">
     <value>Változat</value>
   </data>
   <data name="AboutDesc.Text" xml:space="preserve">
-    <value>A egy elegáns és hatékony módosító eszköz, amelynek célja, hogy a PC-re elérhető legkifinomultabb Call of Duty csalószoftver legyen. Amellett, hogy lenyűgöző felhasználói felülettel rendelkezik, amely más modding programokon nem található meg, tele van olyan funkciókkal is, amelyeket más külső eszközök nem biztosítanak. 💗-val készítette a Nauta Dev Team.</value>
+    <value>egy elegáns és hatékony módosító eszköz, amelynek célja, hogy a PC-re elérhető legkifinomultabb Call of Duty csalószoftver legyen. Amellett, hogy lenyűgöző felhasználói felülettel rendelkezik, amely más modoló programokon nem található meg, tele van olyan funkciókkal is, amelyeket más külső eszközök nem biztosítanak. 💗-vel készítette a Nauta Dev Team.</value>
   </data>
   <data name="AboutTitle.Text" xml:space="preserve">
     <value>Az appról.</value>
@@ -140,7 +140,7 @@
     <value>Mica alt</value>
   </data>
   <data name="Appearance_Border_Accent" xml:space="preserve">
-    <value>Hangsúly</value>
+    <value>Akkcentus</value>
   </data>
   <data name="Appearance_Border_Accent_Secondary" xml:space="preserve">
     <value>Másodlagos akcentus</value>
@@ -239,10 +239,10 @@
     <value>Hangok</value>
   </data>
   <data name="Application_Card_ProcessMem.Header" xml:space="preserve">
-    <value>Process Memory</value>
+    <value>Applikáció Memória</value>
   </data>
   <data name="Application_Card_CPUMem.Header" xml:space="preserve">
-    <value>CPU Memory</value>
+    <value>CPU Memória</value>
   </data>
   <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
     <value>Animált logó</value>
@@ -269,7 +269,7 @@
     <value>Minimalizált</value>
   </data>
   <data name="AppNotificationMinimizedDescription" xml:space="preserve">
-    <value>minimalizálva lett a tálcán. További lehetőségekért kattintson a jobb gombbal.</value>
+    <value>Minimalizálva lett a tálcán. További lehetőségekért kattintson a jobb egér gombbal.</value>
   </data>
   <data name="AppNotificationMinimizedHint" xml:space="preserve">
     <value>Ezt a funkciót a beállításokban tilthatja le.</value>
@@ -290,7 +290,7 @@
     <value>A hibajelentést privátban elküldtük a fejlesztőknek</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Wait" xml:space="preserve">
-    <value>A közelmúltban már küldtél jelentést. Kérjük, várjon néhány percet.</value>
+    <value>Már küldtél jelentést. Kérjük, várjon néhány percet.</value>
   </data>
   <data name="BugReport_Dialog_State" xml:space="preserve">
     <value>Probléma bejelentése</value>
@@ -344,7 +344,7 @@
     <value>Másodlagos szín</value>
   </data>
   <data name="CustomTheme_Theme.Header" xml:space="preserve">
-    <value>Előnyben részesített téma</value>
+    <value>Téma</value>
   </data>
   <data name="Dashboard_Banner_Button_More.Text" xml:space="preserve">
     <value>Tekintse meg a könyvtárat</value>
@@ -368,7 +368,7 @@
     <value>Válasszon ki egy mintát</value>
   </data>
   <data name="Dashboard_Banner_Title.Text" xml:space="preserve">
-    <value>Használd még ma: {App-LibraryMenu}</value>
+    <value>Irányísd az elményed a {App-LibraryMenu}-al</value>
   </data>
   <data name="Dashboard_Group_New.Header" xml:space="preserve">
     <value>Újdonságok</value>
@@ -377,52 +377,52 @@
     <value>Élő statisztika</value>
   </data>
   <data name="Dashboard_HeaderMOTD_1.Text" xml:space="preserve">
-    <value>Több alkalmazástervezés, mint a Leafized gsc menüje. 😏</value>
+    <value>Több alkalmazás dizájn, mint Leafized gsc menüi. 😏</value>
   </data>
   <data name="Dashboard_HeaderMOTD_10.Text" xml:space="preserve">
-    <value>Játssz a ZBR-vel még ma!</value>
+    <value>Játssz a ZBR-el még ma!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_11.Text" xml:space="preserve">
-    <value>{App-Helper2}!</value>
+    <value>ssnobaby!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_12.Text" xml:space="preserve">
-    <value>{App-Website}</value>
+    <value>https://nautaexternal.dev</value>
   </data>
   <data name="Dashboard_HeaderMOTD_13.Text" xml:space="preserve">
     <value>Tekintse meg Devlogjainkat a YouTube-on!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_14.Text" xml:space="preserve">
-    <value>Ébredj a picsába csajszi, a {App-Name} most leesett.</value>
+    <value>Ébredj fel csajszi, a NautaExternal most droppolt.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_2.Text" xml:space="preserve">
-    <value>{App-NameShort}-Jó eszköz.</value>
+    <value>Nauta-Jó eszköz.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_3.Text" xml:space="preserve">
-    <value>{App-Dev2} itt volt.</value>
+    <value>ItsFebiven itt volt.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_4.Text" xml:space="preserve">
-    <value>{App-Dev1} itt volt.</value>
+    <value>candy itt volt.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_5.Text" xml:space="preserve">
     <value>Elnézést a késésekért! 🤐</value>
   </data>
   <data name="Dashboard_HeaderMOTD_6.Text" xml:space="preserve">
-    <value>💸-val készült, {App-Dev1}.</value>
+    <value>Készítette 💸-el candy.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_7.Text" xml:space="preserve">
-    <value>Mi történt az {IL} üzlettel?</value>
+    <value>Mi történt az Infinity Loader-el?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_8.Text" xml:space="preserve">
-    <value>Hallottál már az {IL} 2.0-ról?</value>
+    <value>Hallottál az Infinity Loader 2.0-ról?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_9.Text" xml:space="preserve">
-    <value>Jaj, mi folyik itt srácok, {App-Helper1} itt.</value>
+    <value>Mi a helyzet srácok, -SeriousHD itt van.</value>
   </data>
   <data name="Dashboard_New_Achievements.Text" xml:space="preserve">
     <value>Eredmények</value>
   </data>
   <data name="Dashboard_New_Changelogs.Text" xml:space="preserve">
-    <value>Kiadási megjegyzések a</value>
+    <value>Változtatások</value>
   </data>
   <data name="Dashboard_New_MOTD.Text" xml:space="preserve">
     <value>A nap üzenete</value>
@@ -491,7 +491,7 @@
     <value>Bezárás</value>
   </data>
   <data name="Dialog_Button_Save.Content" xml:space="preserve">
-    <value>Megment</value>
+    <value>Mentés</value>
   </data>
   <data name="Dialog_Button_Send.Content" xml:space="preserve">
     <value>Küld</value>
@@ -533,7 +533,7 @@
     <value>Felület</value>
   </data>
   <data name="Guideline_Dialog_Actions.Text" xml:space="preserve">
-    <value>A szabályok elfogadásával és a chatben való részvétellel Ön beleegyezik a szabályok betartásába. Felhívjuk figyelmét, hogy ezek a szabályok és irányelvek bármikor módosulhatnak. Ezenkívül fenntartjuk a jogot a megfelelő lépések megtételére, ha bármely szabályt megsértenek, beleértve a csevegés elnémítását és a kitiltásokat.</value>
+    <value>A szabályok elfogadásával és a chatben való részvétellel ön beleegyezik a szabályok betartásába. Felhívjuk figyelmét, hogy ezek a szabályok és irányelvek bármikor módosulhatnak. Ezenkívül fenntartjuk a jogot a megfelelő lépések megtételére, ha bármely szabályt megsértene, beleértve a csevegése elnémítását és a kitiltását.</value>
   </data>
   <data name="Guideline_Dialog_Agreement.Header" xml:space="preserve">
     <value>Olvassa el és fogadja el a chat szabályait.</value>
@@ -569,13 +569,13 @@
     <value>Értesítések</value>
   </data>
   <data name="Help_Group_Inquiries.Header" xml:space="preserve">
-    <value>További érdeklődők? Csatlakozz a Discordhoz!</value>
+    <value>További kérdései vannak? Csatlakozz a Discordhoz!</value>
   </data>
   <data name="Help_Group_Shortcuts.Header" xml:space="preserve">
     <value>Parancsikonok</value>
   </data>
   <data name="HelpDesc.Text" xml:space="preserve">
-    <value>Segítségre van szüksége a dolgok megtalálásához? 🔍 Hátat kaptunk!</value>
+    <value>Segítségre van szüksége a dolgok megtalálásához? 🔍 Mi segítünk!</value>
   </data>
   <data name="HelpTitle.Text" xml:space="preserve">
     <value>Segítség</value>
@@ -626,7 +626,7 @@
     <value>Regisztráció</value>
   </data>
   <data name="Login_Dialog_Button_Register_Info.Text" xml:space="preserve">
-    <value>Új a {App-Name}-nál</value>
+    <value>Új a {App-Name}-nál </value>
   </data>
   <data name="Login_Dialog_ForgotPassword.Content" xml:space="preserve">
     <value>Elfelejtette a jelszavát?</value>
@@ -773,7 +773,7 @@
     <value>Először engedélyezni kell az alkalmazás hangjait</value>
   </data>
   <data name="NotificationsDesc.Text" xml:space="preserve">
-    <value>Tisztában vagyunk vele, hogy vannak esetek, amikor megszakítás nélküli összpontosításra van szüksége. Ideiglenesen elhalaszthatja vagy elnémíthatja az értesítéseket, így megszakítás nélküli munkameneteket vagy kikapcsolódást biztosít. Ha készen áll az újbóli csatlakozásra, értesítések várnak rád.</value>
+    <value>Tisztában vagyunk vele, hogy vannak esetek, amikor megszakítás nélküli koncentrálásra van szüksége. Ideiglenesen elhalaszthatja vagy elnémíthatja az értesítéseket, így megszakítás nélküli munkameneteket vagy pillanatnyi kikapcsolódást biztosít. Ha készen áll az újbóli csatlakozásra, az értesítések várni fognak rád.</value>
   </data>
   <data name="NotificationsTitle.Text" xml:space="preserve">
     <value>Értesítések</value>
@@ -791,7 +791,7 @@
     <value>A jelszavad sikeresen frissítve. Minden készen áll!</value>
   </data>
   <data name="Password_Save.Text" xml:space="preserve">
-    <value>Megment</value>
+    <value>Mentés</value>
   </data>
   <data name="Password_Status_Invalid.Text" xml:space="preserve">
     <value>Érvénytelen</value>
@@ -863,7 +863,7 @@
     <value>Licenckulcs</value>
   </data>
   <data name="Settings_About.Content" xml:space="preserve">
-    <value>Ról ről</value>
+    <value>Az appról</value>
   </data>
   <data name="Settings_About_State.Content" xml:space="preserve">
     <value>Olvasás kb</value>
@@ -923,7 +923,7 @@
     <value>Irányítópult</value>
   </data>
   <data name="Shell_Dashboard_State.Content" xml:space="preserve">
-    <value>Affichage du tableau de bord</value>
+    <value>Az Irányítópult megtekintése.</value>
   </data>
   <data name="Shell_Games.Content" xml:space="preserve">
     <value>Játékok</value>
@@ -989,10 +989,10 @@
     <value>Népszerűség</value>
   </data>
   <data name="Sorting_ComboBox_Price_HighLow.Content" xml:space="preserve">
-    <value>Ár Magastól Alacsonyig</value>
+    <value>Magas ártól alacsonyig</value>
   </data>
   <data name="Sorting_ComboBox_Price_LowHigh.Content" xml:space="preserve">
-    <value>Ár alacsonytól magasig</value>
+    <value>Alacsony ártól magasig</value>
   </data>
   <data name="Sorting_ComboBox_Relevance.Content" xml:space="preserve">
     <value>Relevancia</value>
@@ -1013,7 +1013,7 @@
     <value>Hitelesítés inicializálása...</value>
   </data>
   <data name="Splash_Status_Wizard.Text" xml:space="preserve">
-    <value>A telepítő varázsló befejezése...</value>
+    <value>A telepítő varázsló bezárása...</value>
   </data>
   <data name="Splash_Status_Login.Text" xml:space="preserve">
     <value>Felhasználói bejelentkezésre vár...</value>
@@ -1028,7 +1028,7 @@
     <value>Új frissítés elérhető!</value>
   </data>
   <data name="Splash_Status_Downloading.Text" xml:space="preserve">
-    <value>Letöltés</value>
+    <value>Letöltés...</value>
   </data>
   <data name="Store_Filter_All.Content" xml:space="preserve">
     <value>Minden</value>
@@ -1043,7 +1043,7 @@
     <value>Tulajdonos</value>
   </data>
   <data name="Store_Purchase" xml:space="preserve">
-    <value>vásárolt</value>
+    <value>Vásárolt</value>
   </data>
   <data name="Store_Purchase_Error" xml:space="preserve">
     <value>Hiba történt a vásárlás során</value>
