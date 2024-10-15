@@ -1,0 +1,1087 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="_LanguageName" xml:space="preserve">
+    <value>Deutsch</value>
+  </data>
+  <data name="Tray_Show.Text" xml:space="preserve">
+    <value>Anzeigen</value>
+  </data>
+  <data name="Tray_Discord.Text" xml:space="preserve">
+    <value>Tritt dem Discord bei</value>
+  </data>
+  <data name="Tray_Exit.Text" xml:space="preserve">
+    <value>Beenden</value>
+  </data>
+  <data name="About_Card.Text" xml:space="preserve">
+    <value>Alle Rechte vorbehalten.</value>
+  </data>
+  <data name="About_ColorPalette.Header" xml:space="preserve">
+    <value>Farbenpalette</value>
+  </data>
+  <data name="About_Contributors.Header" xml:space="preserve">
+    <value>Mitwirkende</value>
+  </data>
+  <data name="About_Dependencies.Header" xml:space="preserve">
+    <value>Abhängigkeiten  &amp; Verweise</value>
+  </data>
+  <data name="About_Developers.Header" xml:space="preserve">
+    <value>Entwickler</value>
+  </data>
+  <data name="About_PageLink_BugReport.Text" xml:space="preserve">
+    <value>Einen Fehler melden</value>
+  </data>
+  <data name="About_PageLink_Discord.Text" xml:space="preserve">
+    <value>Discord</value>
+  </data>
+  <data name="About_PageLink_Feedback.Text" xml:space="preserve">
+    <value>Feedback senden</value>
+  </data>
+  <data name="About_PageLink_RequestFeature.Text" xml:space="preserve">
+    <value>Funktion anfordern</value>
+  </data>
+  <data name="About_PageLink_Search.Text" xml:space="preserve">
+    <value>Nach Funktionen suchen</value>
+  </data>
+  <data name="About_PageLink_Website.Text" xml:space="preserve">
+    <value>Webseite</value>
+  </data>
+  <data name="About_PageLink_YouTube.Text" xml:space="preserve">
+    <value>YouTube</value>
+  </data>
+  <data name="About_PageLink_Docs.Text" xml:space="preserve">
+    <value>Dokumentation</value>
+  </data>
+  <data name="About_PageLink_Donate.Text" xml:space="preserve">
+    <value>Spenden</value>
+  </data>
+  <data name="About_Version.Text" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="AboutDesc.Text" xml:space="preserve">
+    <value>ist ein elegantes und leistungsstarkes Modding-Tool, das darauf abzielt, die ausgeklügeltste Call of Duty-Cheat-Software für PC zu sein. Neben einer beeindruckenden Benutzeroberfläche, die Sie in anderen Modding-Programmen nicht finden werden, bietet es auch zahlreiche Funktionen, die andere externe Tools nicht bereitstellen. Hergestellt mit 💗 vom Nauta Dev Team.</value>
+  </data>
+  <data name="AboutTitle.Text" xml:space="preserve">
+    <value>Über</value>
+  </data>
+  <data name="AppDisplayBuild.Text" xml:space="preserve">
+    <value>Alpha</value>
+  </data>
+  <data name="Appearance_Backdrop_Acrylic" xml:space="preserve">
+    <value>Desktop Akryl</value>
+  </data>
+  <data name="Appearance_Backdrop_Acrylic_Base" xml:space="preserve">
+    <value>Akryl Basis</value>
+  </data>
+  <data name="Appearance_Backdrop_Acrylic_Thin" xml:space="preserve">
+    <value>Dünnes Akryl</value>
+  </data>
+  <data name="Appearance_Backdrop_Mica" xml:space="preserve">
+    <value>Mica</value>
+  </data>
+  <data name="Appearance_Backdrop_MicaAlt" xml:space="preserve">
+    <value>Mica alt</value>
+  </data>
+  <data name="Appearance_Border_Accent" xml:space="preserve">
+    <value>Akzent</value>
+  </data>
+  <data name="Appearance_Border_Accent_Secondary" xml:space="preserve">
+    <value>Akzent sekundär</value>
+  </data>
+  <data name="Appearance_Border_Default" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="Appearance_Border_Dialog.Title" xml:space="preserve">
+    <value>Rahmeneinstellungen</value>
+  </data>
+  <data name="Appearance_Border_Rainbow" xml:space="preserve">
+    <value>Regenbogen</value>
+  </data>
+  <data name="Appearance_CreateTheme.Text" xml:space="preserve">
+    <value>Neu erstellen</value>
+  </data>
+  <data name="Appearance_ImportTheme.Text" xml:space="preserve">
+    <value>Thema importieren</value>
+  </data>
+  <data name="Appearance_ImportTheme_Hint" xml:space="preserve">
+    <value>Erfolgreich importiert</value>
+  </data>
+  <data name="Appearance_ExportTheme.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Thema exportieren</value>
+  </data>
+  <data name="Appearance_ExportTheme_Hint" xml:space="preserve">
+    <value>Erfolgreich exportiert nach</value>
+  </data>
+  <data name="Appearance_DeleteTheme.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Thema löschen</value>
+  </data>
+  <data name="Appearance_Group_Backdrop.Header" xml:space="preserve">
+    <value>Hintergrund</value>
+  </data>
+  <data name="Appearance_Group_Border.Header" xml:space="preserve">
+    <value>Rahmen</value>
+  </data>
+  <data name="Appearance_Group_MyThemes.Header" xml:space="preserve">
+    <value>Meine Themen</value>
+  </data>
+  <data name="Appearance_Group_Theme.Header" xml:space="preserve">
+    <value>Thema</value>
+  </data>
+  <data name="Appearance_Theme_Dark.Content" xml:space="preserve">
+    <value>Dunkel</value>
+  </data>
+  <data name="Appearance_Theme_Dark.Text" xml:space="preserve">
+    <value>Dunkel</value>
+  </data>
+  <data name="Appearance_Theme_Forest" xml:space="preserve">
+    <value>Blasen</value>
+  </data>
+  <data name="Appearance_Theme_Glacier" xml:space="preserve">
+    <value>Gletscher</value>
+  </data>
+  <data name="Appearance_Theme_Light.Content" xml:space="preserve">
+    <value>Hell</value>
+  </data>
+  <data name="Appearance_Theme_Light.Text" xml:space="preserve">
+    <value>Hell</value>
+  </data>
+  <data name="Appearance_Theme_Solitary" xml:space="preserve">
+    <value>Einsamer Entdecker</value>
+  </data>
+  <data name="Appearance_Theme_Submerged" xml:space="preserve">
+    <value>Unterwasser</value>
+  </data>
+  <data name="Appearance_Theme_System" xml:space="preserve">
+    <value>Systemeinstellungen verwenden</value>
+  </data>
+  <data name="AppearanceDesc.Text" xml:space="preserve">
+    <value>Wählen Sie aus einer Vielzahl von ansprechenden Themen 🎨, die Ihren Vorlieben entsprechen. Genießen Sie ein Browsing-Erlebnis in einer Umgebung, die Ihre Persönlichkeit widerspiegelt.</value>
+  </data>
+  <data name="AppearanceTitle.Text" xml:space="preserve">
+    <value>Erscheinungsbild</value>
+  </data>
+  <data name="Application_Card_AlwaysOnTop.Header" xml:space="preserve">
+    <value>Immer im Vordergrund</value>
+  </data>
+  <data name="Application_Card_CloseToTray.Header" xml:space="preserve">
+    <value>Im Systembereich minimieren</value>
+  </data>
+  <data name="Application_Card_Discord.Description" xml:space="preserve">
+    <value>In deiner Discord Aktivität anzeigen.</value>
+  </data>
+  <data name="Application_Card_Discord.Header" xml:space="preserve">
+    <value>Discord Rich Presence</value>
+  </data>
+  <data name="Application_Card_DiscordLogoAnim.Description" xml:space="preserve">
+    <value>Zwischen animiertem und statischem Logo wechseln.</value>
+  </data>
+  <data name="Application_Card_Sounds.Description" xml:space="preserve">
+    <value>Steuerelemente geben akustisches Feedback.</value>
+  </data>
+  <data name="Application_Card_Sounds.Header" xml:space="preserve">
+    <value>Sounds</value>
+  </data>
+  <data name="Application_Card_ProcessMem.Header" xml:space="preserve">
+    <value>Prozess Speicher</value>
+  </data>
+  <data name="Application_Card_CPUMem.Header" xml:space="preserve">
+    <value>CPU Speicher</value>
+  </data>
+  <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
+    <value>Animiertes Logo</value>
+  </data>
+  <data name="Application_Group_Behavior.Header" xml:space="preserve">
+    <value>Verhalten</value>
+  </data>
+  <data name="Application_Group_Window.Header" xml:space="preserve">
+    <value>Fensteroptionen</value>
+  </data>
+  <data name="Application_InfoBar_Language.Title" xml:space="preserve">
+    <value>Bei einigen lokalisierten Zeichenketten kann ein Neustart erforderlich sein, damit sie ordnungsgemäß geladen werden.</value>
+  </data>
+  <data name="Application_Language.Header" xml:space="preserve">
+    <value>Sprache</value>
+  </data>
+  <data name="ApplicationDesc.Text" xml:space="preserve">
+    <value>Schöpfen Sie das wahre Potenzial aus, indem Sie Ihre Einstellungen personalisieren. Wählen Sie Ihre bevorzugte Sprache und Fensteroptionen aus, um ein Erlebnis zu gewährleisten, das zu Ihnen passt, wo immer Sie sich auf der Welt befinden 🌍.</value>
+  </data>
+  <data name="ApplicationTitle.Text" xml:space="preserve">
+    <value>Application</value>
+  </data>
+  <data name="AppNotificationMinimizedTitle" xml:space="preserve">
+    <value>Minimiert</value>
+  </data>
+  <data name="AppNotificationMinimizedDescription" xml:space="preserve">
+    <value>wurde in die Taskleiste minimiert. Klicken Sie mit der rechten Maustaste für weitere Optionen.</value>
+  </data>
+  <data name="AppNotificationMinimizedHint" xml:space="preserve">
+    <value>Sie können diese Funktion in den Einstellungen deaktivieren.</value>
+  </data>
+  <data name="AppNotificationMinimizedHintButton" xml:space="preserve">
+    <value>Einstellungen öffnen</value>
+  </data>
+  <data name="AppSearchHint.PlaceholderText" xml:space="preserve">
+    <value>Finde Spiele, Bibliotheks mods, Shopartikel und mehr</value>
+  </data>
+  <data name="BugReport_Dialog_ComboBox_Page.Text" xml:space="preserve">
+    <value>Wo ist dieses Problem aufgetreten?</value>
+  </data>
+  <data name="BugReport_Dialog_ComboBox_Unsure.Content" xml:space="preserve">
+    <value>Unsicher</value>
+  </data>
+  <data name="BugReport_Dialog_InfoBar_Sent" xml:space="preserve">
+    <value>Fehlerbericht privat an die Entwickler geschickt</value>
+  </data>
+  <data name="BugReport_Dialog_InfoBar_Wait" xml:space="preserve">
+    <value>Sie haben kürzlich bereits einen Bericht gesendet. Bitte warten Sie ein paar Minuten.</value>
+  </data>
+  <data name="BugReport_Dialog_State" xml:space="preserve">
+    <value>Meldung eines Fehlers</value>
+  </data>
+  <data name="BugReport_Dialog_TextBox_Description.PlaceholderText" xml:space="preserve">
+    <value>Beschreibung</value>
+  </data>
+  <data name="BugReport_Dialog_TextBox_Title.PlaceholderText" xml:space="preserve">
+    <value>Titel</value>
+  </data>
+  <data name="BugReport_Dialog_Title" xml:space="preserve">
+    <value>Einen Fehler melden</value>
+  </data>
+  <data name="Chat_Guidelines.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Richtlinien</value>
+  </data>
+  <data name="Chat_Informational_ReadMe.Text" xml:space="preserve">
+    <value>Richtlinien vor dem Chatten lesen</value>
+  </data>
+  <data name="Chat_Members_Online.Text" xml:space="preserve">
+    <value>Mitglieder online</value>
+  </data>
+  <data name="Chat_MembersList_Hide.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Mitgliederliste ausblenden</value>
+  </data>
+  <data name="Chat_MembersList_Show.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Mitgliederliste anzeigen</value>
+  </data>
+  <data name="Chat_MessageBox.PlaceholderText" xml:space="preserve">
+    <value>Nachricht #general-chat</value>
+  </data>
+  <data name="CustomTheme_Background_Opacity.Text" xml:space="preserve">
+    <value>Deckkraft des Hintergrundbildes</value>
+  </data>
+  <data name="CustomTheme_Background_Url.PlaceholderText" xml:space="preserve">
+    <value>Hintergrundbild url</value>
+  </data>
+  <data name="CustomTheme_Dialog.Title" xml:space="preserve">
+    <value>Ein benutzerdefiniertes Thema erstellen</value>
+  </data>
+  <data name="CustomTheme_Name.Header" xml:space="preserve">
+    <value>Thema Name</value>
+  </data>
+  <data name="CustomTheme_Name.PlaceholderText" xml:space="preserve">
+    <value>Mein Thema</value>
+  </data>
+  <data name="CustomTheme_Primary.Text" xml:space="preserve">
+    <value>Primäre Farbe</value>
+  </data>
+  <data name="CustomTheme_Secondary.Text" xml:space="preserve">
+    <value>Sekundärfarbe</value>
+  </data>
+  <data name="CustomTheme_Theme.Header" xml:space="preserve">
+    <value>Bevorzugtes Thema</value>
+  </data>
+  <data name="Dashboard_Banner_Button_More.Text" xml:space="preserve">
+    <value>Bibliothek ansehen</value>
+  </data>
+  <data name="Dashboard_Banner_Button_Use.Text" xml:space="preserve">
+    <value>Jetzt verwenden</value>
+  </data>
+  <data name="Dashboard_Banner_Settings_Flyout.Text" xml:space="preserve">
+    <value>Banner Einstellungen</value>
+  </data>
+  <data name="Dashboard_Banner_Settings_Flyout.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Banner Einstellungen</value>
+  </data>
+  <data name="Dashboard_Banner_Settings_Flyout_AnimSpeed.Text" xml:space="preserve">
+    <value>Animationsgeschwindigkeit</value>
+  </data>
+  <data name="Dashboard_Banner_Settings_Flyout_AnimSpeedDefault.Text" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="Dashboard_Banner_Settings_Flyout_PatternSelect.Text" xml:space="preserve">
+    <value>Wählen Sie ein Muster</value>
+  </data>
+  <data name="Dashboard_Banner_Title.Text" xml:space="preserve">
+    <value>Kontrollieren Sie Ihr Erlebnis mit {App-LibraryMenu}</value>
+  </data>
+  <data name="Dashboard_Group_New.Header" xml:space="preserve">
+    <value>Was gibt es Neues?</value>
+  </data>
+  <data name="Dashboard_Group_Stats.Header" xml:space="preserve">
+    <value>Live Statistik</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_1.Text" xml:space="preserve">
+    <value>Mehr App Designs als gsc-Menüs von Leafized. 😏</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_10.Text" xml:space="preserve">
+    <value>Spielen Sie heute ZBR!</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_11.Text" xml:space="preserve">
+    <value>{App-Helper2}!</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_12.Text" xml:space="preserve">
+    <value>{App-Website}</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_13.Text" xml:space="preserve">
+    <value>Besuchen Sie unsere Devlogs auf YouTube!</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_14.Text" xml:space="preserve">
+    <value>Wach verdammt noch mal auf, Babe, {App-Name} ist gerade erschienen.</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_2.Text" xml:space="preserve">
+    <value>{App-NameShort}-Gutes Tool.</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_3.Text" xml:space="preserve">
+    <value>{App-Dev2} war hier.</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_4.Text" xml:space="preserve">
+    <value>{App-Dev1} war hier.</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_5.Text" xml:space="preserve">
+    <value>Entschuldigung für die Verzögerungen! 🤐</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_6.Text" xml:space="preserve">
+    <value>Erstellt mit 💸 von {App-Dev1}.</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_7.Text" xml:space="preserve">
+    <value>Was ist mit dem {IL} Laden passiert?</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_8.Text" xml:space="preserve">
+    <value>Haben Sie schon von {IL} 2.0?</value>
+  </data>
+  <data name="Dashboard_HeaderMOTD_9.Text" xml:space="preserve">
+    <value>Yo, was ist los Leute, {App-Helper1} hier.</value>
+  </data>
+  <data name="Dashboard_New_Achievements.Text" xml:space="preserve">
+    <value>Errungenschaften</value>
+  </data>
+  <data name="Dashboard_New_Changelogs.Text" xml:space="preserve">
+    <value>Versionshinweise für</value>
+  </data>
+  <data name="Dashboard_New_MOTD.Text" xml:space="preserve">
+    <value>Nachricht des Tages</value>
+  </data>
+  <data name="Dashboard_Stats_LibraryUses.Text" xml:space="preserve">
+    <value>Bibliothek verwendet</value>
+  </data>
+  <data name="Dashboard_Stats_Online.Text" xml:space="preserve">
+    <value>Online</value>
+  </data>
+  <data name="Dashboard_Stats_PointsEarned.Text" xml:space="preserve">
+    <value>Verdiente Punkte</value>
+  </data>
+  <data name="Dashboard_Stats_PointsSpent.Text" xml:space="preserve">
+    <value>Verwendete Punkte</value>
+  </data>
+  <data name="Dashboard_Stats_StorePurchases.Text" xml:space="preserve">
+    <value>Einkäufe im Shop</value>
+  </data>
+  <data name="Dashboard_Stats_Users.Text" xml:space="preserve">
+    <value>Benutzer</value>
+  </data>
+  <data name="Dashboard_Tile_Discord.Description" xml:space="preserve">
+    <value>Treten Sie dem offiziellen Discord Server bei.</value>
+  </data>
+  <data name="Dashboard_Tile_Discord.Title" xml:space="preserve">
+    <value>Discord server</value>
+  </data>
+  <data name="Dashboard_Tile_GettingStarted.Description" xml:space="preserve">
+    <value>Ein Überblick über die Funktionsweise.</value>
+  </data>
+  <data name="Dashboard_Tile_GettingStarted.Title" xml:space="preserve">
+    <value>Erste Schritte</value>
+  </data>
+  <data name="Dashboard_Tile_Stripe.Description" xml:space="preserve">
+    <value>Helfen Sie mit einer Spende mit, dass es kostenlos bleibt.</value>
+  </data>
+  <data name="Dashboard_Tile_Stripe.Title" xml:space="preserve">
+    <value>Streifenspenden</value>
+  </data>
+  <data name="Dashboard_Tile_Trello.Description" xml:space="preserve">
+    <value>Halten Sie sich über geplante Funktionen auf dem Laufenden &amp; updates.</value>
+  </data>
+  <data name="Dashboard_Tile_Trello.Title" xml:space="preserve">
+    <value>Trello board</value>
+  </data>
+  <data name="Dashboard_Tile_Website.Description" xml:space="preserve">
+    <value>Besuchen Sie unsere Website!</value>
+  </data>
+  <data name="Dashboard_Tile_Website.Title" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="Dashboard_Tile_YouTube.Description" xml:space="preserve">
+    <value>Sehen Sie sich unsere Devlogs an.</value>
+  </data>
+  <data name="Dashboard_Tile_YouTube.Title" xml:space="preserve">
+    <value>YouTube Kanal</value>
+  </data>
+  <data name="Dialog_Button_Agree.Content" xml:space="preserve">
+    <value>ch stimme zu</value>
+  </data>
+  <data name="Dialog_Button_Buy.Text" xml:space="preserve">
+    <value>Kauf für</value>
+  </data>
+  <data name="Dialog_Button_Close.Content" xml:space="preserve">
+    <value>Schließen</value>
+  </data>
+  <data name="Dialog_Button_Save.Content" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="Dialog_Button_Send.Content" xml:space="preserve">
+    <value>Senden</value>
+  </data>
+  <data name="Dialog_Button_Back.Content" xml:space="preserve">
+    <value>Zurück</value>
+  </data>
+  <data name="Dialog_Button_Next.Content" xml:space="preserve">
+    <value>Weiter</value>
+  </data>
+  <data name="Dialog_Button_Start.Content" xml:space="preserve">
+    <value>Los geht's</value>
+  </data>
+  <data name="Dialog_Button_Update.Content" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="DiscordRPC_Button_Server" xml:space="preserve">
+    <value>Discord Server</value>
+  </data>
+  <data name="DiscordRPC_Button_Website" xml:space="preserve">
+    <value>Webseite</value>
+  </data>
+  <data name="Feedback_Dialog_Title" xml:space="preserve">
+    <value>Feedback senden</value>
+  </data>
+  <data name="Feedback_Dialog_State" xml:space="preserve">
+    <value>Feedback austauschen</value>
+  </data>
+  <data name="Search_Dialog_State" xml:space="preserve">
+    <value>Suche</value>
+  </data>
+  <data name="Filters_Button.Text" xml:space="preserve">
+    <value>Filter</value>
+  </data>
+  <data name="Games_ComingSoon.Text" xml:space="preserve">
+    <value>Demnächst</value>
+  </data>
+  <data name="Games_Platform.Text" xml:space="preserve">
+    <value>Plattform</value>
+  </data>
+  <data name="Guideline_Dialog_Actions.Text" xml:space="preserve">
+    <value>Indem Sie diese Regeln akzeptieren und an diesem Chat teilnehmen, erklären Sie sich damit einverstanden, dass Sie an diese Regeln gebunden sind. Bitte beachten Sie, dass diese Regeln und Richtlinien jederzeit geändert werden können. Außerdem behalten wir uns das Recht vor, bei Verstößen gegen die Regeln entsprechende Maßnahmen zu ergreifen, einschließlich der Stummschaltung des Chats und der Sperrung.</value>
+  </data>
+  <data name="Guideline_Dialog_Agreement.Header" xml:space="preserve">
+    <value>Lesen und akzeptieren Sie die Chatregeln.</value>
+  </data>
+  <data name="Guideline_Dialog_Title" xml:space="preserve">
+    <value>Bevor du chatten kannst...</value>
+  </data>
+  <data name="Guideline_Rule_1_Info.Description" xml:space="preserve">
+    <value>Belästigungen, Hexenjagden, Sexismus, Rassismus und Hassreden werden in keiner Weise geduldet.</value>
+  </data>
+  <data name="Guideline_Rule_1_Title.Text" xml:space="preserve">
+    <value>Sei respektvoll</value>
+  </data>
+  <data name="Guideline_Rule_2_Info.Description" xml:space="preserve">
+    <value>Keine altersbeschränkten oder obszönen Inhalte. Dazu gehören Text-, Bild- und Videolinks, die Nacktheit, Sex, harte Gewalt oder andere verstörende grafische Inhalte enthalten.</value>
+  </data>
+  <data name="Guideline_Rule_2_Title.Text" xml:space="preserve">
+    <value>Keine NSFW Inhalte</value>
+  </data>
+  <data name="Guideline_Rule_3_Info.Description" xml:space="preserve">
+    <value>Kein Spam oder Werbung (Discord Server Links, Werbung, etc.).</value>
+  </data>
+  <data name="Guideline_Rule_3_Title.Text" xml:space="preserve">
+    <value>Kein Spam oder Werbung</value>
+  </data>
+  <data name="Help_Card_Hotkeys.Header" xml:space="preserve">
+    <value>Hotkeys</value>
+  </data>
+  <data name="Help_Card_Search.Header" xml:space="preserve">
+    <value>Suche</value>
+  </data>
+  <data name="Help_Card_Notifications.Header" xml:space="preserve">
+    <value>Benachrichtigungen</value>
+  </data>
+  <data name="Help_Group_Inquiries.Header" xml:space="preserve">
+    <value>Mehr Anfragen? Treten Sie dem Discord bei!</value>
+  </data>
+  <data name="Help_Group_Shortcuts.Header" xml:space="preserve">
+    <value>Shortcuts</value>
+  </data>
+  <data name="HelpDesc.Text" xml:space="preserve">
+    <value>Brauchen Sie Hilfe bei der Suche nach Dingen? 🔍 Wir sind für Sie da!</value>
+  </data>
+  <data name="HelpTitle.Text" xml:space="preserve">
+    <value>Hilfe</value>
+  </data>
+  <data name="Library_Most_Popular.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Am beliebtesten</value>
+  </data>
+  <data name="Library_Author.Text" xml:space="preserve">
+    <value>Autor</value>
+  </data>
+  <data name="Library_Game.Text" xml:space="preserve">
+    <value>Spiel</value>
+  </data>
+  <data name="Library_Settings.Header" xml:space="preserve">
+    <value>Projekt Einstellungen</value>
+  </data>
+  <data name="Library_Settings_Gamemode.Header" xml:space="preserve">
+    <value>Spielmodus auswählen</value>
+  </data>
+  <data name="Library_Settings_Platform.Header" xml:space="preserve">
+    <value>Plattform wählen</value>
+  </data>
+  <data name="Library_Inject.Text" xml:space="preserve">
+    <value>Injizieren</value>
+  </data>
+  <data name="Library_InjectionCount.Text" xml:space="preserve">
+    <value>Injektionen</value>
+  </data>
+  <data name="Library_LastUpdateDate.Text" xml:space="preserve">
+    <value>Letzte Aktualisierung am</value>
+  </data>
+  <data name="Library_Showcase.Content" xml:space="preserve">
+    <value>Ausstellung</value>
+  </data>
+  <data name="Library_Unload.Text" xml:space="preserve">
+    <value>Entladen</value>
+  </data>
+  <data name="Library_Version.Header" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="Login_Dialog.Title" xml:space="preserve">
+    <value>Willkommen bei</value>
+  </data>
+  <data name="Login_Dialog_Button_Login.Content" xml:space="preserve">
+    <value>Anmeldung</value>
+  </data>
+  <data name="Login_Dialog_Button_Register.Content" xml:space="preserve">
+    <value>Registrieren</value>
+  </data>
+  <data name="Login_Dialog_Button_Register_Info.Text" xml:space="preserve">
+    <value>Neu bei{App-Name}</value>
+  </data>
+  <data name="Login_Dialog_ForgotPassword.Content" xml:space="preserve">
+    <value>Haben Sie Ihr Passwort vergessen?</value>
+  </data>
+  <data name="Login_Dialog_Password.PlaceholderText" xml:space="preserve">
+    <value>Geben Sie Ihr Passwort ein</value>
+  </data>
+  <data name="Login_Dialog_Username.PlaceholderText" xml:space="preserve">
+    <value>Benutzername</value>
+  </data>
+  <data name="Minigame_Selector_Dialog_Cooldown" xml:space="preserve">
+    <value>Abklingzeit aktiv.</value>
+  </data>
+  <data name="Minigame_Selector_Dialog_Emoji.Header" xml:space="preserve">
+    <value>Finde die 🎉</value>
+  </data>
+  <data name="Minigame_Selector_Dialog_Runner.Header" xml:space="preserve">
+    <value>Endloser Läufer</value>
+  </data>
+  <data name="Minigame_Runner_JumpHint.Text" xml:space="preserve">
+    <value>Springen</value>
+  </data>
+  <data name="Minigame_Runner_GameOver.Text" xml:space="preserve">
+    <value>Spiel vorbei</value>
+  </data>
+  <data name="Minigame_Selector_Dialog_Title" xml:space="preserve">
+    <value>Wählen Sie ein Minispiel</value>
+  </data>
+  <data name="MyProfile_AccountBalance.Header" xml:space="preserve">
+    <value>Kontostand</value>
+  </data>
+  <data name="MyProfile_AccountRole.Header" xml:space="preserve">
+    <value>Kontorolle</value>
+  </data>
+  <data name="MyProfile_Avatar_Flyout_Group_Select.Text" xml:space="preserve">
+    <value>Einen Avatar auswählen</value>
+  </data>
+  <data name="MyProfile_Avatar_Flyout_Title.Text" xml:space="preserve">
+    <value>Avatar anpassen</value>
+  </data>
+  <data name="MyProfile_Banner_Flyout_Group_Select.Text" xml:space="preserve">
+    <value>Wählen Sie ein Banner</value>
+  </data>
+  <data name="MyProfile_Banner_Flyout_Title.Text" xml:space="preserve">
+    <value>Banner Anpassung</value>
+  </data>
+  <data name="MyProfile_Button_Avatar.Content" xml:space="preserve">
+    <value>Avatare suchen</value>
+  </data>
+  <data name="MyProfile_Button_Banner.Content" xml:space="preserve">
+    <value>Banner durchsuchen</value>
+  </data>
+  <data name="MyProfile_Card_AccountInfo.Header" xml:space="preserve">
+    <value>Konto Informationen</value>
+  </data>
+  <data name="MyProfile_Card_Avatar.Header" xml:space="preserve">
+    <value>Wähle einen Avatar</value>
+  </data>
+  <data name="MyProfile_Card_Banner.Header" xml:space="preserve">
+    <value>Wählen Sie ein Banner</value>
+  </data>
+  <data name="MyProfile_Card_CreationDate.Header" xml:space="preserve">
+    <value>Datum der Kontoerstellung</value>
+  </data>
+  <data name="MyProfile_Card_SignInOptions.Header" xml:space="preserve">
+    <value>Anmeldeoptionen</value>
+  </data>
+  <data name="MyProfile_Card_Subscription.Header" xml:space="preserve">
+    <value>Abo</value>
+  </data>
+  <data name="MyProfile_Card_TimeOnline.Header" xml:space="preserve">
+    <value>Online verbrachte Zeit</value>
+  </data>
+  <data name="MyProfile_Checkbox_AutoLogin.Content" xml:space="preserve">
+    <value>Automatische Anmeldung</value>
+  </data>
+  <data name="MyProfile_Checkbox_RememberMe.Content" xml:space="preserve">
+    <value>Mich merken</value>
+  </data>
+  <data name="MyProfile_Group_Customization.Header" xml:space="preserve">
+    <value>Kontoanpassung</value>
+  </data>
+  <data name="MyProfile_Group_General.Header" xml:space="preserve">
+    <value>Allgemein</value>
+  </data>
+  <data name="MyProfile_InfoBar_FreeMode.Title" xml:space="preserve">
+    <value>Das Abo für den kostenlosen Modus ist aktiv.</value>
+  </data>
+  <data name="MyProfile_InfoBar_Updated.Title" xml:space="preserve">
+    <value>Konto erfolgreich aktualisiert.</value>
+  </data>
+  <data name="MyProfile_PageLink_Store.Text" xml:space="preserve">
+    <value>Den Shop ansehen</value>
+  </data>
+  <data name="MyProfileDesc.Text" xml:space="preserve">
+    <value>Passe dein Profil an, um aufzufallen. Gewinne NautaCoins, um Avatare und Banner im Shop zu kaufen und im Chat 💬 zu zeigen!</value>
+  </data>
+  <data name="MyProfileTitle.Text" xml:space="preserve">
+    <value>Mein Konto</value>
+  </data>
+  <data name="ConnectionsDesc.Text" xml:space="preserve">
+    <value>Zeigen Sie Ihre Discord-Aktivitäten an oder stellen Sie eine Verbindung zu Ihrer PlayStation 4 her, um Bibliotheksinhalte auf Konsolen zu nutzen! 🎮</value>
+  </data>
+  <data name="ConnectionsTitle.Text" xml:space="preserve">
+    <value>Verbindungen</value>
+  </data>
+  <data name="Notifications_Card_Chat.Description" xml:space="preserve">
+    <value>Popup Benachrichtigung, wenn eine neue Chat-Nachricht gesendet wird.</value>
+  </data>
+  <data name="Notifications_Card_Chat.Text" xml:space="preserve">
+    <value>Neue Nachrichtenbenachrichtigungen</value>
+  </data>
+  <data name="Notifications_Card_InfoBar.Description" xml:space="preserve">
+    <value>Diese Einstellung ist für einige Benachrichtigungen erforderlich.</value>
+  </data>
+  <data name="Notifications_Card_InfoBar.Text" xml:space="preserve">
+    <value>Informationelle Benachrichtigungen</value>
+  </data>
+  <data name="Notifications_Card_Minimized.Description" xml:space="preserve">
+    <value>Erhalten Sie eine Benachrichtigung in der Taskleiste, wenn die Anwendung minimiert wird.</value>
+  </data>
+  <data name="Notifications_Card_Minimized.Text" xml:space="preserve">
+    <value>Minimierte Benachrichtigungen</value>
+  </data>
+  <data name="Notifications_Card_Session.Description" xml:space="preserve">
+    <value>Erhalten Sie verschiedene In-App Benachrichtigungen.</value>
+  </data>
+  <data name="Notifications_Card_Session.Text" xml:space="preserve">
+    <value>Sitzungsbenachrichtigungen</value>
+  </data>
+  <data name="Notifications_CheckBox_Sounds.Content" xml:space="preserve">
+    <value>Sound abspielen</value>
+  </data>
+  <data name="Notifications_ComboBox_Everytime.Content" xml:space="preserve">
+    <value>Jedesmal</value>
+  </data>
+  <data name="Notifications_ComboBox_Never.Content" xml:space="preserve">
+    <value>Niemals</value>
+  </data>
+  <data name="Notifications_ComboBox_Once.Content" xml:space="preserve">
+    <value>Einmal</value>
+  </data>
+  <data name="Notifications_Empty_Hint.Text" xml:space="preserve">
+    <value>Es ist leer hier drinnen... ☹️</value>
+  </data>
+  <data name="Notifications_Group_InApp.Header" xml:space="preserve">
+    <value>In-App</value>
+  </data>
+  <data name="Notifications_Group_Windows.Header" xml:space="preserve">
+    <value>Windows</value>
+  </data>
+  <data name="Notifications_Hyperlink_Error.Title" xml:space="preserve">
+    <value>Anwendungstöne müssen zuerst aktiviert werden</value>
+  </data>
+  <data name="NotificationsDesc.Text" xml:space="preserve">
+    <value>Wir wissen, dass es Zeiten gibt, in denen Sie ununterbrochene Konzentration brauchen. Sie können Benachrichtigungen vorübergehend in den Schlummermodus versetzen oder stumm schalten, damit Sie ungestörte Sitzungen oder Momente der Entspannung haben. Wenn Sie wieder bereit sind, sich zu verbinden, warten die Benachrichtigungen auf Sie.</value>
+  </data>
+  <data name="NotificationsTitle.Text" xml:space="preserve">
+    <value>Benachrichtigungen</value>
+  </data>
+  <data name="Password_Card_Update.Text" xml:space="preserve">
+    <value>Passwort aktualisieren</value>
+  </data>
+  <data name="Password_Card_Update_Info.Text" xml:space="preserve">
+    <value>Wenn Sie Ihr Passwort ändern, werden Sie automatisch abgemeldet und müssen sich erneut anmelden.</value>
+  </data>
+  <data name="Password_InfoBar_Empty.Title" xml:space="preserve">
+    <value>Warten Sie! Ihr neues Passwort kann nicht leer sein. Bitte geben Sie Ihr neues Passwort ein.</value>
+  </data>
+  <data name="Password_InfoBar_Invalid.Title" xml:space="preserve">
+    <value>Oops! Ihr neues Passwort ist ungültig. Bitte machen Sie Ihr Passwort einzigartig.</value>
+  </data>
+  <data name="Password_InfoBar_Same.Title" xml:space="preserve">
+    <value>Oops! Ihr neues Passwort kann nicht mit dem alten identisch sein. Bitte wählen Sie ein neues, einzigartiges Passwort.</value>
+  </data>
+  <data name="Password_InfoBar_Updated.Title" xml:space="preserve">
+    <value>Ihr Passwort wurde erfolgreich aktualisiert. Sie sind bereit!</value>
+  </data>
+  <data name="Password_Save.Text" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="Password_Status_Invalid.Text" xml:space="preserve">
+    <value>Ungültig</value>
+  </data>
+  <data name="Password_Status_Medium.Text" xml:space="preserve">
+    <value>Mittel</value>
+  </data>
+  <data name="Password_Status_Strong.Text" xml:space="preserve">
+    <value>Stark</value>
+  </data>
+  <data name="Password_Status_Weak.Text" xml:space="preserve">
+    <value>Schwach</value>
+  </data>
+  <data name="PasswordDesc.Text" xml:space="preserve">
+    <value>Hast du dein Passwort vergessen? Stellen Sie eine Anfrage auf dem offiziellen Discord Server und wir werden das so schnell wie möglich für Sie beheben! 😁</value>
+  </data>
+  <data name="PasswordTitle.Text" xml:space="preserve">
+    <value>Passwort</value>
+  </data>
+  <data name="Pattern_Axiom" xml:space="preserve">
+    <value>Axiom</value>
+  </data>
+  <data name="Pattern_Cartographer" xml:space="preserve">
+    <value>Katograph</value>
+  </data>
+  <data name="Pattern_Diagmonds" xml:space="preserve">
+    <value>Diagmonds</value>
+  </data>
+  <data name="Pattern_Diamonds" xml:space="preserve">
+    <value>Diamanten</value>
+  </data>
+  <data name="Pattern_Geometry" xml:space="preserve">
+    <value>Geometrie</value>
+  </data>
+  <data name="Pattern_GPlay" xml:space="preserve">
+    <value>GPlay</value>
+  </data>
+  <data name="Pattern_Mosaic" xml:space="preserve">
+    <value>Mosaik</value>
+  </data>
+  <data name="Pattern_ScanLines" xml:space="preserve">
+    <value>Linien scannen</value>
+  </data>
+  <data name="Pattern_Stripes" xml:space="preserve">
+    <value>Streifen</value>
+  </data>
+  <data name="Progress_Dialog.Text" xml:space="preserve">
+    <value>Bitte warten</value>
+  </data>
+  <data name="Register_Dialog.Title" xml:space="preserve">
+    <value>Erstellen Sie ein neues Konto!</value>
+  </data>
+  <data name="Register_Dialog_Button_Login_Info.Text" xml:space="preserve">
+    <value>Haben Sie bereits ein Konto?</value>
+  </data>
+  <data name="Register_Dialog_ConfirmPassword.PlaceholderText" xml:space="preserve">
+    <value>Passwort bestätigen</value>
+  </data>
+  <data name="Register_Dialog_InfoBar_Empty" xml:space="preserve">
+    <value>Erforderliche Eingabewerte blieben leer.</value>
+  </data>
+  <data name="Register_Dialog_InfoBar_Match" xml:space="preserve">
+    <value>Die Passwörter stimmen nicht überein.</value>
+  </data>
+  <data name="Register_Dialog_InfoBar_Registered" xml:space="preserve">
+    <value>Konto erfolgreich registriert.</value>
+  </data>
+  <data name="Register_Dialog_LicenseKey.PlaceholderText" xml:space="preserve">
+    <value>Lizenzschlüssel</value>
+  </data>
+  <data name="Settings_About.Content" xml:space="preserve">
+    <value>Über</value>
+  </data>
+  <data name="Settings_About_State.Content" xml:space="preserve">
+    <value>Lesen über</value>
+  </data>
+  <data name="Settings_Appearance.Content" xml:space="preserve">
+    <value>Erscheinungsbild</value>
+  </data>
+  <data name="Settings_Appearance_State.Content" xml:space="preserve">
+    <value>Erscheinungsbild der Anwendung optimieren</value>
+  </data>
+  <data name="Settings_Application.Content" xml:space="preserve">
+    <value>Anwendung</value>
+  </data>
+  <data name="Settings_Application_State.Content" xml:space="preserve">
+    <value>Optimieren von Anwendungseinstellungen</value>
+  </data>
+  <data name="Settings_Connections.Content" xml:space="preserve">
+    <value>Verbindungen</value>
+  </data>
+  <data name="Settings_Connections_State.Content" xml:space="preserve">
+    <value>Optimieren von Verbindungseinstellungen</value>
+  </data>
+  <data name="Settings_Help.Content" xml:space="preserve">
+    <value>Hilfe</value>
+  </data>
+  <data name="Settings_Help_State.Content" xml:space="preserve">
+    <value>Anzeigen des Hilfecenters</value>
+  </data>
+  <data name="Settings_MyProfile.Content" xml:space="preserve">
+    <value>Mein Konto</value>
+  </data>
+  <data name="Settings_MyProfile_State.Content" xml:space="preserve">
+    <value>Konto bearbeiten</value>
+  </data>
+  <data name="Settings_Notifications.Content" xml:space="preserve">
+    <value>Benachrichtigungen</value>
+  </data>
+  <data name="Settings_Notifications_State.Content" xml:space="preserve">
+    <value>Benachrichtigungen bearbeiten</value>
+  </data>
+  <data name="Settings_Password.Content" xml:space="preserve">
+    <value>Passwort</value>
+  </data>
+  <data name="Settings_Password_State.Content" xml:space="preserve">
+    <value>Kontopasswort bearbeiten</value>
+  </data>
+  <data name="Shell_Chat.Content" xml:space="preserve">
+    <value>Chat</value>
+  </data>
+  <data name="Shell_Chat_State.Content" xml:space="preserve">
+    <value>Chatten mit Nutzern</value>
+  </data>
+  <data name="Shell_Chat_Title.Text" xml:space="preserve">
+    <value>Chat</value>
+  </data>
+  <data name="Shell_Dashboard.Content" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="Shell_Dashboard_State.Content" xml:space="preserve">
+    <value>Ansicht des Dashboards</value>
+  </data>
+  <data name="Shell_Games.Content" xml:space="preserve">
+    <value>Spiele</value>
+  </data>
+  <data name="Shell_Games_State.Content" xml:space="preserve">
+    <value>Auswahl der Spiele durchstöbern</value>
+  </data>
+  <data name="Shell_Games_Title.Text" xml:space="preserve">
+    <value>Spiele</value>
+  </data>
+  <data name="Shell_Library.Content" xml:space="preserve">
+    <value>Bibliothek</value>
+  </data>
+  <data name="Shell_Library_State.Content" xml:space="preserve">
+    <value>Durchsuchen nutzergenerierter Inhalte</value>
+  </data>
+  <data name="Shell_Library_Title.Text" xml:space="preserve">
+    <value>Bibliothek</value>
+  </data>
+  <data name="Shell_Search.PlaceholderText" xml:space="preserve">
+    <value>Suche</value>
+  </data>
+  <data name="Shell_Settings.Content" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
+  <data name="Shell_Store.Content" xml:space="preserve">
+    <value>Shop</value>
+  </data>
+  <data name="Shell_Store_State.Content" xml:space="preserve">
+    <value>Stöbern im Shop</value>
+  </data>
+  <data name="Shell_Store_Title.Text" xml:space="preserve">
+    <value>Shop</value>
+  </data>
+  <data name="Shell_UserDropDown_AppSettings.Text" xml:space="preserve">
+    <value>Anwendungseinstellungen</value>
+  </data>
+  <data name="Shell_UserDropDown_BrowseStore.Text" xml:space="preserve">
+    <value>Shop durchsuchen</value>
+  </data>
+  <data name="Shell_UserDropDown_EarnPoints.Text" xml:space="preserve">
+    <value>NautaCoins verdienen</value>
+  </data>
+  <data name="Shell_UserDropDown_MyAccount.Text" xml:space="preserve">
+    <value>Mein Konto</value>
+  </data>
+  <data name="Shell_UserDropDown_SignOut.Text" xml:space="preserve">
+    <value>Abmelden</value>
+  </data>
+  <data name="Search_Games_Hint.PlaceholderText" xml:space="preserve">
+    <value>Spiele suchen</value>
+  </data>
+  <data name="Search_Library_Hint.PlaceholderText" xml:space="preserve">
+    <value>Projekte suchen</value>
+  </data>
+  <data name="Search_Store_Hint.PlaceholderText" xml:space="preserve">
+    <value>Shop durchsuchen</value>
+  </data>
+  <data name="Sorting_ComboBox_Hint.PlaceholderText" xml:space="preserve">
+    <value>Sortieren nach</value>
+  </data>
+  <data name="Sorting_ComboBox_Popularity.Content" xml:space="preserve">
+    <value>Beliebtheit</value>
+  </data>
+  <data name="Sorting_ComboBox_Price_HighLow.Content" xml:space="preserve">
+    <value>Preis: Hoch bis niedrig</value>
+  </data>
+  <data name="Sorting_ComboBox_Price_LowHigh.Content" xml:space="preserve">
+    <value>Preis: Niedrig bis Hoch</value>
+  </data>
+  <data name="Sorting_ComboBox_Relevance.Content" xml:space="preserve">
+    <value>Relevanz</value>
+  </data>
+  <data name="Sorting_ComboBox_Title_AZ.Content" xml:space="preserve">
+    <value>Titel A-Z</value>
+  </data>
+  <data name="Sorting_ComboBox_Title_ZA.Content" xml:space="preserve">
+    <value>Titel Z-A</value>
+  </data>
+  <data name="Splash_Status_AuthFailed.Text" xml:space="preserve">
+    <value>Authentifizierung konnte nicht initialisiert werden</value>
+  </data>
+  <data name="Splash_Status_AuthSuccess.Text" xml:space="preserve">
+    <value>Verbunden mit Server.</value>
+  </data>
+  <data name="Splash_Status_Initializing.Text" xml:space="preserve">
+    <value>Authentifizierung wird gestartet...</value>
+  </data>
+  <data name="Splash_Status_Wizard.Text" xml:space="preserve">
+    <value>Vollständiger Einrichtungsassistent...</value>
+  </data>
+  <data name="Splash_Status_Login.Text" xml:space="preserve">
+    <value>Warten auf Benutzeranmeldung...</value>
+  </data>
+  <data name="Splash_Status_LoginSuccess.Text" xml:space="preserve">
+    <value>Einloggen in...</value>
+  </data>
+  <data name="Splash_Status_Resources.Text" xml:space="preserve">
+    <value>Erfassen von Benutzerinformationen...</value>
+  </data>
+  <data name="Splash_Status_Update.Text" xml:space="preserve">
+    <value>Neues Update verfügbar!</value>
+  </data>
+  <data name="Splash_Status_Downloading.Text" xml:space="preserve">
+    <value>Herunterladen</value>
+  </data>
+  <data name="Store_Filter_All.Content" xml:space="preserve">
+    <value>Alle</value>
+  </data>
+  <data name="Store_Filter_Avatars.Content" xml:space="preserve">
+    <value>Avatare</value>
+  </data>
+  <data name="Store_Filter_Banners.Content" xml:space="preserve">
+    <value>Banner</value>
+  </data>
+  <data name="Store_Owned.Text" xml:space="preserve">
+    <value>Besitz</value>
+  </data>
+  <data name="Store_Purchase" xml:space="preserve">
+    <value>gekauft</value>
+  </data>
+  <data name="Store_Purchase_Error" xml:space="preserve">
+    <value>Beim Kaufversuch ist ein Fehler aufgetreten</value>
+  </data>
+  <data name="TourGuide_Step1.Title" xml:space="preserve">
+    <value>Erste Schritte 🚀</value>
+  </data>
+  <data name="TourGuide_Step2.Title" xml:space="preserve">
+    <value>Wählen Sie Ihre bevorzugte Sprache</value>
+  </data>
+  <data name="TourGuide_Step3.Title" xml:space="preserve">
+    <value>Wählen Sie Ihr bevorzugtes Thema</value>
+  </data>
+  <data name="User_Login.Content" xml:space="preserve">
+    <value>Anmeldung</value>
+  </data>
+  <data name="User_Login_State.Content" xml:space="preserve">
+    <value>Einloggen</value>
+  </data>
+  <data name="User_Signup.Content" xml:space="preserve">
+    <value>Anmelden</value>
+  </data>
+  <data name="User_Signup_State.Content" xml:space="preserve">
+    <value>Konto einrichten</value>
+  </data>
+</root>
