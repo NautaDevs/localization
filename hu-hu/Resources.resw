@@ -637,11 +637,20 @@
   <data name="Login_Dialog_Username.PlaceholderText" xml:space="preserve">
     <value>Felhasználónév</value>
   </data>
-  <data name="Minigame_Selector_Dialog_Cooldown.Description" xml:space="preserve">
+  <data name="Minigame_Selector_Dialog_Cooldown" xml:space="preserve">
     <value>Napi limit aktív.</value>
   </data>
   <data name="Minigame_Selector_Dialog_Emoji.Header" xml:space="preserve">
     <value>Keresse meg a 🎉-t</value>
+  </data>
+  <data name="Minigame_Selector_Dialog_Runner.Header" xml:space="preserve">
+    <value>Végtelen futó</value>
+  </data>
+  <data name="Minigame_Runner_JumpHint.Text" xml:space="preserve">
+    <value>Ugrás</value>
+  </data>
+  <data name="Minigame_Runner_GameOver.Text" xml:space="preserve">
+    <value>Játék vége</value>
   </data>
   <data name="Minigame_Selector_Dialog_Title" xml:space="preserve">
     <value>Válassz egy minijátékot</value>

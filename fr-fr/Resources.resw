@@ -639,11 +639,20 @@
   <data name="Login_Dialog_Username.PlaceholderText" xml:space="preserve">
     <value>Nom d'utilisateur</value>
   </data>
-  <data name="Minigame_Selector_Dialog_Cooldown.Description" xml:space="preserve">
+  <data name="Minigame_Selector_Dialog_Cooldown" xml:space="preserve">
     <value>Recharge en cours.</value>
   </data>
   <data name="Minigame_Selector_Dialog_Emoji.Header" xml:space="preserve">
     <value>Trouvez le 🎉</value>
+  </data>
+  <data name="Minigame_Selector_Dialog_Runner.Header" xml:space="preserve">
+    <value>Coureur sans fin</value>
+  </data>
+  <data name="Minigame_Runner_JumpHint.Text" xml:space="preserve">
+    <value>Saut</value>
+  </data>
+  <data name="Minigame_Runner_GameOver.Text" xml:space="preserve">
+    <value>Jeu terminé</value>
   </data>
   <data name="Minigame_Selector_Dialog_Title" xml:space="preserve">
     <value>Sélectionnez un mini-jeu</value>

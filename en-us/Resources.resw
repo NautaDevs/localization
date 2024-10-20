@@ -637,11 +637,20 @@
   <data name="Login_Dialog_Username.PlaceholderText" xml:space="preserve">
     <value>Username</value>
   </data>
-  <data name="Minigame_Selector_Dialog_Cooldown.Description" xml:space="preserve">
+  <data name="Minigame_Selector_Dialog_Cooldown" xml:space="preserve">
     <value>Cooldown active.</value>
   </data>
   <data name="Minigame_Selector_Dialog_Emoji.Header" xml:space="preserve">
     <value>Find the 🎉</value>
+  </data>
+  <data name="Minigame_Selector_Dialog_Runner.Header" xml:space="preserve">
+    <value>Endless Runner</value>
+  </data>
+  <data name="Minigame_Runner_JumpHint.Text" xml:space="preserve">
+    <value>Jump</value>
+  </data>
+  <data name="Minigame_Runner_GameOver.Text" xml:space="preserve">
+    <value>Game Over</value>
   </data>
   <data name="Minigame_Selector_Dialog_Title" xml:space="preserve">
     <value>Select a minigame</value>
