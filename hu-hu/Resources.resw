@@ -244,6 +244,18 @@
   <data name="Application_Card_CPUMem.Header" xml:space="preserve">
     <value>CPU Memória</value>
   </data>
+   <data name="Application_Card_SystemInformation.Header" xml:space="preserve">
+    <value>Rendszerinformációk</value>
+  </data>
+  <data name="Application_Card_OSVersion.Header" xml:space="preserve">
+    <value>OS verzió</value>
+  </data>
+  <data name="Application_Card_ProcessID.Header" xml:space="preserve">
+    <value>Folyamatazonosító</value>
+  </data>
+  <data name="Application_Card_PrivilegedProcess.Header" xml:space="preserve">
+    <value>Kiváltságos eljárás</value>
+  </data>
   <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
     <value>Animált logó</value>
   </data>

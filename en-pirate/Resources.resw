@@ -244,6 +244,18 @@
   <data name="Application_Card_CPUMem.Header" xml:space="preserve">
     <value>CPU Memory</value>
   </data>
+  <data name="Application_Card_SystemInformation.Header" xml:space="preserve">
+    <value>System Information</value>
+  </data>
+  <data name="Application_Card_OSVersion.Header" xml:space="preserve">
+    <value>OS Version</value>
+  </data>
+  <data name="Application_Card_ProcessID.Header" xml:space="preserve">
+    <value>Process ID</value>
+  </data>
+  <data name="Application_Card_PrivilegedProcess.Header" xml:space="preserve">
+    <value>Privileged Process</value>
+  </data>
   <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
     <value>Animated logo</value>
   </data>
