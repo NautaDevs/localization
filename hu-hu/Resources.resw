@@ -388,6 +388,12 @@
   <data name="Dashboard_Group_Stats.Header" xml:space="preserve">
     <value>Élő statisztika</value>
   </data>
+  <data name="Dashboard_Group_More.Header" xml:space="preserve">
+    <value>Még több is</value>
+  </data>
+  <data name="Dashboard_More_Leaderboard.Text" xml:space="preserve">
+    <value>Ranglista</value>
+  </data>
   <data name="Dashboard_HeaderMOTD_1.Text" xml:space="preserve">
     <value>Több alkalmazás dizájn, mint Leafized gsc menüi. 😏</value>
   </data>
@@ -493,6 +499,9 @@
   <data name="Dashboard_Tile_YouTube.Title" xml:space="preserve">
     <value>YouTube csatorna</value>
   </data>
+  <data name="Dashboard_Tile_IL.Description" xml:space="preserve">
+    <value>Az egyetlen GSC fordító, amelyet az IW Engine-hez szabtak. Xboxon és PC-n támogatott.</value>
+  </data>
   <data name="Dialog_Button_Agree.Content" xml:space="preserve">
     <value>Egyetértek</value>
   </data>
@@ -519,6 +528,9 @@
   </data>
   <data name="Dialog_Button_Update.Content" xml:space="preserve">
     <value>Frissítés</value>
+  </data>
+  <data name="Dialog_Button_AYS.Content" xml:space="preserve">
+    <value>Biztos vagy benne?</value>
   </data>
   <data name="DiscordRPC_Button_Server" xml:space="preserve">
     <value>Discord szerver</value>
@@ -625,7 +637,7 @@
   <data name="Library_Unload.Text" xml:space="preserve">
     <value>Kitöltés</value>
   </data>
-  <data name="Library_Version.Header" xml:space="preserve">
+  <data name="Library_Version.Text" xml:space="preserve">
     <value>Változat</value>
   </data>
   <data name="Login_Dialog.Title" xml:space="preserve">
@@ -1008,6 +1020,9 @@
   </data>
   <data name="Sorting_ComboBox_Popularity.Content" xml:space="preserve">
     <value>Népszerűség</value>
+  </data>
+  <data name="Sorting_ComboBox_DateUpdated.Content" xml:space="preserve">
+    <value>Last updated</value>
   </data>
   <data name="Sorting_ComboBox_Price_HighLow.Content" xml:space="preserve">
     <value>Magas ártól alacsonyig</value>

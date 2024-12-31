@@ -390,6 +390,12 @@
   <data name="Dashboard_Group_Stats.Header" xml:space="preserve">
     <value>Statistiques en direct</value>
   </data>
+  <data name="Dashboard_Group_More.Header" xml:space="preserve">
+    <value>Encore plus</value>
+  </data>
+  <data name="Dashboard_More_Leaderboard.Text" xml:space="preserve">
+    <value>Classement</value>
+  </data>
   <data name="Dashboard_HeaderMOTD_1.Text" xml:space="preserve">
     <value>Plus de designs d'applications que les menus gsc de Leafized. 😏</value>
   </data>
@@ -495,6 +501,9 @@
   <data name="Dashboard_Tile_YouTube.Title" xml:space="preserve">
     <value>Chaîne Youtube</value>
   </data>
+  <data name="Dashboard_Tile_IL.Description" xml:space="preserve">
+    <value>Le seul compilateur GSC conçu pour le moteur IW. Pris en charge sur Xbox et PC.</value>
+  </data>
   <data name="Dialog_Button_Agree.Content" xml:space="preserve">
     <value>Je suis d'accord</value>
   </data>
@@ -521,6 +530,9 @@
   </data>
   <data name="Dialog_Button_Update.Content" xml:space="preserve">
     <value>Mise à jour</value>
+  </data>
+  <data name="Dialog_Button_AYS.Content" xml:space="preserve">
+    <value>Es-tu sûr?</value>
   </data>
   <data name="DiscordRPC_Button_Server" xml:space="preserve">
     <value>Serveur Discord</value>
@@ -627,7 +639,7 @@
   <data name="Library_Unload.Text" xml:space="preserve">
     <value>Retirer</value>
   </data>
-  <data name="Library_Version.Header" xml:space="preserve">
+  <data name="Library_Version.Text" xml:space="preserve">
     <value>Version</value>
   </data>
   <data name="Login_Dialog.Title" xml:space="preserve">
@@ -1010,6 +1022,9 @@
   </data>
   <data name="Sorting_ComboBox_Popularity.Content" xml:space="preserve">
     <value>Popularité</value>
+  </data>
+  <data name="Sorting_ComboBox_DateUpdated.Content" xml:space="preserve">
+    <value>Last updated</value>
   </data>
   <data name="Sorting_ComboBox_Price_HighLow.Content" xml:space="preserve">
     <value>Prix ​​​​ décroissant</value>
