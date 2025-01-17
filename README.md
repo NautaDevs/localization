@@ -4,6 +4,7 @@
 
 NautaExternal uses localization files to allow users to expierence NautaExternal in their own language no matter where they are in the world!
 
-<a href="https://nautaexternal.dev/discord">Discord</a> |
-<a href="https://nautaexternal.dev/roadmap">Trello</a> |
-<a href="https://nautaexternal.dev/youtube">YouTube</a>
+<a href="https://nautaexternal.dev/">Website</a> |
+<a href="https://nautaexternal.dev/docs">Docs</a> |
+<a href="https://nautaexternal.dev/release-notes">Release Notes</a> |
+<a href="https://nautaexternal.dev/roadmap">Roadmap</a>
