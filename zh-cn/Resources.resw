@@ -59,1062 +59,1062 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="_LanguageName" xml:space="preserve">
-    <value>English</value>
+    <value>Chinese</value>
   </data>
   <data name="Tray_Show.Text" xml:space="preserve">
-    <value>Show</value>
+    <value>展示</value>
   </data>
   <data name="Tray_Discord.Text" xml:space="preserve">
-    <value>Join the Discord</value>
+    <value>加入不和谐</value>
   </data>
   <data name="Tray_Exit.Text" xml:space="preserve">
-    <value>Exit</value>
+    <value>出口</value>
   </data>
   <data name="About_Card.Text" xml:space="preserve">
-    <value>All rights reserved.</value>
+    <value>版权所有。</value>
   </data>
   <data name="About_ColorPalette.Header" xml:space="preserve">
-    <value>Color palette</value>
+    <value>调色板</value>
   </data>
   <data name="About_Contributors.Header" xml:space="preserve">
-    <value>Contributors</value>
+    <value>贡献者</value>
   </data>
   <data name="About_Dependencies.Header" xml:space="preserve">
-    <value>Dependencies &amp; references</value>
+    <value>依赖关系和引用</value>
   </data>
   <data name="About_Developers.Header" xml:space="preserve">
-    <value>Developers</value>
+    <value>开发商</value>
   </data>
   <data name="About_PageLink_BugReport.Text" xml:space="preserve">
-    <value>Report a bug</value>
+    <value>报告错误</value>
   </data>
   <data name="About_PageLink_Discord.Text" xml:space="preserve">
-    <value>Discord</value>
+    <value>不和谐</value>
   </data>
   <data name="About_PageLink_Feedback.Text" xml:space="preserve">
-    <value>Send feeback</value>
+    <value>发送反馈</value>
   </data>
   <data name="About_PageLink_RequestFeature.Text" xml:space="preserve">
-    <value>Request a feature</value>
+    <value>请求功能</value>
   </data>
   <data name="About_PageLink_Search.Text" xml:space="preserve">
-    <value>Search for features</value>
+    <value>搜索功能</value>
   </data>
   <data name="About_PageLink_Website.Text" xml:space="preserve">
-    <value>Website</value>
+    <value>网站</value>
   </data>
   <data name="About_PageLink_YouTube.Text" xml:space="preserve">
     <value>YouTube</value>
   </data>
   <data name="About_PageLink_Docs.Text" xml:space="preserve">
-    <value>Documentation</value>
+    <value>文档</value>
   </data>
   <data name="About_PageLink_Donate.Text" xml:space="preserve">
-    <value>Donate</value>
+    <value>捐</value>
   </data>
   <data name="About_Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>版本</value>
   </data>
   <data name="AboutDesc.Text" xml:space="preserve">
-    <value>is an elegant and powerful modding tool that aims to be the most sophisticated Call of Duty cheating software available for PC. In addition to having a stunning user interface, which you won't find on any other modding programs, it is also jam-packed with features that other external tools don't provide. Made with 💗 by the Nauta Dev Team.</value>
+    <value>是一款优雅而强大的改装工具，旨在成为 PC 上最先进的《使命召唤》作弊软件。除了拥有在任何其他改装程序中都找不到的令人惊叹的用户界面之外，它还挤满了其他外部工具不提供的功能。由 Nauta 开发团队使用 💗 制作。</value>
   </data>
   <data name="AboutTitle.Text" xml:space="preserve">
-    <value>About</value>
+    <value>关于</value>
   </data>
   <data name="AppDisplayBuild.Text" xml:space="preserve">
-    <value>Alpha</value>
+    <value>阿尔法</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic" xml:space="preserve">
-    <value>Desktop acrylic</value>
+    <value>桌面亚克力</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic_Base" xml:space="preserve">
-    <value>Acrylic base</value>
+    <value>亚克力底座</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic_Thin" xml:space="preserve">
-    <value>Acrylic thin</value>
+    <value>亚克力薄</value>
   </data>
   <data name="Appearance_Backdrop_Mica" xml:space="preserve">
-    <value>Mica</value>
+    <value>云母</value>
   </data>
   <data name="Appearance_Backdrop_MicaAlt" xml:space="preserve">
-    <value>Mica alt</value>
+    <value>云母替代品</value>
   </data>
   <data name="Appearance_Border_Accent" xml:space="preserve">
-    <value>Accent</value>
+    <value>口音</value>
   </data>
   <data name="Appearance_Border_Accent_Secondary" xml:space="preserve">
-    <value>Accent secondary</value>
+    <value>口音次要</value>
   </data>
   <data name="Appearance_Border_Default" xml:space="preserve">
-    <value>Default</value>
+    <value>默认</value>
   </data>
   <data name="Appearance_Border_Dialog.Title" xml:space="preserve">
-    <value>Border settings</value>
+    <value>边框设置</value>
   </data>
   <data name="Appearance_Border_Rainbow" xml:space="preserve">
-    <value>Rainbow</value>
+    <value>彩虹</value>
   </data>
   <data name="Appearance_CreateTheme.Text" xml:space="preserve">
-    <value>Create new</value>
+    <value>创造新的</value>
   </data>
   <data name="Appearance_ImportTheme.Text" xml:space="preserve">
-    <value>Import theme</value>
+    <value>导入主题</value>
   </data>
   <data name="Appearance_ImportTheme_Hint" xml:space="preserve">
-    <value>Successfully imported</value>
+    <value>导入成功</value>
   </data>
   <data name="Appearance_ExportTheme.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Export theme</value>
+    <value>导出主题</value>
   </data>
   <data name="Appearance_ExportTheme_Hint" xml:space="preserve">
-    <value>Successfully exported to</value>
+    <value>成功导出到</value>
   </data>
   <data name="Appearance_DeleteTheme.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Delete theme</value>
+    <value>删除主题</value>
   </data>
   <data name="Appearance_Group_Backdrop.Header" xml:space="preserve">
-    <value>Backdrop</value>
+    <value>背景</value>
   </data>
   <data name="Appearance_Group_Border.Header" xml:space="preserve">
-    <value>Border</value>
+    <value>边界</value>
   </data>
   <data name="Appearance_Group_MyThemes.Header" xml:space="preserve">
-    <value>My themes</value>
+    <value>我的主题</value>
   </data>
   <data name="Appearance_Group_Theme.Header" xml:space="preserve">
-    <value>Theme</value>
+    <value>主题</value>
   </data>
   <data name="Appearance_Theme_Dark.Content" xml:space="preserve">
-    <value>Dark</value>
+    <value>黑暗的</value>
   </data>
   <data name="Appearance_Theme_Dark.Text" xml:space="preserve">
-    <value>Dark</value>
+    <value>黑暗的</value>
   </data>
   <data name="Appearance_Theme_Forest" xml:space="preserve">
-    <value>Bubbles</value>
+    <value>气泡</value>
   </data>
   <data name="Appearance_Theme_Glacier" xml:space="preserve">
-    <value>Glacier</value>
+    <value>冰川</value>
   </data>
   <data name="Appearance_Theme_Light.Content" xml:space="preserve">
-    <value>Light</value>
+    <value>光</value>
   </data>
   <data name="Appearance_Theme_Light.Text" xml:space="preserve">
-    <value>Light</value>
+    <value>光</value>
   </data>
   <data name="Appearance_Theme_Solitary" xml:space="preserve">
-    <value>Solitary explorer</value>
+    <value>孤独的探险家</value>
   </data>
   <data name="Appearance_Theme_Submerged" xml:space="preserve">
-    <value>Submerged</value>
+    <value>湮</value>
   </data>
   <data name="Appearance_Theme_System" xml:space="preserve">
-    <value>Use system preferences</value>
+    <value>使用系统偏好设置</value>
   </data>
   <data name="AppearanceDesc.Text" xml:space="preserve">
-    <value>Choose from a range of visually appealing themes 🎨 to match your preferences. Breeze through your browsing experience in an environment that reflects your personality.</value>
+    <value>从一系列具有视觉吸引力的主题中进行选择，以满足您的喜好。在体现您个性的环境中轻松享受浏览体验。</value>
   </data>
   <data name="AppearanceTitle.Text" xml:space="preserve">
-    <value>Appearance</value>
+    <value>外貌</value>
   </data>
   <data name="Application_Card_AlwaysOnTop.Header" xml:space="preserve">
-    <value>Always on top</value>
+    <value>始终位于顶部</value>
   </data>
   <data name="Application_Card_CloseToTray.Header" xml:space="preserve">
-    <value>Close to system tray</value>
+    <value>靠近系统托盘</value>
   </data>
   <data name="Application_Card_Discord.Description" xml:space="preserve">
-    <value>Display in your Discord activity.</value>
+    <value>显示在您的 Discord 活动中。</value>
   </data>
   <data name="Application_Card_Discord.Header" xml:space="preserve">
-    <value>Discord Rich Presence</value>
+    <value>不和谐丰富的存在</value>
   </data>
   <data name="Application_Card_DiscordLogoAnim.Description" xml:space="preserve">
-    <value>Toggle between an animated and static logo.</value>
+    <value>在动画和静态徽标之间切换。</value>
   </data>
   <data name="Application_Card_Sounds.Description" xml:space="preserve">
-    <value>Controls provide audible feedback.</value>
+    <value>控件提供声音反馈。</value>
   </data>
   <data name="Application_Card_Sounds.Header" xml:space="preserve">
-    <value>Sounds</value>
+    <value>声音</value>
   </data>
   <data name="Application_Card_ProcessMem.Header" xml:space="preserve">
-    <value>Process Memory</value>
+    <value>进程内存</value>
   </data>
   <data name="Application_Card_CPUMem.Header" xml:space="preserve">
-    <value>CPU Memory</value>
+    <value>中央处理器内存</value>
   </data>
   <data name="Application_Card_SystemInformation.Header" xml:space="preserve">
-    <value>System Information</value>
+    <value>系统信息</value>
   </data>
   <data name="Application_Card_OSVersion.Header" xml:space="preserve">
-    <value>OS Version</value>
+    <value>操作系统版本</value>
   </data>
   <data name="Application_Card_ProcessID.Header" xml:space="preserve">
-    <value>Process ID</value>
+    <value>进程号</value>
   </data>
   <data name="Application_Card_PrivilegedProcess.Header" xml:space="preserve">
-    <value>Privileged Process</value>
+    <value>特权进程</value>
   </data>
   <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
-    <value>Animated logo</value>
+    <value>动画标志</value>
   </data>
   <data name="Application_Group_Behavior.Header" xml:space="preserve">
-    <value>Behavior</value>
+    <value>行为</value>
   </data>
   <data name="Application_Group_Window.Header" xml:space="preserve">
-    <value>Window options</value>
+    <value>窗口选项</value>
   </data>
   <data name="Application_InfoBar_Language.Title" xml:space="preserve">
-    <value>Some localized strings may require you to restart to load properly.</value>
+    <value>某些本地化字符串可能需要您重新启动才能正确加载。</value>
   </data>
   <data name="Application_Language.Header" xml:space="preserve">
-    <value>Language</value>
+    <value>语言</value>
   </data>
   <data name="Application_Holiday.Header" xml:space="preserve">
-    <value>Holiday overlays</value>
+    <value>假期疊加</value>
   </data>
   <data name="ApplicationDesc.Text" xml:space="preserve">
-    <value>Unlock the true potential by personalizing your settings. Select your preferred language, window options, ensuring an experience that resonates with you, wherever you are in the world 🌍.</value>
+    <value>通过个性化您的设置来释放真正的潜力。选择您喜欢的语言、窗口选项，确保无论您身在世界何处，都能获得与您产生共鸣的体验。</value>
   </data>
   <data name="ApplicationTitle.Text" xml:space="preserve">
-    <value>Application</value>
+    <value>应用</value>
   </data>
   <data name="AppNotificationMinimizedTitle" xml:space="preserve">
-    <value>Minimized</value>
+    <value>最小化</value>
   </data>
   <data name="AppNotificationMinimizedDescription" xml:space="preserve">
-    <value>has been minimized to the system tray. Right click for more options.</value>
+    <value>已最小化到系统托盘。右键单击以获取更多选项。</value>
   </data>
   <data name="AppNotificationMinimizedHint" xml:space="preserve">
-    <value>You can disable this feature in settings.</value>
+    <value>您可以在设置中禁用此功能。</value>
   </data>
   <data name="AppNotificationMinimizedHintButton" xml:space="preserve">
-    <value>Open settings</value>
+    <value>打开设置</value>
   </data>
   <data name="AppSearchHint.PlaceholderText" xml:space="preserve">
-    <value>Find games, library mods, store items and more</value>
+    <value>查找游戏、库模组、商店物品等</value>
   </data>
   <data name="BugReport_Dialog_ComboBox_Page.Text" xml:space="preserve">
-    <value>Where did this issue occur?</value>
+    <value>这个问题是哪里出现的？</value>
   </data>
   <data name="BugReport_Dialog_ComboBox_Unsure.Content" xml:space="preserve">
-    <value>Unsure</value>
+    <value>不确定</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Sent" xml:space="preserve">
-    <value>Bug report sent to the developers privately</value>
+    <value>错误报告私下发送给开发人员</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Wait" xml:space="preserve">
-    <value>You've already sent a report recently. Please wait a few minutes.</value>
+    <value>您最近已经发送了报告。请稍等几分钟。</value>
   </data>
   <data name="BugReport_Dialog_State" xml:space="preserve">
-    <value>Reporting an issue</value>
+    <value>报告问题</value>
   </data>
   <data name="BugReport_Dialog_TextBox_Description.PlaceholderText" xml:space="preserve">
-    <value>Description</value>
+    <value>描述</value>
   </data>
   <data name="BugReport_Dialog_TextBox_Title.PlaceholderText" xml:space="preserve">
-    <value>Title</value>
+    <value>标题</value>
   </data>
   <data name="BugReport_Dialog_Title" xml:space="preserve">
-    <value>Report a bug</value>
+    <value>报告错误</value>
   </data>
   <data name="Chat_Guidelines.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Guidelines</value>
+    <value>指南</value>
   </data>
   <data name="Chat_Informational_ReadMe.Text" xml:space="preserve">
-    <value>Read guidelines before chatting</value>
+    <value>聊天前请阅读指南</value>
   </data>
   <data name="Chat_Members_Online.Text" xml:space="preserve">
-    <value>Members online</value>
+    <value>会员在线</value>
   </data>
   <data name="Chat_MembersList_Hide.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Hide members list</value>
+    <value>隐藏成员列表</value>
   </data>
   <data name="Chat_MembersList_Show.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Show members list</value>
+    <value>显示成员列表</value>
   </data>
   <data name="Chat_MessageBox.PlaceholderText" xml:space="preserve">
-    <value>Message #general-chat</value>
+    <value>消息#general-chat</value>
   </data>
   <data name="CustomTheme_Background_Opacity.Text" xml:space="preserve">
-    <value>Background image opacity</value>
+    <value>背景图像不透明度</value>
   </data>
   <data name="CustomTheme_Background_Url.PlaceholderText" xml:space="preserve">
-    <value>Background image url</value>
+    <value>背景图片网址</value>
   </data>
   <data name="CustomTheme_Dialog.Title" xml:space="preserve">
-    <value>Create a custom theme</value>
+    <value>创建自定义主题</value>
   </data>
   <data name="CustomTheme_Name.Header" xml:space="preserve">
-    <value>Theme name</value>
+    <value>主题名称</value>
   </data>
   <data name="CustomTheme_Name.PlaceholderText" xml:space="preserve">
-    <value>My theme</value>
+    <value>我的主题</value>
   </data>
   <data name="CustomTheme_Primary.Text" xml:space="preserve">
-    <value>Primary color</value>
+    <value>原色</value>
   </data>
   <data name="CustomTheme_Secondary.Text" xml:space="preserve">
-    <value>Secondary color</value>
+    <value>次要颜色</value>
   </data>
   <data name="CustomTheme_Theme.Header" xml:space="preserve">
-    <value>Prefered theme</value>
+    <value>首选主题</value>
   </data>
   <data name="Dashboard_Banner_Button_More.Text" xml:space="preserve">
-    <value>View the library</value>
+    <value>查看图书馆</value>
   </data>
   <data name="Dashboard_Banner_Button_Use.Text" xml:space="preserve">
-    <value>Use now</value>
+    <value>立即使用</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout.Text" xml:space="preserve">
-    <value>Banner settings</value>
+    <value>横幅设置</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Banner settings</value>
+    <value>横幅设置</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_AnimSpeed.Text" xml:space="preserve">
-    <value>Animation speed</value>
+    <value>动画速度</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_AnimSpeedDefault.Text" xml:space="preserve">
-    <value>Default</value>
+    <value>默认</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_PatternSelect.Text" xml:space="preserve">
-    <value>Select a pattern</value>
+    <value>选择图案</value>
   </data>
   <data name="Dashboard_Banner_Title.Text" xml:space="preserve">
-    <value>Control your experience with {App-LibraryMenu}</value>
+    <value>使用 {App-LibraryMenu} 控制您的体验</value>
   </data>
   <data name="Dashboard_Group_New.Header" xml:space="preserve">
-    <value>What's new</value>
+    <value>什么是新的</value>
   </data>
   <data name="Dashboard_Group_Stats.Header" xml:space="preserve">
-    <value>Live statistics</value>
+    <value>实时统计</value>
   </data>
   <data name="Dashboard_Group_More.Header" xml:space="preserve">
-    <value>Even more</value>
+    <value>更</value>
   </data>
   <data name="Dashboard_More_Leaderboard.Text" xml:space="preserve">
-    <value>Leaderboard</value>
+    <value>排行榜</value>
   </data>
   <data name="Dashboard_HeaderMOTD_1.Text" xml:space="preserve">
-    <value>More app designs than Leafized's gsc menus. 😏</value>
+    <value>比 Leafized 的 gsc 菜单更多的应用程序设计。 😏</value>
   </data>
   <data name="Dashboard_HeaderMOTD_10.Text" xml:space="preserve">
-    <value>Play ZBR today!</value>
+    <value>今天玩ZBR！</value>
   </data>
   <data name="Dashboard_HeaderMOTD_11.Text" xml:space="preserve">
-    <value>{App-Helper2}!</value>
+    <value>{应用程序助手2}！</value>
   </data>
   <data name="Dashboard_HeaderMOTD_12.Text" xml:space="preserve">
-    <value>{App-Website}</value>
+    <value>{应用程序网站}</value>
   </data>
   <data name="Dashboard_HeaderMOTD_13.Text" xml:space="preserve">
-    <value>Check out our Devlogs on YouTube!</value>
+    <value>在 YouTube 上查看我们的开发博客！</value>
   </data>
   <data name="Dashboard_HeaderMOTD_14.Text" xml:space="preserve">
-    <value>Wake the fuck up babe, {App-Name} just dropped.</value>
+    <value>快醒醒吧宝贝，{App-Name} 刚刚掉线了。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_2.Text" xml:space="preserve">
-    <value>{App-NameShort}-Good tool.</value>
+    <value>{App-NameShort}-好工具。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_3.Text" xml:space="preserve">
-    <value>{App-Dev2} was here.</value>
+    <value>{App-Dev2} 在这里。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_4.Text" xml:space="preserve">
-    <value>{App-Dev1} was here.</value>
+    <value>{App-Dev1} 在这里。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_5.Text" xml:space="preserve">
-    <value>Sorry for the delays! 🤐</value>
+    <value>抱歉造成延误！ 🤐</value>
   </data>
   <data name="Dashboard_HeaderMOTD_6.Text" xml:space="preserve">
-    <value>Made with 💸 by {App-Dev1}.</value>
+    <value>由 {App-Dev1} 使用 💸 制作。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_7.Text" xml:space="preserve">
-    <value>What happened to the {IL} store?</value>
+    <value>{IL} 商店发生了什么事？</value>
   </data>
   <data name="Dashboard_HeaderMOTD_8.Text" xml:space="preserve">
-    <value>Have you heard of {IL} 2.0?</value>
+    <value>您听说过 {IL} 2.0 吗？</value>
   </data>
   <data name="Dashboard_HeaderMOTD_9.Text" xml:space="preserve">
-    <value>Yo what is going on guys, {App-Helper1} here.</value>
+    <value>哟，伙计们，这是怎么回事，这里是{App-Helper1}。</value>
   </data>
   <data name="Dashboard_New_Achievements.Text" xml:space="preserve">
-    <value>Achievements</value>
+    <value>成就</value>
   </data>
   <data name="Dashboard_New_Changelogs.Text" xml:space="preserve">
-    <value>Release notes for</value>
+    <value>发行说明</value>
   </data>
   <data name="Dashboard_New_MOTD.Text" xml:space="preserve">
-    <value>Message of the day</value>
+    <value>当天的消息</value>
   </data>
   <data name="Dashboard_Stats_LibraryUses.Text" xml:space="preserve">
-    <value>Library uses</value>
+    <value>图书馆用途</value>
   </data>
   <data name="Dashboard_Stats_Online.Text" xml:space="preserve">
-    <value>Online</value>
+    <value>在线的</value>
   </data>
   <data name="Dashboard_Stats_PointsEarned.Text" xml:space="preserve">
-    <value>Points earned</value>
+    <value>获得积分</value>
   </data>
   <data name="Dashboard_Stats_PointsSpent.Text" xml:space="preserve">
-    <value>Points spent</value>
+    <value>花费积分</value>
   </data>
   <data name="Dashboard_Stats_StorePurchases.Text" xml:space="preserve">
-    <value>Store purchases</value>
+    <value>商店购买</value>
   </data>
   <data name="Dashboard_Stats_Users.Text" xml:space="preserve">
-    <value>Users</value>
+    <value>用户</value>
   </data>
   <data name="Dashboard_Tile_Discord.Description" xml:space="preserve">
-    <value>Join the official Discord server.</value>
+    <value>加入官方 Discord 服务器。</value>
   </data>
   <data name="Dashboard_Tile_Discord.Title" xml:space="preserve">
-    <value>Discord server</value>
+    <value>不和谐服务器</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Description" xml:space="preserve">
-    <value>An overview of how it works.</value>
+    <value>其工作原理的概述。</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Title" xml:space="preserve">
-    <value>Getting started</value>
+    <value>入门</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Description" xml:space="preserve">
-    <value>Help keep it free by donating.</value>
+    <value>通过捐赠帮助保持其免费。</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Title" xml:space="preserve">
-    <value>Stripe donations</value>
+    <value>条纹捐赠</value>
   </data>
   <data name="Dashboard_Tile_Trello.Description" xml:space="preserve">
-    <value>Keep up-to-date with planned features &amp; updates.</value>
+    <value>及时了解计划的功能和更新。</value>
   </data>
   <data name="Dashboard_Tile_Trello.Title" xml:space="preserve">
-    <value>Trello board</value>
+    <value>Trello 板</value>
   </data>
   <data name="Dashboard_Tile_Website.Description" xml:space="preserve">
-    <value>Check out our website!</value>
+    <value>查看我们的网站！</value>
   </data>
   <data name="Dashboard_Tile_Website.Title" xml:space="preserve">
-    <value>Website</value>
+    <value>网站</value>
   </data>
   <data name="Dashboard_Tile_YouTube.Description" xml:space="preserve">
-    <value>Check out our devlogs.</value>
+    <value>查看我们的开发博客。</value>
   </data>
   <data name="Dashboard_Tile_YouTube.Title" xml:space="preserve">
-    <value>YouTube channel</value>
+    <value>YouTube 频道</value>
   </data>
   <data name="Dashboard_Tile_IL.Description" xml:space="preserve">
-    <value>The only GSC Compiler tailored for the IW Engine. Supported across Xbox and PC.</value>
+    <value>唯一为 IW 引擎量身定制的 GSC 编译器。 Xbox 和 PC 均受支持。</value>
   </data>
   <data name="Dialog_Button_Agree.Content" xml:space="preserve">
-    <value>I agree</value>
+    <value>我同意</value>
   </data>
   <data name="Dialog_Button_Buy.Text" xml:space="preserve">
-    <value>Buy for</value>
+    <value>购买价格</value>
   </data>
   <data name="Dialog_Button_Close.Content" xml:space="preserve">
-    <value>Close</value>
+    <value>关闭</value>
   </data>
   <data name="Dialog_Button_Save.Content" xml:space="preserve">
-    <value>Save</value>
+    <value>节省</value>
   </data>
   <data name="Dialog_Button_Send.Content" xml:space="preserve">
-    <value>Send</value>
+    <value>发送</value>
   </data>
   <data name="Dialog_Button_Back.Content" xml:space="preserve">
-    <value>Back</value>
+    <value>后退</value>
   </data>
   <data name="Dialog_Button_Next.Content" xml:space="preserve">
-    <value>Next</value>
+    <value>下一个</value>
   </data>
   <data name="Dialog_Button_Start.Content" xml:space="preserve">
-    <value>Let's go</value>
+    <value>我们走吧</value>
   </data>
   <data name="Dialog_Button_Update.Content" xml:space="preserve">
-    <value>Update</value>
+    <value>更新</value>
   </data>
   <data name="Dialog_Button_AYS.Content" xml:space="preserve">
-    <value>Are you sure?</value>
+    <value>你确定吗？</value>
   </data>
   <data name="DiscordRPC_Button_Server" xml:space="preserve">
-    <value>Discord Server</value>
+    <value>不和谐服务器</value>
   </data>
   <data name="DiscordRPC_Button_Website" xml:space="preserve">
-    <value>Website</value>
+    <value>网站</value>
   </data>
   <data name="Feedback_Dialog_Title" xml:space="preserve">
-    <value>Send feedback</value>
+    <value>发送反馈</value>
   </data>
   <data name="Feedback_Dialog_State" xml:space="preserve">
-    <value>Sharing feedback</value>
+    <value>分享反馈</value>
   </data>
   <data name="Search_Dialog_State" xml:space="preserve">
-    <value>Searching</value>
+    <value>搜寻中</value>
   </data>
   <data name="Filters_Button.Text" xml:space="preserve">
-    <value>Filters</value>
+    <value>过滤器</value>
   </data>
   <data name="Games_ComingSoon.Text" xml:space="preserve">
-    <value>Coming soon</value>
+    <value>即将推出</value>
   </data>
   <data name="Games_Platform.Text" xml:space="preserve">
-    <value>Platform</value>
+    <value>平台</value>
   </data>
   <data name="Guideline_Dialog_Actions.Text" xml:space="preserve">
-    <value>By accepting these rules and participating in this chat, you agree to be bound by these rules. Please note that these rules and guidelines are subject to change at any time. Additionally, we reserve the right to take appropriate action if any rule is found to be broken, including chat mute and bans.</value>
+    <value>通过接受这些规则并参与此聊天，您同意受这些规则的约束。请注意，这些规则和指南可能随时更改。此外，如果发现违反任何规则，我们保留采取适当行动的权利，包括聊天静音和禁令。</value>
   </data>
   <data name="Guideline_Dialog_Agreement.Header" xml:space="preserve">
-    <value>Read and agree to the chat rules.</value>
+    <value>阅读并同意聊天规则。</value>
   </data>
   <data name="Guideline_Dialog_Title" xml:space="preserve">
-    <value>Before you can chat...</value>
+    <value>在你可以聊天之前...</value>
   </data>
   <data name="Guideline_Rule_1_Info.Description" xml:space="preserve">
-    <value>Absolutely no harassment, witch hunting, sexism, racism or hate speech will be tolerated.</value>
+    <value>绝对不会容忍骚扰、猎巫、性别歧视、种族主义或仇恨言论。</value>
   </data>
   <data name="Guideline_Rule_1_Title.Text" xml:space="preserve">
-    <value>Be respectful</value>
+    <value>保持尊重</value>
   </data>
   <data name="Guideline_Rule_2_Info.Description" xml:space="preserve">
-    <value>No age-restricted or obscene content. This includes text, image and video links featuring nudity, sex, hard violence or other disturbing graphic content.</value>
+    <value>没有年龄限制或淫秽内容。这包括含有裸露、性、暴力或其他令人不安的图形内容的文本、图像和视频链接。</value>
   </data>
   <data name="Guideline_Rule_2_Title.Text" xml:space="preserve">
-    <value>No NSFW content</value>
+    <value>没有 NSFW 内容</value>
   </data>
   <data name="Guideline_Rule_3_Info.Description" xml:space="preserve">
-    <value>No spam or promotion (discord server links, advertisements, etc).</value>
+    <value>没有垃圾邮件或促销（不和谐服务器链接、广告等）。</value>
   </data>
   <data name="Guideline_Rule_3_Title.Text" xml:space="preserve">
-    <value>No spam or promotion</value>
+    <value>没有垃圾邮件或促销信息</value>
   </data>
   <data name="Help_Card_Hotkeys.Header" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>热键</value>
   </data>
   <data name="Help_Card_Search.Header" xml:space="preserve">
-    <value>Search</value>
+    <value>搜索</value>
   </data>
   <data name="Help_Card_Notifications.Header" xml:space="preserve">
-    <value>Notifications</value>
+    <value>通知</value>
   </data>
   <data name="Help_Group_Inquiries.Header" xml:space="preserve">
-    <value>More inquiries? Join the Discord!</value>
+    <value>更多询问？加入不和谐！</value>
   </data>
   <data name="Help_Group_Shortcuts.Header" xml:space="preserve">
-    <value>Shortcuts</value>
+    <value>快捷方式</value>
   </data>
   <data name="HelpDesc.Text" xml:space="preserve">
-    <value>Need help on finding things? 🔍 We got your back!</value>
+    <value>需要帮助寻找东西吗？ 🔍我们支持你！</value>
   </data>
   <data name="HelpTitle.Text" xml:space="preserve">
-    <value>Help</value>
+    <value>帮助</value>
   </data>
   <data name="Library_Most_Popular.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Most popular</value>
+    <value>最受欢迎</value>
   </data>
   <data name="Library_Author.Text" xml:space="preserve">
-    <value>Author</value>
+    <value>作者</value>
   </data>
   <data name="Library_Game.Text" xml:space="preserve">
-    <value>Game</value>
+    <value>游戏</value>
   </data>
   <data name="Library_Settings.Header" xml:space="preserve">
-    <value>Project settings</value>
+    <value>项目设置</value>
   </data>
   <data name="Library_Settings_Gamemode.Header" xml:space="preserve">
-    <value>Select gamemode</value>
+    <value>选择游戏模式</value>
   </data>
   <data name="Library_Settings_Platform.Header" xml:space="preserve">
-    <value>Select platform</value>
+    <value>选择平台</value>
   </data>
   <data name="Library_Inject.Text" xml:space="preserve">
-    <value>Inject</value>
+    <value>注入</value>
   </data>
   <data name="Library_InjectionCount.Text" xml:space="preserve">
-    <value>Injections</value>
+    <value>注射</value>
   </data>
   <data name="Library_LastUpdateDate.Text" xml:space="preserve">
-    <value>Last updated on</value>
+    <value>最后更新于</value>
   </data>
   <data name="Library_Showcase.Content" xml:space="preserve">
-    <value>Showcase</value>
+    <value>展示柜</value>
   </data>
   <data name="Library_Unload.Text" xml:space="preserve">
-    <value>Unload</value>
+    <value>卸下</value>
   </data>
   <data name="Library_Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>版本</value>
   </data>
   <data name="Login_Dialog.Title" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>欢迎来到</value>
   </data>
   <data name="Login_Dialog_Button_Login.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>登录</value>
   </data>
   <data name="Login_Dialog_Button_Register.Content" xml:space="preserve">
-    <value>Register</value>
+    <value>登记</value>
   </data>
   <data name="Login_Dialog_Button_Register_Info.Text" xml:space="preserve">
-    <value>New to {App-Name}</value>
+    <value>{应用程序名称} 新用户</value>
   </data>
   <data name="Login_Dialog_ForgotPassword.Content" xml:space="preserve">
-    <value>Forgot your password?</value>
+    <value>忘记密码了吗？</value>
   </data>
   <data name="Login_Dialog_Password.PlaceholderText" xml:space="preserve">
-    <value>Enter your password</value>
+    <value>输入您的密码</value>
   </data>
   <data name="Login_Dialog_Username.PlaceholderText" xml:space="preserve">
-    <value>Username</value>
+    <value>用户名</value>
   </data>
   <data name="Minigame_Selector_Dialog_Cooldown" xml:space="preserve">
-    <value>Cooldown active.</value>
+    <value>冷却激活。</value>
   </data>
   <data name="Minigame_Selector_Dialog_Emoji.Header" xml:space="preserve">
-    <value>Find the 🎉</value>
+    <value>找到🎉</value>
   </data>
   <data name="Minigame_Selector_Dialog_Runner.Header" xml:space="preserve">
-    <value>Endless Runner</value>
+    <value>无尽的奔跑者</value>
   </data>
   <data name="Minigame_Runner_JumpHint.Text" xml:space="preserve">
-    <value>Jump</value>
+    <value>跳</value>
   </data>
   <data name="Minigame_Runner_GameOver.Text" xml:space="preserve">
-    <value>Game Over</value>
+    <value>游戏结束</value>
   </data>
   <data name="Minigame_Selector_Dialog_Title" xml:space="preserve">
-    <value>Select a minigame</value>
+    <value>选择一个小游戏</value>
   </data>
   <data name="MyProfile_AccountBalance.Header" xml:space="preserve">
-    <value>Account balance</value>
+    <value>账户余额</value>
   </data>
   <data name="MyProfile_AccountRole.Header" xml:space="preserve">
-    <value>Account role</value>
+    <value>账户角色</value>
   </data>
   <data name="MyProfile_Avatar_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Select an avatar</value>
+    <value>选择头像</value>
   </data>
   <data name="MyProfile_Avatar_Flyout_Title.Text" xml:space="preserve">
-    <value>Avatar customization</value>
+    <value>头像定制</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Select a banner</value>
+    <value>选择横幅</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Title.Text" xml:space="preserve">
-    <value>Banner customization</value>
+    <value>横幅定制</value>
   </data>
   <data name="MyProfile_Button_Avatar.Content" xml:space="preserve">
-    <value>Browse avatars</value>
+    <value>浏览头像</value>
   </data>
   <data name="MyProfile_Button_Banner.Content" xml:space="preserve">
-    <value>Browse banners</value>
+    <value>浏览横幅</value>
   </data>
   <data name="MyProfile_Card_AccountInfo.Header" xml:space="preserve">
-    <value>Account info</value>
+    <value>账户信息</value>
   </data>
   <data name="MyProfile_Card_Avatar.Header" xml:space="preserve">
-    <value>Choose an avatar</value>
+    <value>选择头像</value>
   </data>
   <data name="MyProfile_Card_Banner.Header" xml:space="preserve">
-    <value>Choose a banner</value>
+    <value>选择横幅</value>
   </data>
   <data name="MyProfile_Card_CreationDate.Header" xml:space="preserve">
-    <value>Account creation date</value>
+    <value>帐户创建日期</value>
   </data>
   <data name="MyProfile_Card_SignInOptions.Header" xml:space="preserve">
-    <value>Sign-in options</value>
+    <value>登录选项</value>
   </data>
   <data name="MyProfile_Card_Subscription.Header" xml:space="preserve">
-    <value>Subscription</value>
+    <value>订阅</value>
   </data>
   <data name="MyProfile_Card_TimeOnline.Header" xml:space="preserve">
-    <value>Time spent online</value>
+    <value>上网时间</value>
   </data>
   <data name="MyProfile_Checkbox_AutoLogin.Content" xml:space="preserve">
-    <value>Auto login</value>
+    <value>自动登录</value>
   </data>
   <data name="MyProfile_Checkbox_RememberMe.Content" xml:space="preserve">
-    <value>Remember me</value>
+    <value>记住账号</value>
   </data>
   <data name="MyProfile_Group_Customization.Header" xml:space="preserve">
-    <value>Account customization</value>
+    <value>账户定制</value>
   </data>
   <data name="MyProfile_Group_General.Header" xml:space="preserve">
-    <value>General</value>
+    <value>一般的</value>
   </data>
   <data name="MyProfile_InfoBar_FreeMode.Title" xml:space="preserve">
-    <value>Free mode subscription is active.</value>
+    <value>免费模式订阅已激活。</value>
   </data>
   <data name="MyProfile_InfoBar_Updated.Title" xml:space="preserve">
-    <value>Account successfully updated.</value>
+    <value>帐户已成功更新。</value>
   </data>
   <data name="MyProfile_PageLink_Store.Text" xml:space="preserve">
-    <value>View the store</value>
+    <value>查看商店</value>
   </data>
   <data name="MyProfileDesc.Text" xml:space="preserve">
-    <value>Customize your profile to stand out. Win NautaCoins to purchase avatars and banners from the store and show off the in the chat 💬 page!</value>
+    <value>自定义您的个人资料以脱颖而出。赢得 NautaCoins 从商店购买头像和横幅，并在聊天 💬 页面中炫耀！</value>
   </data>
   <data name="MyProfileTitle.Text" xml:space="preserve">
-    <value>My account</value>
+    <value>我的账户</value>
   </data>
   <data name="ConnectionsDesc.Text" xml:space="preserve">
-    <value>Display your Discord activity or connect to your PlayStation 4 to use library content on consoles! 🎮</value>
+    <value>显示您的 Discord 活动或连接到 PlayStation 4 以在主机上使用库内容！ 🎮</value>
   </data>
   <data name="ConnectionsTitle.Text" xml:space="preserve">
-    <value>Connections</value>
+    <value>连接</value>
   </data>
   <data name="Notifications_Card_Chat.Description" xml:space="preserve">
-    <value>Popup alert badge when a new chat message is sent.</value>
+    <value>发送新聊天消息时弹出警报徽章。</value>
   </data>
   <data name="Notifications_Card_Chat.Text" xml:space="preserve">
-    <value>New message alerts</value>
+    <value>新消息提醒</value>
   </data>
   <data name="Notifications_Card_InfoBar.Description" xml:space="preserve">
-    <value>This setting is required for some alerts.</value>
+    <value>某些警报需要此设置。</value>
   </data>
   <data name="Notifications_Card_InfoBar.Text" xml:space="preserve">
-    <value>Informational alerts</value>
+    <value>信息警报</value>
   </data>
   <data name="Notifications_Card_Minimized.Description" xml:space="preserve">
-    <value>Receive a system tray alert when the app is minimized.</value>
+    <value>当应用程序最小化时收到系统托盘警报。</value>
   </data>
   <data name="Notifications_Card_Minimized.Text" xml:space="preserve">
-    <value>Minimized alerts</value>
+    <value>最小化警报</value>
   </data>
   <data name="Notifications_Card_Session.Description" xml:space="preserve">
-    <value>Receive various in-app notifications.</value>
+    <value>接收各种应用内通知。</value>
   </data>
   <data name="Notifications_Card_Session.Text" xml:space="preserve">
-    <value>Session alerts</value>
+    <value>会话提醒</value>
   </data>
   <data name="Notifications_CheckBox_Sounds.Content" xml:space="preserve">
-    <value>Play sound</value>
+    <value>播放声音</value>
   </data>
   <data name="Notifications_ComboBox_Everytime.Content" xml:space="preserve">
-    <value>Every time</value>
+    <value>每次</value>
   </data>
   <data name="Notifications_ComboBox_Never.Content" xml:space="preserve">
-    <value>Never</value>
+    <value>绝不</value>
   </data>
   <data name="Notifications_ComboBox_Once.Content" xml:space="preserve">
-    <value>Once</value>
+    <value>一次</value>
   </data>
   <data name="Notifications_Empty_Hint.Text" xml:space="preserve">
-    <value>It's empty in here... ☹️</value>
+    <value>这里是空的...☹️</value>
   </data>
   <data name="Notifications_Group_InApp.Header" xml:space="preserve">
-    <value>In-App</value>
+    <value>应用内</value>
   </data>
   <data name="Notifications_Group_Windows.Header" xml:space="preserve">
-    <value>Windows</value>
+    <value>视窗</value>
   </data>
   <data name="Notifications_Hyperlink_Error.Title" xml:space="preserve">
-    <value>Application sounds must be enabled first</value>
+    <value>必须首先启用应用程序声音</value>
   </data>
   <data name="NotificationsDesc.Text" xml:space="preserve">
-    <value>We understand that there are times when you need uninterrupted focus. Snooze or mute notifications temporarily, providing you with uninterrupted sessions or moments of relaxation. When you're ready to reconnect, notifications will be waiting for you.</value>
+    <value>我们理解，有时您需要不间断的专注。暂时暂停或静音通知，为您提供不间断的会话或放松时刻。当您准备好重新连接时，将会收到通知。</value>
   </data>
   <data name="NotificationsTitle.Text" xml:space="preserve">
-    <value>Notifications</value>
+    <value>通知</value>
   </data>
   <data name="Password_Card_Update.Text" xml:space="preserve">
-    <value>Update password</value>
+    <value>更新密码</value>
   </data>
   <data name="Password_Card_Update_Info.Text" xml:space="preserve">
-    <value>Changing your password will automatically log you out and require you to log back in.</value>
+    <value>更改密码会自动注销您并要求您重新登录。</value>
   </data>
   <data name="Password_InfoBar_Empty.Title" xml:space="preserve">
-    <value>Hold up! Your new password can't be empty. Please input your new password.</value>
+    <value>耽误！您的新密码不能为空。请输入您的新密码。</value>
   </data>
   <data name="Password_InfoBar_Invalid.Title" xml:space="preserve">
-    <value>Oops! Your new password is invalid. Please make your password unique.</value>
+    <value>哎呀！您的新密码无效。请确保您的密码是唯一的。</value>
   </data>
   <data name="Password_InfoBar_Same.Title" xml:space="preserve">
-    <value>Oops! Your new password can't be the same as the old one. Please choose a new and unique password.</value>
+    <value>哎呀！您的新密码不能与旧密码相同。请选择一个新的且唯一的密码。</value>
   </data>
   <data name="Password_InfoBar_Updated.Title" xml:space="preserve">
-    <value>Your password has been updated successfully. You're all set!</value>
+    <value>您的密码已成功更新。你都准备好了！</value>
   </data>
   <data name="Password_Save.Text" xml:space="preserve">
-    <value>Save</value>
+    <value>节省</value>
   </data>
   <data name="Password_Status_Invalid.Text" xml:space="preserve">
-    <value>Invalid</value>
+    <value>无效的</value>
   </data>
   <data name="Password_Status_Medium.Text" xml:space="preserve">
-    <value>Medium</value>
+    <value>中等的</value>
   </data>
   <data name="Password_Status_Strong.Text" xml:space="preserve">
-    <value>Strong</value>
+    <value>强的</value>
   </data>
   <data name="Password_Status_Weak.Text" xml:space="preserve">
-    <value>Weak</value>
+    <value>虚弱的</value>
   </data>
   <data name="PasswordDesc.Text" xml:space="preserve">
-    <value>Forgot your password? Make a request in the official Discord server and we'll fix that for you asap! 😁</value>
+    <value>忘记密码了吗？在官方 Discord 服务器中提出请求，我们将尽快为您解决该问题！ 😁</value>
   </data>
   <data name="PasswordTitle.Text" xml:space="preserve">
-    <value>Password</value>
+    <value>密码</value>
   </data>
   <data name="Pattern_Axiom" xml:space="preserve">
-    <value>Axiom</value>
+    <value>公理</value>
   </data>
   <data name="Pattern_Cartographer" xml:space="preserve">
-    <value>Catographer</value>
+    <value>摄影师</value>
   </data>
   <data name="Pattern_Diagmonds" xml:space="preserve">
-    <value>Diagmonds</value>
+    <value>戴格蒙兹</value>
   </data>
   <data name="Pattern_Diamonds" xml:space="preserve">
-    <value>Diamonds</value>
+    <value>钻石</value>
   </data>
   <data name="Pattern_Geometry" xml:space="preserve">
-    <value>Geometry</value>
+    <value>几何学</value>
   </data>
   <data name="Pattern_GPlay" xml:space="preserve">
-    <value>GPlay</value>
+    <value>游戏</value>
   </data>
   <data name="Pattern_Mosaic" xml:space="preserve">
-    <value>Mosaic</value>
+    <value>马赛克</value>
   </data>
   <data name="Pattern_ScanLines" xml:space="preserve">
-    <value>Scan lines</value>
+    <value>扫描线</value>
   </data>
   <data name="Pattern_Stripes" xml:space="preserve">
-    <value>Stripes</value>
+    <value>条纹</value>
   </data>
   <data name="Progress_Dialog.Text" xml:space="preserve">
-    <value>Please wait</value>
+    <value>请稍等</value>
   </data>
   <data name="Register_Dialog.Title" xml:space="preserve">
-    <value>Set up a new account!</value>
+    <value>设立一个新帐户！</value>
   </data>
   <data name="Register_Dialog_Button_Login_Info.Text" xml:space="preserve">
-    <value>Already have an account?</value>
+    <value>已经有帐户？</value>
   </data>
   <data name="Register_Dialog_ConfirmPassword.PlaceholderText" xml:space="preserve">
-    <value>Confirm Password</value>
+    <value>确认密码</value>
   </data>
   <data name="Register_Dialog_InfoBar_Empty" xml:space="preserve">
-    <value>Required input values were left empty.</value>
+    <value>所需的输入值留空。</value>
   </data>
   <data name="Register_Dialog_InfoBar_Match" xml:space="preserve">
-    <value>Passwords do not match.</value>
+    <value>密码不匹配。</value>
   </data>
   <data name="Register_Dialog_InfoBar_Registered" xml:space="preserve">
-    <value>Account successfully registered.</value>
+    <value>帐号注册成功。</value>
   </data>
   <data name="Register_Dialog_LicenseKey.PlaceholderText" xml:space="preserve">
-    <value>License key</value>
+    <value>许可证密钥</value>
   </data>
   <data name="Settings_About.Content" xml:space="preserve">
-    <value>About</value>
+    <value>关于</value>
   </data>
   <data name="Settings_About_State.Content" xml:space="preserve">
-    <value>Reading about</value>
+    <value>阅读关于</value>
   </data>
   <data name="Settings_Appearance.Content" xml:space="preserve">
-    <value>Appearance</value>
+    <value>外貌</value>
   </data>
   <data name="Settings_Appearance_State.Content" xml:space="preserve">
-    <value>Tweaking application appearance</value>
+    <value>调整应用程序外观</value>
   </data>
   <data name="Settings_Application.Content" xml:space="preserve">
-    <value>Application</value>
+    <value>应用</value>
   </data>
   <data name="Settings_Application_State.Content" xml:space="preserve">
-    <value>Tweaking application settings</value>
+    <value>调整应用程序设置</value>
   </data>
   <data name="Settings_Connections.Content" xml:space="preserve">
-    <value>Connections</value>
+    <value>连接</value>
   </data>
   <data name="Settings_Connections_State.Content" xml:space="preserve">
-    <value>Tweaking connection settings</value>
+    <value>调整连接设置</value>
   </data>
   <data name="Settings_Help.Content" xml:space="preserve">
-    <value>Help</value>
+    <value>帮助</value>
   </data>
   <data name="Settings_Help_State.Content" xml:space="preserve">
-    <value>Viewing the help center</value>
+    <value>查看帮助中心</value>
   </data>
   <data name="Settings_MyProfile.Content" xml:space="preserve">
-    <value>My Account</value>
+    <value>我的账户</value>
   </data>
   <data name="Settings_MyProfile_State.Content" xml:space="preserve">
-    <value>Editing account</value>
+    <value>编辑帐户</value>
   </data>
   <data name="Settings_Notifications.Content" xml:space="preserve">
-    <value>Notifications</value>
+    <value>通知</value>
   </data>
   <data name="Settings_Notifications_State.Content" xml:space="preserve">
-    <value>Editing notifications</value>
+    <value>编辑通知</value>
   </data>
   <data name="Settings_Password.Content" xml:space="preserve">
-    <value>Password</value>
+    <value>密码</value>
   </data>
   <data name="Settings_Password_State.Content" xml:space="preserve">
-    <value>Editing account password</value>
+    <value>修改账户密码</value>
   </data>
   <data name="Shell_Chat.Content" xml:space="preserve">
-    <value>Chat</value>
+    <value>聊天</value>
   </data>
   <data name="Shell_Chat_State.Content" xml:space="preserve">
-    <value>Chatting with users</value>
+    <value>与用户聊天</value>
   </data>
   <data name="Shell_Chat_Title.Text" xml:space="preserve">
-    <value>Chat</value>
+    <value>聊天</value>
   </data>
   <data name="Shell_Dashboard.Content" xml:space="preserve">
-    <value>Dashboard</value>
+    <value>仪表板</value>
   </data>
   <data name="Shell_Dashboard_State.Content" xml:space="preserve">
-    <value>Viewing the dashboard</value>
+    <value>查看仪表板</value>
   </data>
   <data name="Shell_Games.Content" xml:space="preserve">
-    <value>Games</value>
+    <value>游戏</value>
   </data>
   <data name="Shell_Games_State.Content" xml:space="preserve">
-    <value>Browsing games selection</value>
+    <value>浏览游戏选择</value>
   </data>
   <data name="Shell_Games_Title.Text" xml:space="preserve">
-    <value>Games</value>
+    <value>游戏</value>
   </data>
   <data name="Shell_Library.Content" xml:space="preserve">
-    <value>Library</value>
+    <value>图书馆</value>
   </data>
   <data name="Shell_Library_State.Content" xml:space="preserve">
-    <value>Browsing user made content</value>
+    <value>浏览用户制作的内容</value>
   </data>
   <data name="Shell_Library_Title.Text" xml:space="preserve">
-    <value>Library</value>
+    <value>图书馆</value>
   </data>
   <data name="Shell_Search.PlaceholderText" xml:space="preserve">
-    <value>Search</value>
+    <value>搜索</value>
   </data>
   <data name="Shell_Settings.Content" xml:space="preserve">
-    <value>Settings</value>
+    <value>设置</value>
   </data>
   <data name="Shell_Store.Content" xml:space="preserve">
-    <value>Store</value>
+    <value>店铺</value>
   </data>
   <data name="Shell_Store_State.Content" xml:space="preserve">
-    <value>Browsing the store</value>
+    <value>浏览商店</value>
   </data>
   <data name="Shell_Store_Title.Text" xml:space="preserve">
-    <value>Store</value>
+    <value>店铺</value>
   </data>
   <data name="Shell_UserDropDown_AppSettings.Text" xml:space="preserve">
-    <value>Application settings</value>
+    <value>应用程序设置</value>
   </data>
   <data name="Shell_UserDropDown_BrowseStore.Text" xml:space="preserve">
-    <value>Browse store</value>
+    <value>浏览商店</value>
   </data>
   <data name="Shell_UserDropDown_EarnPoints.Text" xml:space="preserve">
-    <value>Earn NautaCoins</value>
+    <value>赚取 NautaCoins</value>
   </data>
   <data name="Shell_UserDropDown_MyAccount.Text" xml:space="preserve">
-    <value>My account</value>
+    <value>我的账户</value>
   </data>
   <data name="Shell_UserDropDown_SignOut.Text" xml:space="preserve">
-    <value>Sign out</value>
+    <value>登出</value>
   </data>
   <data name="Search_Games_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search games</value>
+    <value>搜索游戏</value>
   </data>
   <data name="Search_Library_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search projects</value>
+    <value>搜索项目</value>
   </data>
   <data name="Search_Store_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search store</value>
+    <value>搜索商店</value>
   </data>
   <data name="Sorting_ComboBox_Hint.PlaceholderText" xml:space="preserve">
-    <value>Sort by</value>
+    <value>排序方式</value>
   </data>
   <data name="Sorting_ComboBox_Popularity.Content" xml:space="preserve">
-    <value>Popularity</value>
+    <value>人气</value>
   </data>
   <data name="Sorting_ComboBox_DateUpdated.Content" xml:space="preserve">
-    <value>Last updated</value>
+    <value>最后更新</value>
   </data>
   <data name="Sorting_ComboBox_Price_HighLow.Content" xml:space="preserve">
-    <value>Price: High to Low</value>
+    <value>价格：从高到低</value>
   </data>
   <data name="Sorting_ComboBox_Price_LowHigh.Content" xml:space="preserve">
-    <value>Price: Low to High</value>
+    <value>价格：从低到高</value>
   </data>
   <data name="Sorting_ComboBox_Relevance.Content" xml:space="preserve">
-    <value>Relevance</value>
+    <value>关联</value>
   </data>
   <data name="Sorting_ComboBox_Title_AZ.Content" xml:space="preserve">
-    <value>Title A-Z</value>
+    <value>标题 A-Z</value>
   </data>
   <data name="Sorting_ComboBox_Title_ZA.Content" xml:space="preserve">
-    <value>Title Z-A</value>
+    <value>标题 Z-A</value>
   </data>
   <data name="Splash_Status_AuthFailed.Text" xml:space="preserve">
-    <value>Auth failed to initialize.</value>
+    <value>身份验证初始化失败。</value>
   </data>
   <data name="Splash_Status_AuthSuccess.Text" xml:space="preserve">
-    <value>Connected to server.</value>
+    <value>已连接到服务器。</value>
   </data>
   <data name="Splash_Status_Initializing.Text" xml:space="preserve">
-    <value>Initializing auth...</value>
+    <value>正在初始化授权...</value>
   </data>
   <data name="Splash_Status_Wizard.Text" xml:space="preserve">
-    <value>Complete setup wizard...</value>
+    <value>完成设置向导...</value>
   </data>
   <data name="Splash_Status_Login.Text" xml:space="preserve">
-    <value>Awaiting user login...</value>
+    <value>正在等待用户登录...</value>
   </data>
   <data name="Splash_Status_LoginSuccess.Text" xml:space="preserve">
-    <value>Logging in...</value>
+    <value>正在登录...</value>
   </data>
   <data name="Splash_Status_Resources.Text" xml:space="preserve">
-    <value>Gathering user information...</value>
+    <value>正在收集用户信息...</value>
   </data>
   <data name="Splash_Status_Update.Text" xml:space="preserve">
-    <value>New update available!</value>
+    <value>新更新可用！</value>
   </data>
   <data name="Splash_Status_Downloading.Text" xml:space="preserve">
-    <value>Downloading</value>
+    <value>正在下载</value>
   </data>
   <data name="Store_Filter_All.Content" xml:space="preserve">
-    <value>All</value>
+    <value>全部</value>
   </data>
   <data name="Store_Filter_Avatars.Content" xml:space="preserve">
-    <value>Avatars</value>
+    <value>头像</value>
   </data>
   <data name="Store_Filter_Banners.Content" xml:space="preserve">
-    <value>Banners</value>
+    <value>横幅</value>
   </data>
   <data name="Store_Owned.Text" xml:space="preserve">
-    <value>Owned</value>
+    <value>拥有</value>
   </data>
   <data name="Store_Purchase" xml:space="preserve">
-    <value>purchased</value>
+    <value>已购买</value>
   </data>
   <data name="Store_Purchase_Error" xml:space="preserve">
-    <value>There was an error trying to purchase</value>
+    <value>尝试购买时出错</value>
   </data>
   <data name="TourGuide_Step1.Title" xml:space="preserve">
-    <value>Getting started 🚀</value>
+    <value>开始使用🚀</value>
   </data>
   <data name="TourGuide_Step2.Title" xml:space="preserve">
-    <value>Select your prefered language</value>
+    <value>选择您喜欢的语言</value>
   </data>
   <data name="TourGuide_Step3.Title" xml:space="preserve">
-    <value>Select your prefered theme</value>
+    <value>选择您喜欢的主题</value>
   </data>
   <data name="User_Login.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>登录</value>
   </data>
   <data name="User_Login_State.Content" xml:space="preserve">
-    <value>Logging in</value>
+    <value>正在登录</value>
   </data>
   <data name="User_Signup.Content" xml:space="preserve">
-    <value>Sign-up</value>
+    <value>报名</value>
   </data>
   <data name="User_Signup_State.Content" xml:space="preserve">
-    <value>Setting up an account</value>
+    <value>设立账户</value>
   </data>
   <data name="Cheat_ForceHost.Header" xml:space="preserve">
-    <value>Force host</value>
+    <value>強制主機</value>
   </data>
 </root>

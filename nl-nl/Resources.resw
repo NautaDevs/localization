@@ -59,46 +59,46 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="_LanguageName" xml:space="preserve">
-    <value>English</value>
+    <value>Dutch</value>
   </data>
   <data name="Tray_Show.Text" xml:space="preserve">
     <value>Show</value>
   </data>
   <data name="Tray_Discord.Text" xml:space="preserve">
-    <value>Join the Discord</value>
+    <value>Sluit je aan bij de onenigheid</value>
   </data>
   <data name="Tray_Exit.Text" xml:space="preserve">
-    <value>Exit</value>
+    <value>Uitgang</value>
   </data>
   <data name="About_Card.Text" xml:space="preserve">
-    <value>All rights reserved.</value>
+    <value>Alle rechten voorbehouden.</value>
   </data>
   <data name="About_ColorPalette.Header" xml:space="preserve">
-    <value>Color palette</value>
+    <value>Kleurenpalet</value>
   </data>
   <data name="About_Contributors.Header" xml:space="preserve">
-    <value>Contributors</value>
+    <value>Bijdragers</value>
   </data>
   <data name="About_Dependencies.Header" xml:space="preserve">
-    <value>Dependencies &amp; references</value>
+    <value>Afhankelijkheden &amp; referenties</value>
   </data>
   <data name="About_Developers.Header" xml:space="preserve">
-    <value>Developers</value>
+    <value>Ontwikkelaars</value>
   </data>
   <data name="About_PageLink_BugReport.Text" xml:space="preserve">
-    <value>Report a bug</value>
+    <value>Rapporteer een bug</value>
   </data>
   <data name="About_PageLink_Discord.Text" xml:space="preserve">
-    <value>Discord</value>
+    <value>Meningsverschil</value>
   </data>
   <data name="About_PageLink_Feedback.Text" xml:space="preserve">
-    <value>Send feeback</value>
+    <value>Stuur een feedback</value>
   </data>
   <data name="About_PageLink_RequestFeature.Text" xml:space="preserve">
-    <value>Request a feature</value>
+    <value>Vraag een functie aan</value>
   </data>
   <data name="About_PageLink_Search.Text" xml:space="preserve">
-    <value>Search for features</value>
+    <value>Zoek naar kenmerken</value>
   </data>
   <data name="About_PageLink_Website.Text" xml:space="preserve">
     <value>Website</value>
@@ -107,31 +107,31 @@
     <value>YouTube</value>
   </data>
   <data name="About_PageLink_Docs.Text" xml:space="preserve">
-    <value>Documentation</value>
+    <value>Documentatie</value>
   </data>
   <data name="About_PageLink_Donate.Text" xml:space="preserve">
-    <value>Donate</value>
+    <value>Doneer</value>
   </data>
   <data name="About_Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>Versie</value>
   </data>
   <data name="AboutDesc.Text" xml:space="preserve">
-    <value>is an elegant and powerful modding tool that aims to be the most sophisticated Call of Duty cheating software available for PC. In addition to having a stunning user interface, which you won't find on any other modding programs, it is also jam-packed with features that other external tools don't provide. Made with 💗 by the Nauta Dev Team.</value>
+    <value>is een elegante en krachtige modding-tool die tot doel heeft de meest geavanceerde Call of Duty-cheatsoftware te zijn die beschikbaar is voor pc. Naast dat het een verbluffende gebruikersinterface heeft, die je bij geen enkel ander moddingprogramma zult vinden, zit het ook boordevol functies die andere externe tools niet bieden. Gemaakt met 💗 door het Nauta Dev-team.</value>
   </data>
   <data name="AboutTitle.Text" xml:space="preserve">
-    <value>About</value>
+    <value>Over</value>
   </data>
   <data name="AppDisplayBuild.Text" xml:space="preserve">
-    <value>Alpha</value>
+    <value>Alfa</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic" xml:space="preserve">
-    <value>Desktop acrylic</value>
+    <value>Bureaublad acryl</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic_Base" xml:space="preserve">
-    <value>Acrylic base</value>
+    <value>Acryl basis</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic_Thin" xml:space="preserve">
-    <value>Acrylic thin</value>
+    <value>Acryl dun</value>
   </data>
   <data name="Appearance_Backdrop_Mica" xml:space="preserve">
     <value>Mica</value>
@@ -143,508 +143,508 @@
     <value>Accent</value>
   </data>
   <data name="Appearance_Border_Accent_Secondary" xml:space="preserve">
-    <value>Accent secondary</value>
+    <value>Accent secundair</value>
   </data>
   <data name="Appearance_Border_Default" xml:space="preserve">
-    <value>Default</value>
+    <value>Standaard</value>
   </data>
   <data name="Appearance_Border_Dialog.Title" xml:space="preserve">
-    <value>Border settings</value>
+    <value>Randinstellingen</value>
   </data>
   <data name="Appearance_Border_Rainbow" xml:space="preserve">
-    <value>Rainbow</value>
+    <value>Regenboog</value>
   </data>
   <data name="Appearance_CreateTheme.Text" xml:space="preserve">
-    <value>Create new</value>
+    <value>Maak nieuw</value>
   </data>
   <data name="Appearance_ImportTheme.Text" xml:space="preserve">
-    <value>Import theme</value>
+    <value>Thema importeren</value>
   </data>
   <data name="Appearance_ImportTheme_Hint" xml:space="preserve">
-    <value>Successfully imported</value>
+    <value>Succesvol geïmporteerd</value>
   </data>
   <data name="Appearance_ExportTheme.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Export theme</value>
+    <value>Thema exporteren</value>
   </data>
   <data name="Appearance_ExportTheme_Hint" xml:space="preserve">
-    <value>Successfully exported to</value>
+    <value>Succesvol geëxporteerd naar</value>
   </data>
   <data name="Appearance_DeleteTheme.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Delete theme</value>
+    <value>Thema verwijderen</value>
   </data>
   <data name="Appearance_Group_Backdrop.Header" xml:space="preserve">
-    <value>Backdrop</value>
+    <value>Achtergrond</value>
   </data>
   <data name="Appearance_Group_Border.Header" xml:space="preserve">
-    <value>Border</value>
+    <value>Grens</value>
   </data>
   <data name="Appearance_Group_MyThemes.Header" xml:space="preserve">
-    <value>My themes</value>
+    <value>Mijn thema's</value>
   </data>
   <data name="Appearance_Group_Theme.Header" xml:space="preserve">
-    <value>Theme</value>
+    <value>Thema</value>
   </data>
   <data name="Appearance_Theme_Dark.Content" xml:space="preserve">
-    <value>Dark</value>
+    <value>Donker</value>
   </data>
   <data name="Appearance_Theme_Dark.Text" xml:space="preserve">
-    <value>Dark</value>
+    <value>Donker</value>
   </data>
   <data name="Appearance_Theme_Forest" xml:space="preserve">
-    <value>Bubbles</value>
+    <value>Bubbels</value>
   </data>
   <data name="Appearance_Theme_Glacier" xml:space="preserve">
-    <value>Glacier</value>
+    <value>Gletsjer</value>
   </data>
   <data name="Appearance_Theme_Light.Content" xml:space="preserve">
-    <value>Light</value>
+    <value>Licht</value>
   </data>
   <data name="Appearance_Theme_Light.Text" xml:space="preserve">
-    <value>Light</value>
+    <value>Licht</value>
   </data>
   <data name="Appearance_Theme_Solitary" xml:space="preserve">
-    <value>Solitary explorer</value>
+    <value>Eenzame ontdekkingsreiziger</value>
   </data>
   <data name="Appearance_Theme_Submerged" xml:space="preserve">
-    <value>Submerged</value>
+    <value>Ondergedompeld</value>
   </data>
   <data name="Appearance_Theme_System" xml:space="preserve">
-    <value>Use system preferences</value>
+    <value>Gebruik systeemvoorkeuren</value>
   </data>
   <data name="AppearanceDesc.Text" xml:space="preserve">
-    <value>Choose from a range of visually appealing themes 🎨 to match your preferences. Breeze through your browsing experience in an environment that reflects your personality.</value>
+    <value>Kies uit een reeks visueel aantrekkelijke thema's 🎨 die bij uw voorkeuren passen. Blader door uw browse-ervaring in een omgeving die uw persoonlijkheid weerspiegelt.</value>
   </data>
   <data name="AppearanceTitle.Text" xml:space="preserve">
-    <value>Appearance</value>
+    <value>Verschijning</value>
   </data>
   <data name="Application_Card_AlwaysOnTop.Header" xml:space="preserve">
-    <value>Always on top</value>
+    <value>Altijd bovenaan</value>
   </data>
   <data name="Application_Card_CloseToTray.Header" xml:space="preserve">
-    <value>Close to system tray</value>
+    <value>Dicht bij systeemvak</value>
   </data>
   <data name="Application_Card_Discord.Description" xml:space="preserve">
-    <value>Display in your Discord activity.</value>
+    <value>Weergeven in uw Discord-activiteit.</value>
   </data>
   <data name="Application_Card_Discord.Header" xml:space="preserve">
-    <value>Discord Rich Presence</value>
+    <value>Onenigheid Rijke aanwezigheid</value>
   </data>
   <data name="Application_Card_DiscordLogoAnim.Description" xml:space="preserve">
-    <value>Toggle between an animated and static logo.</value>
+    <value>Schakel tussen een geanimeerd en statisch logo.</value>
   </data>
   <data name="Application_Card_Sounds.Description" xml:space="preserve">
-    <value>Controls provide audible feedback.</value>
+    <value>Bedieningselementen geven hoorbare feedback.</value>
   </data>
   <data name="Application_Card_Sounds.Header" xml:space="preserve">
-    <value>Sounds</value>
+    <value>Geluiden</value>
   </data>
   <data name="Application_Card_ProcessMem.Header" xml:space="preserve">
-    <value>Process Memory</value>
+    <value>Procesgeheugen</value>
   </data>
   <data name="Application_Card_CPUMem.Header" xml:space="preserve">
-    <value>CPU Memory</value>
+    <value>CPU-geheugen</value>
   </data>
   <data name="Application_Card_SystemInformation.Header" xml:space="preserve">
-    <value>System Information</value>
+    <value>Systeeminformatie</value>
   </data>
   <data name="Application_Card_OSVersion.Header" xml:space="preserve">
-    <value>OS Version</value>
+    <value>OS-versie</value>
   </data>
   <data name="Application_Card_ProcessID.Header" xml:space="preserve">
-    <value>Process ID</value>
+    <value>Proces-ID</value>
   </data>
   <data name="Application_Card_PrivilegedProcess.Header" xml:space="preserve">
-    <value>Privileged Process</value>
+    <value>Bevoorrecht proces</value>
   </data>
   <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
-    <value>Animated logo</value>
+    <value>Geanimeerd logo</value>
   </data>
   <data name="Application_Group_Behavior.Header" xml:space="preserve">
-    <value>Behavior</value>
+    <value>Gedrag</value>
   </data>
   <data name="Application_Group_Window.Header" xml:space="preserve">
-    <value>Window options</value>
+    <value>Venster opties</value>
   </data>
   <data name="Application_InfoBar_Language.Title" xml:space="preserve">
-    <value>Some localized strings may require you to restart to load properly.</value>
+    <value>Voor sommige gelokaliseerde tekenreeksen moet u mogelijk opnieuw opstarten om correct te kunnen laden.</value>
   </data>
   <data name="Application_Language.Header" xml:space="preserve">
-    <value>Language</value>
+    <value>Taal</value>
   </data>
   <data name="Application_Holiday.Header" xml:space="preserve">
-    <value>Holiday overlays</value>
+    <value>Vakantie-overlays</value>
   </data>
   <data name="ApplicationDesc.Text" xml:space="preserve">
-    <value>Unlock the true potential by personalizing your settings. Select your preferred language, window options, ensuring an experience that resonates with you, wherever you are in the world 🌍.</value>
+    <value>Ontgrendel het ware potentieel door uw instellingen te personaliseren. Selecteer uw voorkeurstaal en vensteropties, zodat u verzekerd bent van een ervaring die bij u resoneert, waar ter wereld u ook bent 🌍.</value>
   </data>
   <data name="ApplicationTitle.Text" xml:space="preserve">
-    <value>Application</value>
+    <value>Sollicitatie</value>
   </data>
   <data name="AppNotificationMinimizedTitle" xml:space="preserve">
-    <value>Minimized</value>
+    <value>Geminimaliseerd</value>
   </data>
   <data name="AppNotificationMinimizedDescription" xml:space="preserve">
-    <value>has been minimized to the system tray. Right click for more options.</value>
+    <value>is geminimaliseerd naar het systeemvak. Klik met de rechtermuisknop voor meer opties.</value>
   </data>
   <data name="AppNotificationMinimizedHint" xml:space="preserve">
-    <value>You can disable this feature in settings.</value>
+    <value>U kunt deze functie uitschakelen in de instellingen.</value>
   </data>
   <data name="AppNotificationMinimizedHintButton" xml:space="preserve">
-    <value>Open settings</value>
+    <value>Instellingen openen</value>
   </data>
   <data name="AppSearchHint.PlaceholderText" xml:space="preserve">
-    <value>Find games, library mods, store items and more</value>
+    <value>Vind games, bibliotheekmods, winkelitems en meer</value>
   </data>
   <data name="BugReport_Dialog_ComboBox_Page.Text" xml:space="preserve">
-    <value>Where did this issue occur?</value>
+    <value>Waar heeft dit probleem zich voorgedaan?</value>
   </data>
   <data name="BugReport_Dialog_ComboBox_Unsure.Content" xml:space="preserve">
-    <value>Unsure</value>
+    <value>Onzeker</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Sent" xml:space="preserve">
-    <value>Bug report sent to the developers privately</value>
+    <value>Bugrapport verzonden naar de ontwikkelaars privé</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Wait" xml:space="preserve">
-    <value>You've already sent a report recently. Please wait a few minutes.</value>
+    <value>U heeft onlangs al een rapport verzonden. Wacht een paar minuten.</value>
   </data>
   <data name="BugReport_Dialog_State" xml:space="preserve">
-    <value>Reporting an issue</value>
+    <value>Een probleem melden</value>
   </data>
   <data name="BugReport_Dialog_TextBox_Description.PlaceholderText" xml:space="preserve">
-    <value>Description</value>
+    <value>Beschrijving</value>
   </data>
   <data name="BugReport_Dialog_TextBox_Title.PlaceholderText" xml:space="preserve">
-    <value>Title</value>
+    <value>Titel</value>
   </data>
   <data name="BugReport_Dialog_Title" xml:space="preserve">
-    <value>Report a bug</value>
+    <value>Rapporteer een bug</value>
   </data>
   <data name="Chat_Guidelines.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Guidelines</value>
+    <value>Richtlijnen</value>
   </data>
   <data name="Chat_Informational_ReadMe.Text" xml:space="preserve">
-    <value>Read guidelines before chatting</value>
+    <value>Lees de richtlijnen voordat u gaat chatten</value>
   </data>
   <data name="Chat_Members_Online.Text" xml:space="preserve">
-    <value>Members online</value>
+    <value>Leden online</value>
   </data>
   <data name="Chat_MembersList_Hide.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Hide members list</value>
+    <value>Ledenlijst verbergen</value>
   </data>
   <data name="Chat_MembersList_Show.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Show members list</value>
+    <value>Toon ledenlijst</value>
   </data>
   <data name="Chat_MessageBox.PlaceholderText" xml:space="preserve">
-    <value>Message #general-chat</value>
+    <value>Bericht #algemeen-chat</value>
   </data>
   <data name="CustomTheme_Background_Opacity.Text" xml:space="preserve">
-    <value>Background image opacity</value>
+    <value>Dekking van de achtergrondafbeelding</value>
   </data>
   <data name="CustomTheme_Background_Url.PlaceholderText" xml:space="preserve">
-    <value>Background image url</value>
+    <value>Achtergrondafbeelding-URL</value>
   </data>
   <data name="CustomTheme_Dialog.Title" xml:space="preserve">
-    <value>Create a custom theme</value>
+    <value>Maak een aangepast thema</value>
   </data>
   <data name="CustomTheme_Name.Header" xml:space="preserve">
-    <value>Theme name</value>
+    <value>Thema naam</value>
   </data>
   <data name="CustomTheme_Name.PlaceholderText" xml:space="preserve">
-    <value>My theme</value>
+    <value>Mijn thema</value>
   </data>
   <data name="CustomTheme_Primary.Text" xml:space="preserve">
-    <value>Primary color</value>
+    <value>Primaire kleur</value>
   </data>
   <data name="CustomTheme_Secondary.Text" xml:space="preserve">
-    <value>Secondary color</value>
+    <value>Secundaire kleur</value>
   </data>
   <data name="CustomTheme_Theme.Header" xml:space="preserve">
-    <value>Prefered theme</value>
+    <value>Voorkeursthema</value>
   </data>
   <data name="Dashboard_Banner_Button_More.Text" xml:space="preserve">
-    <value>View the library</value>
+    <value>Bekijk de bibliotheek</value>
   </data>
   <data name="Dashboard_Banner_Button_Use.Text" xml:space="preserve">
-    <value>Use now</value>
+    <value>Gebruik nu</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout.Text" xml:space="preserve">
-    <value>Banner settings</value>
+    <value>Bannerinstellingen</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Banner settings</value>
+    <value>Bannerinstellingen</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_AnimSpeed.Text" xml:space="preserve">
-    <value>Animation speed</value>
+    <value>Animatiesnelheid</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_AnimSpeedDefault.Text" xml:space="preserve">
-    <value>Default</value>
+    <value>Standaard</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_PatternSelect.Text" xml:space="preserve">
-    <value>Select a pattern</value>
+    <value>Selecteer een patroon</value>
   </data>
   <data name="Dashboard_Banner_Title.Text" xml:space="preserve">
-    <value>Control your experience with {App-LibraryMenu}</value>
+    <value>Beheer uw ervaring met {App-LibraryMenu}</value>
   </data>
   <data name="Dashboard_Group_New.Header" xml:space="preserve">
-    <value>What's new</value>
+    <value>Wat is er nieuw</value>
   </data>
   <data name="Dashboard_Group_Stats.Header" xml:space="preserve">
-    <value>Live statistics</value>
+    <value>Live statistieken</value>
   </data>
   <data name="Dashboard_Group_More.Header" xml:space="preserve">
-    <value>Even more</value>
+    <value>Nog meer</value>
   </data>
   <data name="Dashboard_More_Leaderboard.Text" xml:space="preserve">
-    <value>Leaderboard</value>
+    <value>Leiderbord</value>
   </data>
   <data name="Dashboard_HeaderMOTD_1.Text" xml:space="preserve">
-    <value>More app designs than Leafized's gsc menus. 😏</value>
+    <value>Meer app-ontwerpen dan de gsc-menu's van Leafized. 😏</value>
   </data>
   <data name="Dashboard_HeaderMOTD_10.Text" xml:space="preserve">
-    <value>Play ZBR today!</value>
+    <value>Speel vandaag nog ZBR!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_11.Text" xml:space="preserve">
     <value>{App-Helper2}!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_12.Text" xml:space="preserve">
-    <value>{App-Website}</value>
+    <value>{App-website}</value>
   </data>
   <data name="Dashboard_HeaderMOTD_13.Text" xml:space="preserve">
-    <value>Check out our Devlogs on YouTube!</value>
+    <value>Bekijk onze devlogs op YouTube!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_14.Text" xml:space="preserve">
-    <value>Wake the fuck up babe, {App-Name} just dropped.</value>
+    <value>Word verdomme wakker, {App-Name} is zojuist gevallen.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_2.Text" xml:space="preserve">
-    <value>{App-NameShort}-Good tool.</value>
+    <value>{App-NameShort}-Goed hulpmiddel.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_3.Text" xml:space="preserve">
-    <value>{App-Dev2} was here.</value>
+    <value>{App-Dev2} was hier.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_4.Text" xml:space="preserve">
-    <value>{App-Dev1} was here.</value>
+    <value>{App-Dev1} was hier.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_5.Text" xml:space="preserve">
-    <value>Sorry for the delays! 🤐</value>
+    <value>Sorry voor de vertragingen! 🤐</value>
   </data>
   <data name="Dashboard_HeaderMOTD_6.Text" xml:space="preserve">
-    <value>Made with 💸 by {App-Dev1}.</value>
+    <value>Gemaakt met 💸 door {App-Dev1}.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_7.Text" xml:space="preserve">
-    <value>What happened to the {IL} store?</value>
+    <value>Wat is er met de {IL}-winkel gebeurd?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_8.Text" xml:space="preserve">
-    <value>Have you heard of {IL} 2.0?</value>
+    <value>Heeft u gehoord van {IL} 2.0?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_9.Text" xml:space="preserve">
-    <value>Yo what is going on guys, {App-Helper1} here.</value>
+    <value>Yo, wat is er aan de hand jongens, {App-Helper1} hier.</value>
   </data>
   <data name="Dashboard_New_Achievements.Text" xml:space="preserve">
-    <value>Achievements</value>
+    <value>Prestaties</value>
   </data>
   <data name="Dashboard_New_Changelogs.Text" xml:space="preserve">
-    <value>Release notes for</value>
+    <value>Releaseopmerkingen voor</value>
   </data>
   <data name="Dashboard_New_MOTD.Text" xml:space="preserve">
-    <value>Message of the day</value>
+    <value>Bericht van de dag</value>
   </data>
   <data name="Dashboard_Stats_LibraryUses.Text" xml:space="preserve">
-    <value>Library uses</value>
+    <value>Bibliotheek gebruikt</value>
   </data>
   <data name="Dashboard_Stats_Online.Text" xml:space="preserve">
     <value>Online</value>
   </data>
   <data name="Dashboard_Stats_PointsEarned.Text" xml:space="preserve">
-    <value>Points earned</value>
+    <value>Punten verdiend</value>
   </data>
   <data name="Dashboard_Stats_PointsSpent.Text" xml:space="preserve">
-    <value>Points spent</value>
+    <value>Punten besteed</value>
   </data>
   <data name="Dashboard_Stats_StorePurchases.Text" xml:space="preserve">
-    <value>Store purchases</value>
+    <value>Winkelaankopen</value>
   </data>
   <data name="Dashboard_Stats_Users.Text" xml:space="preserve">
-    <value>Users</value>
+    <value>Gebruikers</value>
   </data>
   <data name="Dashboard_Tile_Discord.Description" xml:space="preserve">
-    <value>Join the official Discord server.</value>
+    <value>Word lid van de officiële Discord-server.</value>
   </data>
   <data name="Dashboard_Tile_Discord.Title" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Discord-server</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Description" xml:space="preserve">
-    <value>An overview of how it works.</value>
+    <value>Een overzicht van hoe het werkt.</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Title" xml:space="preserve">
-    <value>Getting started</value>
+    <value>Aan de slag</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Description" xml:space="preserve">
-    <value>Help keep it free by donating.</value>
+    <value>Help het gratis te houden door te doneren.</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Title" xml:space="preserve">
-    <value>Stripe donations</value>
+    <value>Streep donaties</value>
   </data>
   <data name="Dashboard_Tile_Trello.Description" xml:space="preserve">
-    <value>Keep up-to-date with planned features &amp; updates.</value>
+    <value>Blijf op de hoogte van geplande functies en updates.</value>
   </data>
   <data name="Dashboard_Tile_Trello.Title" xml:space="preserve">
-    <value>Trello board</value>
+    <value>Trello-bord</value>
   </data>
   <data name="Dashboard_Tile_Website.Description" xml:space="preserve">
-    <value>Check out our website!</value>
+    <value>Bekijk onze website!</value>
   </data>
   <data name="Dashboard_Tile_Website.Title" xml:space="preserve">
     <value>Website</value>
   </data>
   <data name="Dashboard_Tile_YouTube.Description" xml:space="preserve">
-    <value>Check out our devlogs.</value>
+    <value>Bekijk onze devlogs.</value>
   </data>
   <data name="Dashboard_Tile_YouTube.Title" xml:space="preserve">
-    <value>YouTube channel</value>
+    <value>YouTube-kanaal</value>
   </data>
   <data name="Dashboard_Tile_IL.Description" xml:space="preserve">
-    <value>The only GSC Compiler tailored for the IW Engine. Supported across Xbox and PC.</value>
+    <value>De enige GSC-compiler die is afgestemd op de IW-engine. Ondersteund op Xbox en pc.</value>
   </data>
   <data name="Dialog_Button_Agree.Content" xml:space="preserve">
-    <value>I agree</value>
+    <value>Ik ben het ermee eens</value>
   </data>
   <data name="Dialog_Button_Buy.Text" xml:space="preserve">
-    <value>Buy for</value>
+    <value>Koop voor</value>
   </data>
   <data name="Dialog_Button_Close.Content" xml:space="preserve">
-    <value>Close</value>
+    <value>Dichtbij</value>
   </data>
   <data name="Dialog_Button_Save.Content" xml:space="preserve">
-    <value>Save</value>
+    <value>Redden</value>
   </data>
   <data name="Dialog_Button_Send.Content" xml:space="preserve">
-    <value>Send</value>
+    <value>Versturen</value>
   </data>
   <data name="Dialog_Button_Back.Content" xml:space="preserve">
-    <value>Back</value>
+    <value>Rug</value>
   </data>
   <data name="Dialog_Button_Next.Content" xml:space="preserve">
-    <value>Next</value>
+    <value>Volgende</value>
   </data>
   <data name="Dialog_Button_Start.Content" xml:space="preserve">
-    <value>Let's go</value>
+    <value>Laten we gaan</value>
   </data>
   <data name="Dialog_Button_Update.Content" xml:space="preserve">
     <value>Update</value>
   </data>
   <data name="Dialog_Button_AYS.Content" xml:space="preserve">
-    <value>Are you sure?</value>
+    <value>Weet je het zeker?</value>
   </data>
   <data name="DiscordRPC_Button_Server" xml:space="preserve">
-    <value>Discord Server</value>
+    <value>Discord-server</value>
   </data>
   <data name="DiscordRPC_Button_Website" xml:space="preserve">
     <value>Website</value>
   </data>
   <data name="Feedback_Dialog_Title" xml:space="preserve">
-    <value>Send feedback</value>
+    <value>Stuur feedback</value>
   </data>
   <data name="Feedback_Dialog_State" xml:space="preserve">
-    <value>Sharing feedback</value>
+    <value>Feedback delen</value>
   </data>
   <data name="Search_Dialog_State" xml:space="preserve">
-    <value>Searching</value>
+    <value>Zoeken</value>
   </data>
   <data name="Filters_Button.Text" xml:space="preserve">
     <value>Filters</value>
   </data>
   <data name="Games_ComingSoon.Text" xml:space="preserve">
-    <value>Coming soon</value>
+    <value>Binnenkort beschikbaar</value>
   </data>
   <data name="Games_Platform.Text" xml:space="preserve">
     <value>Platform</value>
   </data>
   <data name="Guideline_Dialog_Actions.Text" xml:space="preserve">
-    <value>By accepting these rules and participating in this chat, you agree to be bound by these rules. Please note that these rules and guidelines are subject to change at any time. Additionally, we reserve the right to take appropriate action if any rule is found to be broken, including chat mute and bans.</value>
+    <value>Door deze regels te accepteren en deel te nemen aan deze chat, gaat u ermee akkoord gebonden te zijn aan deze regels. Houd er rekening mee dat deze regels en richtlijnen op elk moment kunnen worden gewijzigd. Bovendien behouden we ons het recht voor om passende actie te ondernemen als wordt vastgesteld dat een regel wordt overtreden, inclusief het dempen van chats en het blokkeren ervan.</value>
   </data>
   <data name="Guideline_Dialog_Agreement.Header" xml:space="preserve">
-    <value>Read and agree to the chat rules.</value>
+    <value>Lees en ga akkoord met de chatregels.</value>
   </data>
   <data name="Guideline_Dialog_Title" xml:space="preserve">
-    <value>Before you can chat...</value>
+    <value>Voordat je kunt chatten...</value>
   </data>
   <data name="Guideline_Rule_1_Info.Description" xml:space="preserve">
-    <value>Absolutely no harassment, witch hunting, sexism, racism or hate speech will be tolerated.</value>
+    <value>Intimidatie, heksenjacht, seksisme, racisme of haatzaaiende uitlatingen worden absoluut niet getolereerd.</value>
   </data>
   <data name="Guideline_Rule_1_Title.Text" xml:space="preserve">
-    <value>Be respectful</value>
+    <value>Wees respectvol</value>
   </data>
   <data name="Guideline_Rule_2_Info.Description" xml:space="preserve">
-    <value>No age-restricted or obscene content. This includes text, image and video links featuring nudity, sex, hard violence or other disturbing graphic content.</value>
+    <value>Geen leeftijdsgebonden of obscene inhoud. Dit omvat tekst-, beeld- en videolinks met naaktheid, seks, hard geweld of andere verontrustende grafische inhoud.</value>
   </data>
   <data name="Guideline_Rule_2_Title.Text" xml:space="preserve">
-    <value>No NSFW content</value>
+    <value>Geen NSFW-inhoud</value>
   </data>
   <data name="Guideline_Rule_3_Info.Description" xml:space="preserve">
-    <value>No spam or promotion (discord server links, advertisements, etc).</value>
+    <value>Geen spam of promotie (links naar discord-servers, advertenties, enz.).</value>
   </data>
   <data name="Guideline_Rule_3_Title.Text" xml:space="preserve">
-    <value>No spam or promotion</value>
+    <value>Geen spam of promotie</value>
   </data>
   <data name="Help_Card_Hotkeys.Header" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>Sneltoetsen</value>
   </data>
   <data name="Help_Card_Search.Header" xml:space="preserve">
-    <value>Search</value>
+    <value>Zoekopdracht</value>
   </data>
   <data name="Help_Card_Notifications.Header" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Meldingen</value>
   </data>
   <data name="Help_Group_Inquiries.Header" xml:space="preserve">
-    <value>More inquiries? Join the Discord!</value>
+    <value>Meer vragen? Sluit je aan bij de onenigheid!</value>
   </data>
   <data name="Help_Group_Shortcuts.Header" xml:space="preserve">
-    <value>Shortcuts</value>
+    <value>Snelkoppelingen</value>
   </data>
   <data name="HelpDesc.Text" xml:space="preserve">
-    <value>Need help on finding things? 🔍 We got your back!</value>
+    <value>Hulp nodig bij het vinden van spullen? 🔍 Wij staan ​​achter je!</value>
   </data>
   <data name="HelpTitle.Text" xml:space="preserve">
-    <value>Help</value>
+    <value>Hulp</value>
   </data>
   <data name="Library_Most_Popular.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Most popular</value>
+    <value>Meest populair</value>
   </data>
   <data name="Library_Author.Text" xml:space="preserve">
-    <value>Author</value>
+    <value>Auteur</value>
   </data>
   <data name="Library_Game.Text" xml:space="preserve">
-    <value>Game</value>
+    <value>Spel</value>
   </data>
   <data name="Library_Settings.Header" xml:space="preserve">
-    <value>Project settings</value>
+    <value>Projectinstellingen</value>
   </data>
   <data name="Library_Settings_Gamemode.Header" xml:space="preserve">
-    <value>Select gamemode</value>
+    <value>Selecteer spelmodus</value>
   </data>
   <data name="Library_Settings_Platform.Header" xml:space="preserve">
-    <value>Select platform</value>
+    <value>Selecteer platform</value>
   </data>
   <data name="Library_Inject.Text" xml:space="preserve">
-    <value>Inject</value>
+    <value>Injecteren</value>
   </data>
   <data name="Library_InjectionCount.Text" xml:space="preserve">
-    <value>Injections</value>
+    <value>Injecties</value>
   </data>
   <data name="Library_LastUpdateDate.Text" xml:space="preserve">
-    <value>Last updated on</value>
+    <value>Laatst bijgewerkt op</value>
   </data>
   <data name="Library_Showcase.Content" xml:space="preserve">
-    <value>Showcase</value>
+    <value>Etalage</value>
   </data>
   <data name="Library_Unload.Text" xml:space="preserve">
-    <value>Unload</value>
+    <value>Lossen</value>
   </data>
   <data name="Library_Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>Versie</value>
   </data>
   <data name="Login_Dialog.Title" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>Welkom bij</value>
   </data>
   <data name="Login_Dialog_Button_Login.Content" xml:space="preserve">
     <value>Login</value>
@@ -653,430 +653,430 @@
     <value>Register</value>
   </data>
   <data name="Login_Dialog_Button_Register_Info.Text" xml:space="preserve">
-    <value>New to {App-Name}</value>
+    <value>Nieuw bij {App-Name}</value>
   </data>
   <data name="Login_Dialog_ForgotPassword.Content" xml:space="preserve">
-    <value>Forgot your password?</value>
+    <value>Wachtwoord vergeten?</value>
   </data>
   <data name="Login_Dialog_Password.PlaceholderText" xml:space="preserve">
-    <value>Enter your password</value>
+    <value>Voer uw wachtwoord in</value>
   </data>
   <data name="Login_Dialog_Username.PlaceholderText" xml:space="preserve">
-    <value>Username</value>
+    <value>Gebruikersnaam</value>
   </data>
   <data name="Minigame_Selector_Dialog_Cooldown" xml:space="preserve">
-    <value>Cooldown active.</value>
+    <value>Afkoeling actief.</value>
   </data>
   <data name="Minigame_Selector_Dialog_Emoji.Header" xml:space="preserve">
-    <value>Find the 🎉</value>
+    <value>Zoek de 🎉</value>
   </data>
   <data name="Minigame_Selector_Dialog_Runner.Header" xml:space="preserve">
-    <value>Endless Runner</value>
+    <value>Eindeloze loper</value>
   </data>
   <data name="Minigame_Runner_JumpHint.Text" xml:space="preserve">
-    <value>Jump</value>
+    <value>Springen</value>
   </data>
   <data name="Minigame_Runner_GameOver.Text" xml:space="preserve">
-    <value>Game Over</value>
+    <value>Spel voorbij</value>
   </data>
   <data name="Minigame_Selector_Dialog_Title" xml:space="preserve">
-    <value>Select a minigame</value>
+    <value>Selecteer een minigame</value>
   </data>
   <data name="MyProfile_AccountBalance.Header" xml:space="preserve">
-    <value>Account balance</value>
+    <value>Rekeningsaldo</value>
   </data>
   <data name="MyProfile_AccountRole.Header" xml:space="preserve">
-    <value>Account role</value>
+    <value>Accountrol</value>
   </data>
   <data name="MyProfile_Avatar_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Select an avatar</value>
+    <value>Selecteer een avatar</value>
   </data>
   <data name="MyProfile_Avatar_Flyout_Title.Text" xml:space="preserve">
-    <value>Avatar customization</value>
+    <value>Avatar-aanpassing</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Select a banner</value>
+    <value>Selecteer een spandoek</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Title.Text" xml:space="preserve">
-    <value>Banner customization</value>
+    <value>Aanpassing van banners</value>
   </data>
   <data name="MyProfile_Button_Avatar.Content" xml:space="preserve">
-    <value>Browse avatars</value>
+    <value>Blader door avatars</value>
   </data>
   <data name="MyProfile_Button_Banner.Content" xml:space="preserve">
-    <value>Browse banners</value>
+    <value>Blader door banners</value>
   </data>
   <data name="MyProfile_Card_AccountInfo.Header" xml:space="preserve">
-    <value>Account info</value>
+    <value>Accountinformatie</value>
   </data>
   <data name="MyProfile_Card_Avatar.Header" xml:space="preserve">
-    <value>Choose an avatar</value>
+    <value>Kies een avatar</value>
   </data>
   <data name="MyProfile_Card_Banner.Header" xml:space="preserve">
-    <value>Choose a banner</value>
+    <value>Kies een spandoek</value>
   </data>
   <data name="MyProfile_Card_CreationDate.Header" xml:space="preserve">
-    <value>Account creation date</value>
+    <value>Aanmaakdatum van account</value>
   </data>
   <data name="MyProfile_Card_SignInOptions.Header" xml:space="preserve">
-    <value>Sign-in options</value>
+    <value>Inlogopties</value>
   </data>
   <data name="MyProfile_Card_Subscription.Header" xml:space="preserve">
-    <value>Subscription</value>
+    <value>Abonnement</value>
   </data>
   <data name="MyProfile_Card_TimeOnline.Header" xml:space="preserve">
-    <value>Time spent online</value>
+    <value>Tijd die u online doorbrengt</value>
   </data>
   <data name="MyProfile_Checkbox_AutoLogin.Content" xml:space="preserve">
-    <value>Auto login</value>
+    <value>Automatisch inloggen</value>
   </data>
   <data name="MyProfile_Checkbox_RememberMe.Content" xml:space="preserve">
-    <value>Remember me</value>
+    <value>Onthoud mij</value>
   </data>
   <data name="MyProfile_Group_Customization.Header" xml:space="preserve">
-    <value>Account customization</value>
+    <value>Accountaanpassing</value>
   </data>
   <data name="MyProfile_Group_General.Header" xml:space="preserve">
-    <value>General</value>
+    <value>Algemeen</value>
   </data>
   <data name="MyProfile_InfoBar_FreeMode.Title" xml:space="preserve">
-    <value>Free mode subscription is active.</value>
+    <value>Abonnement in de gratis modus is actief.</value>
   </data>
   <data name="MyProfile_InfoBar_Updated.Title" xml:space="preserve">
-    <value>Account successfully updated.</value>
+    <value>Account succesvol bijgewerkt.</value>
   </data>
   <data name="MyProfile_PageLink_Store.Text" xml:space="preserve">
-    <value>View the store</value>
+    <value>Bekijk de winkel</value>
   </data>
   <data name="MyProfileDesc.Text" xml:space="preserve">
-    <value>Customize your profile to stand out. Win NautaCoins to purchase avatars and banners from the store and show off the in the chat 💬 page!</value>
+    <value>Pas uw profiel aan om op te vallen. Win NautaCoins om avatars en banners in de winkel te kopen en te laten zien op de chat 💬pagina!</value>
   </data>
   <data name="MyProfileTitle.Text" xml:space="preserve">
-    <value>My account</value>
+    <value>Mijn rekening</value>
   </data>
   <data name="ConnectionsDesc.Text" xml:space="preserve">
-    <value>Display your Discord activity or connect to your PlayStation 4 to use library content on consoles! 🎮</value>
+    <value>Geef je Discord-activiteit weer of maak verbinding met je PlayStation 4 om bibliotheekinhoud op consoles te gebruiken! 🎮</value>
   </data>
   <data name="ConnectionsTitle.Text" xml:space="preserve">
-    <value>Connections</value>
+    <value>Verbindingen</value>
   </data>
   <data name="Notifications_Card_Chat.Description" xml:space="preserve">
-    <value>Popup alert badge when a new chat message is sent.</value>
+    <value>Pop-upwaarschuwingsbadge wanneer een nieuw chatbericht wordt verzonden.</value>
   </data>
   <data name="Notifications_Card_Chat.Text" xml:space="preserve">
-    <value>New message alerts</value>
+    <value>Nieuwe berichtwaarschuwingen</value>
   </data>
   <data name="Notifications_Card_InfoBar.Description" xml:space="preserve">
-    <value>This setting is required for some alerts.</value>
+    <value>Deze instelling is vereist voor sommige waarschuwingen.</value>
   </data>
   <data name="Notifications_Card_InfoBar.Text" xml:space="preserve">
-    <value>Informational alerts</value>
+    <value>Informatieve waarschuwingen</value>
   </data>
   <data name="Notifications_Card_Minimized.Description" xml:space="preserve">
-    <value>Receive a system tray alert when the app is minimized.</value>
+    <value>Ontvang een waarschuwing in het systeemvak wanneer de app is geminimaliseerd.</value>
   </data>
   <data name="Notifications_Card_Minimized.Text" xml:space="preserve">
-    <value>Minimized alerts</value>
+    <value>Geminimaliseerde waarschuwingen</value>
   </data>
   <data name="Notifications_Card_Session.Description" xml:space="preserve">
-    <value>Receive various in-app notifications.</value>
+    <value>Ontvang verschillende in-app-meldingen.</value>
   </data>
   <data name="Notifications_Card_Session.Text" xml:space="preserve">
-    <value>Session alerts</value>
+    <value>Sessiewaarschuwingen</value>
   </data>
   <data name="Notifications_CheckBox_Sounds.Content" xml:space="preserve">
-    <value>Play sound</value>
+    <value>Speel geluid af</value>
   </data>
   <data name="Notifications_ComboBox_Everytime.Content" xml:space="preserve">
-    <value>Every time</value>
+    <value>Elke keer</value>
   </data>
   <data name="Notifications_ComboBox_Never.Content" xml:space="preserve">
-    <value>Never</value>
+    <value>Nooit</value>
   </data>
   <data name="Notifications_ComboBox_Once.Content" xml:space="preserve">
-    <value>Once</value>
+    <value>Eenmaal</value>
   </data>
   <data name="Notifications_Empty_Hint.Text" xml:space="preserve">
-    <value>It's empty in here... ☹️</value>
+    <value>Het is hier leeg... ☹️</value>
   </data>
   <data name="Notifications_Group_InApp.Header" xml:space="preserve">
-    <value>In-App</value>
+    <value>In-app</value>
   </data>
   <data name="Notifications_Group_Windows.Header" xml:space="preserve">
-    <value>Windows</value>
+    <value>Ramen</value>
   </data>
   <data name="Notifications_Hyperlink_Error.Title" xml:space="preserve">
-    <value>Application sounds must be enabled first</value>
+    <value>Applicatiegeluiden moeten eerst worden ingeschakeld</value>
   </data>
   <data name="NotificationsDesc.Text" xml:space="preserve">
-    <value>We understand that there are times when you need uninterrupted focus. Snooze or mute notifications temporarily, providing you with uninterrupted sessions or moments of relaxation. When you're ready to reconnect, notifications will be waiting for you.</value>
+    <value>Wij begrijpen dat er momenten zijn waarop u ononderbroken focus nodig heeft. Snooze of demp meldingen tijdelijk, zodat u ononderbroken sessies of momenten van ontspanning krijgt. Wanneer u klaar bent om opnieuw verbinding te maken, staan ​​er meldingen op u te wachten.</value>
   </data>
   <data name="NotificationsTitle.Text" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Meldingen</value>
   </data>
   <data name="Password_Card_Update.Text" xml:space="preserve">
-    <value>Update password</value>
+    <value>Wachtwoord bijwerken</value>
   </data>
   <data name="Password_Card_Update_Info.Text" xml:space="preserve">
-    <value>Changing your password will automatically log you out and require you to log back in.</value>
+    <value>Als u uw wachtwoord wijzigt, wordt u automatisch uitgelogd en moet u zich opnieuw aanmelden.</value>
   </data>
   <data name="Password_InfoBar_Empty.Title" xml:space="preserve">
-    <value>Hold up! Your new password can't be empty. Please input your new password.</value>
+    <value>Wacht even! Uw nieuwe wachtwoord mag niet leeg zijn. Voer uw nieuwe wachtwoord in.</value>
   </data>
   <data name="Password_InfoBar_Invalid.Title" xml:space="preserve">
-    <value>Oops! Your new password is invalid. Please make your password unique.</value>
+    <value>Oeps! Uw nieuwe wachtwoord is ongeldig. Maak uw wachtwoord uniek.</value>
   </data>
   <data name="Password_InfoBar_Same.Title" xml:space="preserve">
-    <value>Oops! Your new password can't be the same as the old one. Please choose a new and unique password.</value>
+    <value>Oeps! Uw nieuwe wachtwoord mag niet hetzelfde zijn als het oude. Kies een nieuw en uniek wachtwoord.</value>
   </data>
   <data name="Password_InfoBar_Updated.Title" xml:space="preserve">
-    <value>Your password has been updated successfully. You're all set!</value>
+    <value>Uw wachtwoord is succesvol bijgewerkt. Je bent helemaal klaar!</value>
   </data>
   <data name="Password_Save.Text" xml:space="preserve">
-    <value>Save</value>
+    <value>Redden</value>
   </data>
   <data name="Password_Status_Invalid.Text" xml:space="preserve">
-    <value>Invalid</value>
+    <value>Ongeldig</value>
   </data>
   <data name="Password_Status_Medium.Text" xml:space="preserve">
     <value>Medium</value>
   </data>
   <data name="Password_Status_Strong.Text" xml:space="preserve">
-    <value>Strong</value>
+    <value>Sterk</value>
   </data>
   <data name="Password_Status_Weak.Text" xml:space="preserve">
-    <value>Weak</value>
+    <value>Zwak</value>
   </data>
   <data name="PasswordDesc.Text" xml:space="preserve">
-    <value>Forgot your password? Make a request in the official Discord server and we'll fix that for you asap! 😁</value>
+    <value>Wachtwoord vergeten? Doe een verzoek op de officiële Discord-server en wij lossen dat zo snel mogelijk voor je op! 😁</value>
   </data>
   <data name="PasswordTitle.Text" xml:space="preserve">
-    <value>Password</value>
+    <value>Wachtwoord</value>
   </data>
   <data name="Pattern_Axiom" xml:space="preserve">
-    <value>Axiom</value>
+    <value>Axioma</value>
   </data>
   <data name="Pattern_Cartographer" xml:space="preserve">
-    <value>Catographer</value>
+    <value>Catograaf</value>
   </data>
   <data name="Pattern_Diagmonds" xml:space="preserve">
-    <value>Diagmonds</value>
+    <value>Diamanten</value>
   </data>
   <data name="Pattern_Diamonds" xml:space="preserve">
-    <value>Diamonds</value>
+    <value>Diamanten</value>
   </data>
   <data name="Pattern_Geometry" xml:space="preserve">
-    <value>Geometry</value>
+    <value>Geometrie</value>
   </data>
   <data name="Pattern_GPlay" xml:space="preserve">
     <value>GPlay</value>
   </data>
   <data name="Pattern_Mosaic" xml:space="preserve">
-    <value>Mosaic</value>
+    <value>Mozaïek</value>
   </data>
   <data name="Pattern_ScanLines" xml:space="preserve">
-    <value>Scan lines</value>
+    <value>Lijnen scannen</value>
   </data>
   <data name="Pattern_Stripes" xml:space="preserve">
-    <value>Stripes</value>
+    <value>Strepen</value>
   </data>
   <data name="Progress_Dialog.Text" xml:space="preserve">
-    <value>Please wait</value>
+    <value>Wacht alstublieft</value>
   </data>
   <data name="Register_Dialog.Title" xml:space="preserve">
-    <value>Set up a new account!</value>
+    <value>Maak een nieuw account aan!</value>
   </data>
   <data name="Register_Dialog_Button_Login_Info.Text" xml:space="preserve">
-    <value>Already have an account?</value>
+    <value>Heeft u al een account?</value>
   </data>
   <data name="Register_Dialog_ConfirmPassword.PlaceholderText" xml:space="preserve">
-    <value>Confirm Password</value>
+    <value>Bevestig wachtwoord</value>
   </data>
   <data name="Register_Dialog_InfoBar_Empty" xml:space="preserve">
-    <value>Required input values were left empty.</value>
+    <value>Vereiste invoerwaarden zijn leeg gelaten.</value>
   </data>
   <data name="Register_Dialog_InfoBar_Match" xml:space="preserve">
-    <value>Passwords do not match.</value>
+    <value>Wachtwoorden komen niet overeen.</value>
   </data>
   <data name="Register_Dialog_InfoBar_Registered" xml:space="preserve">
-    <value>Account successfully registered.</value>
+    <value>Account succesvol geregistreerd.</value>
   </data>
   <data name="Register_Dialog_LicenseKey.PlaceholderText" xml:space="preserve">
-    <value>License key</value>
+    <value>Licentiesleutel</value>
   </data>
   <data name="Settings_About.Content" xml:space="preserve">
-    <value>About</value>
+    <value>Over</value>
   </data>
   <data name="Settings_About_State.Content" xml:space="preserve">
-    <value>Reading about</value>
+    <value>Over lezen</value>
   </data>
   <data name="Settings_Appearance.Content" xml:space="preserve">
-    <value>Appearance</value>
+    <value>Verschijning</value>
   </data>
   <data name="Settings_Appearance_State.Content" xml:space="preserve">
-    <value>Tweaking application appearance</value>
+    <value>Het uiterlijk van de applicatie aanpassen</value>
   </data>
   <data name="Settings_Application.Content" xml:space="preserve">
-    <value>Application</value>
+    <value>Sollicitatie</value>
   </data>
   <data name="Settings_Application_State.Content" xml:space="preserve">
-    <value>Tweaking application settings</value>
+    <value>Applicatie-instellingen aanpassen</value>
   </data>
   <data name="Settings_Connections.Content" xml:space="preserve">
-    <value>Connections</value>
+    <value>Verbindingen</value>
   </data>
   <data name="Settings_Connections_State.Content" xml:space="preserve">
-    <value>Tweaking connection settings</value>
+    <value>Verbindingsinstellingen aanpassen</value>
   </data>
   <data name="Settings_Help.Content" xml:space="preserve">
-    <value>Help</value>
+    <value>Hulp</value>
   </data>
   <data name="Settings_Help_State.Content" xml:space="preserve">
-    <value>Viewing the help center</value>
+    <value>Het helpcentrum bekijken</value>
   </data>
   <data name="Settings_MyProfile.Content" xml:space="preserve">
-    <value>My Account</value>
+    <value>Mijn account</value>
   </data>
   <data name="Settings_MyProfile_State.Content" xml:space="preserve">
-    <value>Editing account</value>
+    <value>Account bewerken</value>
   </data>
   <data name="Settings_Notifications.Content" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Meldingen</value>
   </data>
   <data name="Settings_Notifications_State.Content" xml:space="preserve">
-    <value>Editing notifications</value>
+    <value>Meldingen bewerken</value>
   </data>
   <data name="Settings_Password.Content" xml:space="preserve">
-    <value>Password</value>
+    <value>Wachtwoord</value>
   </data>
   <data name="Settings_Password_State.Content" xml:space="preserve">
-    <value>Editing account password</value>
+    <value>Accountwachtwoord bewerken</value>
   </data>
   <data name="Shell_Chat.Content" xml:space="preserve">
-    <value>Chat</value>
+    <value>Chatten</value>
   </data>
   <data name="Shell_Chat_State.Content" xml:space="preserve">
-    <value>Chatting with users</value>
+    <value>Chatten met gebruikers</value>
   </data>
   <data name="Shell_Chat_Title.Text" xml:space="preserve">
-    <value>Chat</value>
+    <value>Chatten</value>
   </data>
   <data name="Shell_Dashboard.Content" xml:space="preserve">
     <value>Dashboard</value>
   </data>
   <data name="Shell_Dashboard_State.Content" xml:space="preserve">
-    <value>Viewing the dashboard</value>
+    <value>Het dashboard bekijken</value>
   </data>
   <data name="Shell_Games.Content" xml:space="preserve">
-    <value>Games</value>
+    <value>Spellen</value>
   </data>
   <data name="Shell_Games_State.Content" xml:space="preserve">
-    <value>Browsing games selection</value>
+    <value>Bladeren door de selectie van games</value>
   </data>
   <data name="Shell_Games_Title.Text" xml:space="preserve">
-    <value>Games</value>
+    <value>Spellen</value>
   </data>
   <data name="Shell_Library.Content" xml:space="preserve">
-    <value>Library</value>
+    <value>Bibliotheek</value>
   </data>
   <data name="Shell_Library_State.Content" xml:space="preserve">
-    <value>Browsing user made content</value>
+    <value>Bladeren door door gebruikers gemaakte inhoud</value>
   </data>
   <data name="Shell_Library_Title.Text" xml:space="preserve">
-    <value>Library</value>
+    <value>Bibliotheek</value>
   </data>
   <data name="Shell_Search.PlaceholderText" xml:space="preserve">
-    <value>Search</value>
+    <value>Zoekopdracht</value>
   </data>
   <data name="Shell_Settings.Content" xml:space="preserve">
-    <value>Settings</value>
+    <value>Instellingen</value>
   </data>
   <data name="Shell_Store.Content" xml:space="preserve">
-    <value>Store</value>
+    <value>Winkel</value>
   </data>
   <data name="Shell_Store_State.Content" xml:space="preserve">
-    <value>Browsing the store</value>
+    <value>Bladeren door de winkel</value>
   </data>
   <data name="Shell_Store_Title.Text" xml:space="preserve">
-    <value>Store</value>
+    <value>Winkel</value>
   </data>
   <data name="Shell_UserDropDown_AppSettings.Text" xml:space="preserve">
-    <value>Application settings</value>
+    <value>Applicatie-instellingen</value>
   </data>
   <data name="Shell_UserDropDown_BrowseStore.Text" xml:space="preserve">
-    <value>Browse store</value>
+    <value>Blader door de winkel</value>
   </data>
   <data name="Shell_UserDropDown_EarnPoints.Text" xml:space="preserve">
-    <value>Earn NautaCoins</value>
+    <value>Verdien NautaCoins</value>
   </data>
   <data name="Shell_UserDropDown_MyAccount.Text" xml:space="preserve">
-    <value>My account</value>
+    <value>Mijn rekening</value>
   </data>
   <data name="Shell_UserDropDown_SignOut.Text" xml:space="preserve">
-    <value>Sign out</value>
+    <value>Meld u af</value>
   </data>
   <data name="Search_Games_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search games</value>
+    <value>Zoek spellen</value>
   </data>
   <data name="Search_Library_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search projects</value>
+    <value>Zoek projecten</value>
   </data>
   <data name="Search_Store_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search store</value>
+    <value>Zoek winkel</value>
   </data>
   <data name="Sorting_ComboBox_Hint.PlaceholderText" xml:space="preserve">
-    <value>Sort by</value>
+    <value>Sorteer op</value>
   </data>
   <data name="Sorting_ComboBox_Popularity.Content" xml:space="preserve">
-    <value>Popularity</value>
+    <value>Populariteit</value>
   </data>
   <data name="Sorting_ComboBox_DateUpdated.Content" xml:space="preserve">
-    <value>Last updated</value>
+    <value>Laatst bijgewerkt</value>
   </data>
   <data name="Sorting_ComboBox_Price_HighLow.Content" xml:space="preserve">
-    <value>Price: High to Low</value>
+    <value>Prijs: hoog naar laag</value>
   </data>
   <data name="Sorting_ComboBox_Price_LowHigh.Content" xml:space="preserve">
-    <value>Price: Low to High</value>
+    <value>Prijs: laag naar hoog</value>
   </data>
   <data name="Sorting_ComboBox_Relevance.Content" xml:space="preserve">
-    <value>Relevance</value>
+    <value>Relevantie</value>
   </data>
   <data name="Sorting_ComboBox_Title_AZ.Content" xml:space="preserve">
-    <value>Title A-Z</value>
+    <value>Titel A-Z</value>
   </data>
   <data name="Sorting_ComboBox_Title_ZA.Content" xml:space="preserve">
-    <value>Title Z-A</value>
+    <value>Titel Z-A</value>
   </data>
   <data name="Splash_Status_AuthFailed.Text" xml:space="preserve">
-    <value>Auth failed to initialize.</value>
+    <value>Auth kan niet worden geïnitialiseerd.</value>
   </data>
   <data name="Splash_Status_AuthSuccess.Text" xml:space="preserve">
-    <value>Connected to server.</value>
+    <value>Verbonden met server.</value>
   </data>
   <data name="Splash_Status_Initializing.Text" xml:space="preserve">
-    <value>Initializing auth...</value>
+    <value>Autorisatie initialiseren...</value>
   </data>
   <data name="Splash_Status_Wizard.Text" xml:space="preserve">
-    <value>Complete setup wizard...</value>
+    <value>Volledige installatiewizard...</value>
   </data>
   <data name="Splash_Status_Login.Text" xml:space="preserve">
-    <value>Awaiting user login...</value>
+    <value>In afwachting van inloggen van gebruiker...</value>
   </data>
   <data name="Splash_Status_LoginSuccess.Text" xml:space="preserve">
-    <value>Logging in...</value>
+    <value>Inloggen...</value>
   </data>
   <data name="Splash_Status_Resources.Text" xml:space="preserve">
-    <value>Gathering user information...</value>
+    <value>Gebruikersinformatie verzamelen...</value>
   </data>
   <data name="Splash_Status_Update.Text" xml:space="preserve">
-    <value>New update available!</value>
+    <value>Nieuwe update beschikbaar!</value>
   </data>
   <data name="Splash_Status_Downloading.Text" xml:space="preserve">
-    <value>Downloading</value>
+    <value>Downloaden</value>
   </data>
   <data name="Store_Filter_All.Content" xml:space="preserve">
-    <value>All</value>
+    <value>Alle</value>
   </data>
   <data name="Store_Filter_Avatars.Content" xml:space="preserve">
     <value>Avatars</value>
@@ -1085,36 +1085,36 @@
     <value>Banners</value>
   </data>
   <data name="Store_Owned.Text" xml:space="preserve">
-    <value>Owned</value>
+    <value>Eigendom</value>
   </data>
   <data name="Store_Purchase" xml:space="preserve">
-    <value>purchased</value>
+    <value>gekocht</value>
   </data>
   <data name="Store_Purchase_Error" xml:space="preserve">
-    <value>There was an error trying to purchase</value>
+    <value>Er is een fout opgetreden bij het kopen</value>
   </data>
   <data name="TourGuide_Step1.Title" xml:space="preserve">
-    <value>Getting started 🚀</value>
+    <value>Aan de slag 🚀</value>
   </data>
   <data name="TourGuide_Step2.Title" xml:space="preserve">
-    <value>Select your prefered language</value>
+    <value>Selecteer uw voorkeurstaal</value>
   </data>
   <data name="TourGuide_Step3.Title" xml:space="preserve">
-    <value>Select your prefered theme</value>
+    <value>Selecteer het gewenste thema</value>
   </data>
   <data name="User_Login.Content" xml:space="preserve">
     <value>Login</value>
   </data>
   <data name="User_Login_State.Content" xml:space="preserve">
-    <value>Logging in</value>
+    <value>Inloggen</value>
   </data>
   <data name="User_Signup.Content" xml:space="preserve">
-    <value>Sign-up</value>
+    <value>Aanmelden</value>
   </data>
   <data name="User_Signup_State.Content" xml:space="preserve">
-    <value>Setting up an account</value>
+    <value>Een account instellen</value>
   </data>
   <data name="Cheat_ForceHost.Header" xml:space="preserve">
-    <value>Force host</value>
+    <value>Forceer gastheer</value>
   </data>
 </root>

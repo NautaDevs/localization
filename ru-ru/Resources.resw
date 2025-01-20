@@ -59,1062 +59,1062 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="_LanguageName" xml:space="preserve">
-    <value>English</value>
+    <value>Russian</value>
   </data>
   <data name="Tray_Show.Text" xml:space="preserve">
-    <value>Show</value>
+    <value>Показывать</value>
   </data>
   <data name="Tray_Discord.Text" xml:space="preserve">
-    <value>Join the Discord</value>
+    <value>Присоединяйтесь к дискорду</value>
   </data>
   <data name="Tray_Exit.Text" xml:space="preserve">
-    <value>Exit</value>
+    <value>Выход</value>
   </data>
   <data name="About_Card.Text" xml:space="preserve">
-    <value>All rights reserved.</value>
+    <value>Все права защищены.</value>
   </data>
   <data name="About_ColorPalette.Header" xml:space="preserve">
-    <value>Color palette</value>
+    <value>Цветовая палитра</value>
   </data>
   <data name="About_Contributors.Header" xml:space="preserve">
-    <value>Contributors</value>
+    <value>Авторы</value>
   </data>
   <data name="About_Dependencies.Header" xml:space="preserve">
-    <value>Dependencies &amp; references</value>
+    <value>Зависимости и ссылки</value>
   </data>
   <data name="About_Developers.Header" xml:space="preserve">
-    <value>Developers</value>
+    <value>Разработчики</value>
   </data>
   <data name="About_PageLink_BugReport.Text" xml:space="preserve">
-    <value>Report a bug</value>
+    <value>Сообщить об ошибке</value>
   </data>
   <data name="About_PageLink_Discord.Text" xml:space="preserve">
-    <value>Discord</value>
+    <value>Раздор</value>
   </data>
   <data name="About_PageLink_Feedback.Text" xml:space="preserve">
-    <value>Send feeback</value>
+    <value>Отправить отзыв</value>
   </data>
   <data name="About_PageLink_RequestFeature.Text" xml:space="preserve">
-    <value>Request a feature</value>
+    <value>Запросить функцию</value>
   </data>
   <data name="About_PageLink_Search.Text" xml:space="preserve">
-    <value>Search for features</value>
+    <value>Поиск функций</value>
   </data>
   <data name="About_PageLink_Website.Text" xml:space="preserve">
-    <value>Website</value>
+    <value>Веб-сайт</value>
   </data>
   <data name="About_PageLink_YouTube.Text" xml:space="preserve">
-    <value>YouTube</value>
+    <value>Ютуб</value>
   </data>
   <data name="About_PageLink_Docs.Text" xml:space="preserve">
-    <value>Documentation</value>
+    <value>Документация</value>
   </data>
   <data name="About_PageLink_Donate.Text" xml:space="preserve">
-    <value>Donate</value>
+    <value>Пожертвовать</value>
   </data>
   <data name="About_Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>Версия</value>
   </data>
   <data name="AboutDesc.Text" xml:space="preserve">
-    <value>is an elegant and powerful modding tool that aims to be the most sophisticated Call of Duty cheating software available for PC. In addition to having a stunning user interface, which you won't find on any other modding programs, it is also jam-packed with features that other external tools don't provide. Made with 💗 by the Nauta Dev Team.</value>
+    <value>— это элегантный и мощный инструмент для моддинга, который призван стать самым сложным программным обеспечением для мошенничества в Call of Duty, доступным для ПК. Помимо потрясающего пользовательского интерфейса, которого вы не найдете ни в одной другой программе для моддинга, он также полон функций, которых нет в других внешних инструментах. Сделано с помощью 💗 командой разработчиков Nauta.</value>
   </data>
   <data name="AboutTitle.Text" xml:space="preserve">
-    <value>About</value>
+    <value>О</value>
   </data>
   <data name="AppDisplayBuild.Text" xml:space="preserve">
-    <value>Alpha</value>
+    <value>Альфа</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic" xml:space="preserve">
-    <value>Desktop acrylic</value>
+    <value>Настольный акрил</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic_Base" xml:space="preserve">
-    <value>Acrylic base</value>
+    <value>Акриловая основа</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic_Thin" xml:space="preserve">
-    <value>Acrylic thin</value>
+    <value>Акрил тонкий</value>
   </data>
   <data name="Appearance_Backdrop_Mica" xml:space="preserve">
-    <value>Mica</value>
+    <value>Слюда</value>
   </data>
   <data name="Appearance_Backdrop_MicaAlt" xml:space="preserve">
-    <value>Mica alt</value>
+    <value>Слюда альт</value>
   </data>
   <data name="Appearance_Border_Accent" xml:space="preserve">
-    <value>Accent</value>
+    <value>Акцент</value>
   </data>
   <data name="Appearance_Border_Accent_Secondary" xml:space="preserve">
-    <value>Accent secondary</value>
+    <value>Акцент вторичный</value>
   </data>
   <data name="Appearance_Border_Default" xml:space="preserve">
-    <value>Default</value>
+    <value>По умолчанию</value>
   </data>
   <data name="Appearance_Border_Dialog.Title" xml:space="preserve">
-    <value>Border settings</value>
+    <value>Настройки границ</value>
   </data>
   <data name="Appearance_Border_Rainbow" xml:space="preserve">
-    <value>Rainbow</value>
+    <value>Радуга</value>
   </data>
   <data name="Appearance_CreateTheme.Text" xml:space="preserve">
-    <value>Create new</value>
+    <value>Создать новый</value>
   </data>
   <data name="Appearance_ImportTheme.Text" xml:space="preserve">
-    <value>Import theme</value>
+    <value>Импортировать тему</value>
   </data>
   <data name="Appearance_ImportTheme_Hint" xml:space="preserve">
-    <value>Successfully imported</value>
+    <value>Успешно импортировано</value>
   </data>
   <data name="Appearance_ExportTheme.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Export theme</value>
+    <value>Экспортировать тему</value>
   </data>
   <data name="Appearance_ExportTheme_Hint" xml:space="preserve">
-    <value>Successfully exported to</value>
+    <value>Успешно экспортировано в</value>
   </data>
   <data name="Appearance_DeleteTheme.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Delete theme</value>
+    <value>Удалить тему</value>
   </data>
   <data name="Appearance_Group_Backdrop.Header" xml:space="preserve">
-    <value>Backdrop</value>
+    <value>фон</value>
   </data>
   <data name="Appearance_Group_Border.Header" xml:space="preserve">
-    <value>Border</value>
+    <value>Граница</value>
   </data>
   <data name="Appearance_Group_MyThemes.Header" xml:space="preserve">
-    <value>My themes</value>
+    <value>Мои темы</value>
   </data>
   <data name="Appearance_Group_Theme.Header" xml:space="preserve">
-    <value>Theme</value>
+    <value>Тема</value>
   </data>
   <data name="Appearance_Theme_Dark.Content" xml:space="preserve">
-    <value>Dark</value>
+    <value>Темный</value>
   </data>
   <data name="Appearance_Theme_Dark.Text" xml:space="preserve">
-    <value>Dark</value>
+    <value>Темный</value>
   </data>
   <data name="Appearance_Theme_Forest" xml:space="preserve">
-    <value>Bubbles</value>
+    <value>Пузыри</value>
   </data>
   <data name="Appearance_Theme_Glacier" xml:space="preserve">
-    <value>Glacier</value>
+    <value>Ледник</value>
   </data>
   <data name="Appearance_Theme_Light.Content" xml:space="preserve">
-    <value>Light</value>
+    <value>Свет</value>
   </data>
   <data name="Appearance_Theme_Light.Text" xml:space="preserve">
-    <value>Light</value>
+    <value>Свет</value>
   </data>
   <data name="Appearance_Theme_Solitary" xml:space="preserve">
-    <value>Solitary explorer</value>
+    <value>Одинокий исследователь</value>
   </data>
   <data name="Appearance_Theme_Submerged" xml:space="preserve">
-    <value>Submerged</value>
+    <value>Погруженный</value>
   </data>
   <data name="Appearance_Theme_System" xml:space="preserve">
-    <value>Use system preferences</value>
+    <value>Использовать системные настройки</value>
   </data>
   <data name="AppearanceDesc.Text" xml:space="preserve">
-    <value>Choose from a range of visually appealing themes 🎨 to match your preferences. Breeze through your browsing experience in an environment that reflects your personality.</value>
+    <value>Выбирайте из множества визуально привлекательных тем 🎨, соответствующих вашим предпочтениям. С легкостью наслаждайтесь просмотром страниц в среде, которая отражает вашу индивидуальность.</value>
   </data>
   <data name="AppearanceTitle.Text" xml:space="preserve">
-    <value>Appearance</value>
+    <value>Появление</value>
   </data>
   <data name="Application_Card_AlwaysOnTop.Header" xml:space="preserve">
-    <value>Always on top</value>
+    <value>Всегда на высоте</value>
   </data>
   <data name="Application_Card_CloseToTray.Header" xml:space="preserve">
-    <value>Close to system tray</value>
+    <value>Рядом с системным лотком</value>
   </data>
   <data name="Application_Card_Discord.Description" xml:space="preserve">
-    <value>Display in your Discord activity.</value>
+    <value>Отобразить в своей активности в Discord.</value>
   </data>
   <data name="Application_Card_Discord.Header" xml:space="preserve">
-    <value>Discord Rich Presence</value>
+    <value>Богатое присутствие Discord</value>
   </data>
   <data name="Application_Card_DiscordLogoAnim.Description" xml:space="preserve">
-    <value>Toggle between an animated and static logo.</value>
+    <value>Переключение между анимированным и статическим логотипом.</value>
   </data>
   <data name="Application_Card_Sounds.Description" xml:space="preserve">
-    <value>Controls provide audible feedback.</value>
+    <value>Органы управления обеспечивают звуковую обратную связь.</value>
   </data>
   <data name="Application_Card_Sounds.Header" xml:space="preserve">
-    <value>Sounds</value>
+    <value>Звуки</value>
   </data>
   <data name="Application_Card_ProcessMem.Header" xml:space="preserve">
-    <value>Process Memory</value>
+    <value>Память процесса</value>
   </data>
   <data name="Application_Card_CPUMem.Header" xml:space="preserve">
-    <value>CPU Memory</value>
+    <value>Память процессора</value>
   </data>
   <data name="Application_Card_SystemInformation.Header" xml:space="preserve">
-    <value>System Information</value>
+    <value>Информация о системе</value>
   </data>
   <data name="Application_Card_OSVersion.Header" xml:space="preserve">
-    <value>OS Version</value>
+    <value>Версия ОС</value>
   </data>
   <data name="Application_Card_ProcessID.Header" xml:space="preserve">
-    <value>Process ID</value>
+    <value>Идентификатор процесса</value>
   </data>
   <data name="Application_Card_PrivilegedProcess.Header" xml:space="preserve">
-    <value>Privileged Process</value>
+    <value>Привилегированный процесс</value>
   </data>
   <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
-    <value>Animated logo</value>
+    <value>Анимированный логотип</value>
   </data>
   <data name="Application_Group_Behavior.Header" xml:space="preserve">
-    <value>Behavior</value>
+    <value>Поведение</value>
   </data>
   <data name="Application_Group_Window.Header" xml:space="preserve">
-    <value>Window options</value>
+    <value>Параметры окна</value>
   </data>
   <data name="Application_InfoBar_Language.Title" xml:space="preserve">
-    <value>Some localized strings may require you to restart to load properly.</value>
+    <value>Некоторые локализованные строки могут потребовать перезагрузки для правильной загрузки.</value>
   </data>
   <data name="Application_Language.Header" xml:space="preserve">
-    <value>Language</value>
+    <value>Язык</value>
   </data>
   <data name="Application_Holiday.Header" xml:space="preserve">
-    <value>Holiday overlays</value>
+    <value>Праздничные накладки</value>
   </data>
   <data name="ApplicationDesc.Text" xml:space="preserve">
-    <value>Unlock the true potential by personalizing your settings. Select your preferred language, window options, ensuring an experience that resonates with you, wherever you are in the world 🌍.</value>
+    <value>Раскройте истинный потенциал, персонализировав настройки. Выберите предпочитаемый язык и параметры окна, чтобы впечатления, которые вам нравятся, где бы вы ни находились 🌍.</value>
   </data>
   <data name="ApplicationTitle.Text" xml:space="preserve">
-    <value>Application</value>
+    <value>Приложение</value>
   </data>
   <data name="AppNotificationMinimizedTitle" xml:space="preserve">
-    <value>Minimized</value>
+    <value>Минимизированный</value>
   </data>
   <data name="AppNotificationMinimizedDescription" xml:space="preserve">
-    <value>has been minimized to the system tray. Right click for more options.</value>
+    <value>был свернут в системный трей. Щелкните правой кнопкой мыши, чтобы увидеть дополнительные параметры.</value>
   </data>
   <data name="AppNotificationMinimizedHint" xml:space="preserve">
-    <value>You can disable this feature in settings.</value>
+    <value>Вы можете отключить эту функцию в настройках.</value>
   </data>
   <data name="AppNotificationMinimizedHintButton" xml:space="preserve">
-    <value>Open settings</value>
+    <value>Открыть настройки</value>
   </data>
   <data name="AppSearchHint.PlaceholderText" xml:space="preserve">
-    <value>Find games, library mods, store items and more</value>
+    <value>Найдите игры, библиотеки модов, предметы из магазина и многое другое.</value>
   </data>
   <data name="BugReport_Dialog_ComboBox_Page.Text" xml:space="preserve">
-    <value>Where did this issue occur?</value>
+    <value>Где возникла эта проблема?</value>
   </data>
   <data name="BugReport_Dialog_ComboBox_Unsure.Content" xml:space="preserve">
-    <value>Unsure</value>
+    <value>Не уверен</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Sent" xml:space="preserve">
-    <value>Bug report sent to the developers privately</value>
+    <value>Отчет об ошибке отправлен разработчикам в частном порядке.</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Wait" xml:space="preserve">
-    <value>You've already sent a report recently. Please wait a few minutes.</value>
+    <value>Недавно вы уже отправляли отчет. Пожалуйста, подождите несколько минут.</value>
   </data>
   <data name="BugReport_Dialog_State" xml:space="preserve">
-    <value>Reporting an issue</value>
+    <value>Сообщить о проблеме</value>
   </data>
   <data name="BugReport_Dialog_TextBox_Description.PlaceholderText" xml:space="preserve">
-    <value>Description</value>
+    <value>Описание</value>
   </data>
   <data name="BugReport_Dialog_TextBox_Title.PlaceholderText" xml:space="preserve">
-    <value>Title</value>
+    <value>Заголовок</value>
   </data>
   <data name="BugReport_Dialog_Title" xml:space="preserve">
-    <value>Report a bug</value>
+    <value>Сообщить об ошибке</value>
   </data>
   <data name="Chat_Guidelines.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Guidelines</value>
+    <value>Рекомендации</value>
   </data>
   <data name="Chat_Informational_ReadMe.Text" xml:space="preserve">
-    <value>Read guidelines before chatting</value>
+    <value>Прочтите правила перед общением</value>
   </data>
   <data name="Chat_Members_Online.Text" xml:space="preserve">
-    <value>Members online</value>
+    <value>Участники онлайн</value>
   </data>
   <data name="Chat_MembersList_Hide.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Hide members list</value>
+    <value>Скрыть список участников</value>
   </data>
   <data name="Chat_MembersList_Show.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Show members list</value>
+    <value>Показать список участников</value>
   </data>
   <data name="Chat_MessageBox.PlaceholderText" xml:space="preserve">
-    <value>Message #general-chat</value>
+    <value>Сообщение #general-chat</value>
   </data>
   <data name="CustomTheme_Background_Opacity.Text" xml:space="preserve">
-    <value>Background image opacity</value>
+    <value>Непрозрачность фонового изображения</value>
   </data>
   <data name="CustomTheme_Background_Url.PlaceholderText" xml:space="preserve">
-    <value>Background image url</value>
+    <value>URL фонового изображения</value>
   </data>
   <data name="CustomTheme_Dialog.Title" xml:space="preserve">
-    <value>Create a custom theme</value>
+    <value>Создать собственную тему</value>
   </data>
   <data name="CustomTheme_Name.Header" xml:space="preserve">
-    <value>Theme name</value>
+    <value>Название темы</value>
   </data>
   <data name="CustomTheme_Name.PlaceholderText" xml:space="preserve">
-    <value>My theme</value>
+    <value>Моя тема</value>
   </data>
   <data name="CustomTheme_Primary.Text" xml:space="preserve">
-    <value>Primary color</value>
+    <value>Основной цвет</value>
   </data>
   <data name="CustomTheme_Secondary.Text" xml:space="preserve">
-    <value>Secondary color</value>
+    <value>Вторичный цвет</value>
   </data>
   <data name="CustomTheme_Theme.Header" xml:space="preserve">
-    <value>Prefered theme</value>
+    <value>Предпочитаемая тема</value>
   </data>
   <data name="Dashboard_Banner_Button_More.Text" xml:space="preserve">
-    <value>View the library</value>
+    <value>Посмотреть библиотеку</value>
   </data>
   <data name="Dashboard_Banner_Button_Use.Text" xml:space="preserve">
-    <value>Use now</value>
+    <value>Используйте сейчас</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout.Text" xml:space="preserve">
-    <value>Banner settings</value>
+    <value>Настройки баннера</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Banner settings</value>
+    <value>Настройки баннера</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_AnimSpeed.Text" xml:space="preserve">
-    <value>Animation speed</value>
+    <value>Скорость анимации</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_AnimSpeedDefault.Text" xml:space="preserve">
-    <value>Default</value>
+    <value>По умолчанию</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_PatternSelect.Text" xml:space="preserve">
-    <value>Select a pattern</value>
+    <value>Выберите узор</value>
   </data>
   <data name="Dashboard_Banner_Title.Text" xml:space="preserve">
-    <value>Control your experience with {App-LibraryMenu}</value>
+    <value>Управляйте своим опытом с помощью {App-LibraryMenu}</value>
   </data>
   <data name="Dashboard_Group_New.Header" xml:space="preserve">
-    <value>What's new</value>
+    <value>Что нового</value>
   </data>
   <data name="Dashboard_Group_Stats.Header" xml:space="preserve">
-    <value>Live statistics</value>
+    <value>Живая статистика</value>
   </data>
   <data name="Dashboard_Group_More.Header" xml:space="preserve">
-    <value>Even more</value>
+    <value>Еще больше</value>
   </data>
   <data name="Dashboard_More_Leaderboard.Text" xml:space="preserve">
-    <value>Leaderboard</value>
+    <value>Таблица лидеров</value>
   </data>
   <data name="Dashboard_HeaderMOTD_1.Text" xml:space="preserve">
-    <value>More app designs than Leafized's gsc menus. 😏</value>
+    <value>Больше дизайнов приложений, чем в gsc-меню Leafized. 😏</value>
   </data>
   <data name="Dashboard_HeaderMOTD_10.Text" xml:space="preserve">
-    <value>Play ZBR today!</value>
+    <value>Играйте в ZBR сегодня!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_11.Text" xml:space="preserve">
     <value>{App-Helper2}!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_12.Text" xml:space="preserve">
-    <value>{App-Website}</value>
+    <value>{Сайт приложения}</value>
   </data>
   <data name="Dashboard_HeaderMOTD_13.Text" xml:space="preserve">
-    <value>Check out our Devlogs on YouTube!</value>
+    <value>Посмотрите наши журналы разработки на YouTube!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_14.Text" xml:space="preserve">
-    <value>Wake the fuck up babe, {App-Name} just dropped.</value>
+    <value>Просыпайся, детка, {App-Name} только что упало.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_2.Text" xml:space="preserve">
-    <value>{App-NameShort}-Good tool.</value>
+    <value>{App-NameShort} — Хороший инструмент.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_3.Text" xml:space="preserve">
-    <value>{App-Dev2} was here.</value>
+    <value>{App-Dev2} был здесь.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_4.Text" xml:space="preserve">
-    <value>{App-Dev1} was here.</value>
+    <value>{App-Dev1} был здесь.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_5.Text" xml:space="preserve">
-    <value>Sorry for the delays! 🤐</value>
+    <value>Извините за задержки! 🤐</value>
   </data>
   <data name="Dashboard_HeaderMOTD_6.Text" xml:space="preserve">
-    <value>Made with 💸 by {App-Dev1}.</value>
+    <value>Сделано с помощью 💸 компанией {App-Dev1}.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_7.Text" xml:space="preserve">
-    <value>What happened to the {IL} store?</value>
+    <value>Что случилось с магазином {IL}?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_8.Text" xml:space="preserve">
-    <value>Have you heard of {IL} 2.0?</value>
+    <value>Слышали ли вы о {IL} 2.0?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_9.Text" xml:space="preserve">
-    <value>Yo what is going on guys, {App-Helper1} here.</value>
+    <value>Ребята, что происходит, {App-Helper1} здесь.</value>
   </data>
   <data name="Dashboard_New_Achievements.Text" xml:space="preserve">
-    <value>Achievements</value>
+    <value>Достижения</value>
   </data>
   <data name="Dashboard_New_Changelogs.Text" xml:space="preserve">
-    <value>Release notes for</value>
+    <value>Примечания к выпуску для</value>
   </data>
   <data name="Dashboard_New_MOTD.Text" xml:space="preserve">
-    <value>Message of the day</value>
+    <value>Сообщение дня</value>
   </data>
   <data name="Dashboard_Stats_LibraryUses.Text" xml:space="preserve">
-    <value>Library uses</value>
+    <value>Библиотека использует</value>
   </data>
   <data name="Dashboard_Stats_Online.Text" xml:space="preserve">
-    <value>Online</value>
+    <value>Онлайн</value>
   </data>
   <data name="Dashboard_Stats_PointsEarned.Text" xml:space="preserve">
-    <value>Points earned</value>
+    <value>Заработанные баллы</value>
   </data>
   <data name="Dashboard_Stats_PointsSpent.Text" xml:space="preserve">
-    <value>Points spent</value>
+    <value>Потрачено баллов</value>
   </data>
   <data name="Dashboard_Stats_StorePurchases.Text" xml:space="preserve">
-    <value>Store purchases</value>
+    <value>Покупки в магазине</value>
   </data>
   <data name="Dashboard_Stats_Users.Text" xml:space="preserve">
-    <value>Users</value>
+    <value>Пользователи</value>
   </data>
   <data name="Dashboard_Tile_Discord.Description" xml:space="preserve">
-    <value>Join the official Discord server.</value>
+    <value>Присоединяйтесь к официальному серверу Discord.</value>
   </data>
   <data name="Dashboard_Tile_Discord.Title" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Дискорд сервер</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Description" xml:space="preserve">
-    <value>An overview of how it works.</value>
+    <value>Обзор того, как это работает.</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Title" xml:space="preserve">
-    <value>Getting started</value>
+    <value>Начиная</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Description" xml:space="preserve">
-    <value>Help keep it free by donating.</value>
+    <value>Помогите сохранить его бесплатным, сделав пожертвование.</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Title" xml:space="preserve">
-    <value>Stripe donations</value>
+    <value>Пожертвования в полоску</value>
   </data>
   <data name="Dashboard_Tile_Trello.Description" xml:space="preserve">
-    <value>Keep up-to-date with planned features &amp; updates.</value>
+    <value>Будьте в курсе запланированных функций и обновлений.</value>
   </data>
   <data name="Dashboard_Tile_Trello.Title" xml:space="preserve">
-    <value>Trello board</value>
+    <value>Доска Трелло</value>
   </data>
   <data name="Dashboard_Tile_Website.Description" xml:space="preserve">
-    <value>Check out our website!</value>
+    <value>Посетите наш сайт!</value>
   </data>
   <data name="Dashboard_Tile_Website.Title" xml:space="preserve">
-    <value>Website</value>
+    <value>Веб-сайт</value>
   </data>
   <data name="Dashboard_Tile_YouTube.Description" xml:space="preserve">
-    <value>Check out our devlogs.</value>
+    <value>Посмотрите наши журналы разработки.</value>
   </data>
   <data name="Dashboard_Tile_YouTube.Title" xml:space="preserve">
-    <value>YouTube channel</value>
+    <value>YouTube-канал</value>
   </data>
   <data name="Dashboard_Tile_IL.Description" xml:space="preserve">
-    <value>The only GSC Compiler tailored for the IW Engine. Supported across Xbox and PC.</value>
+    <value>Единственный компилятор GSC, адаптированный для IW Engine. Поддерживается на Xbox и ПК.</value>
   </data>
   <data name="Dialog_Button_Agree.Content" xml:space="preserve">
-    <value>I agree</value>
+    <value>Я согласен</value>
   </data>
   <data name="Dialog_Button_Buy.Text" xml:space="preserve">
-    <value>Buy for</value>
+    <value>Купить за</value>
   </data>
   <data name="Dialog_Button_Close.Content" xml:space="preserve">
-    <value>Close</value>
+    <value>Закрывать</value>
   </data>
   <data name="Dialog_Button_Save.Content" xml:space="preserve">
-    <value>Save</value>
+    <value>Сохранять</value>
   </data>
   <data name="Dialog_Button_Send.Content" xml:space="preserve">
-    <value>Send</value>
+    <value>Отправлять</value>
   </data>
   <data name="Dialog_Button_Back.Content" xml:space="preserve">
-    <value>Back</value>
+    <value>Назад</value>
   </data>
   <data name="Dialog_Button_Next.Content" xml:space="preserve">
-    <value>Next</value>
+    <value>Следующий</value>
   </data>
   <data name="Dialog_Button_Start.Content" xml:space="preserve">
-    <value>Let's go</value>
+    <value>Пойдем</value>
   </data>
   <data name="Dialog_Button_Update.Content" xml:space="preserve">
-    <value>Update</value>
+    <value>Обновлять</value>
   </data>
   <data name="Dialog_Button_AYS.Content" xml:space="preserve">
-    <value>Are you sure?</value>
+    <value>Вы уверены?</value>
   </data>
   <data name="DiscordRPC_Button_Server" xml:space="preserve">
-    <value>Discord Server</value>
+    <value>Дискорд-сервер</value>
   </data>
   <data name="DiscordRPC_Button_Website" xml:space="preserve">
-    <value>Website</value>
+    <value>Веб-сайт</value>
   </data>
   <data name="Feedback_Dialog_Title" xml:space="preserve">
-    <value>Send feedback</value>
+    <value>Отправить отзыв</value>
   </data>
   <data name="Feedback_Dialog_State" xml:space="preserve">
-    <value>Sharing feedback</value>
+    <value>Делимся отзывами</value>
   </data>
   <data name="Search_Dialog_State" xml:space="preserve">
-    <value>Searching</value>
+    <value>Идет поиск</value>
   </data>
   <data name="Filters_Button.Text" xml:space="preserve">
-    <value>Filters</value>
+    <value>Фильтры</value>
   </data>
   <data name="Games_ComingSoon.Text" xml:space="preserve">
-    <value>Coming soon</value>
+    <value>Вскоре</value>
   </data>
   <data name="Games_Platform.Text" xml:space="preserve">
-    <value>Platform</value>
+    <value>Платформа</value>
   </data>
   <data name="Guideline_Dialog_Actions.Text" xml:space="preserve">
-    <value>By accepting these rules and participating in this chat, you agree to be bound by these rules. Please note that these rules and guidelines are subject to change at any time. Additionally, we reserve the right to take appropriate action if any rule is found to be broken, including chat mute and bans.</value>
+    <value>Принимая эти правила и участвуя в этом чате, вы соглашаетесь соблюдать эти правила. Обратите внимание, что эти правила и рекомендации могут быть изменены в любое время. Кроме того, мы оставляем за собой право принять соответствующие меры, если какое-либо правило будет нарушено, включая отключение звука в чате и баны.</value>
   </data>
   <data name="Guideline_Dialog_Agreement.Header" xml:space="preserve">
-    <value>Read and agree to the chat rules.</value>
+    <value>Прочтите и согласитесь с правилами чата.</value>
   </data>
   <data name="Guideline_Dialog_Title" xml:space="preserve">
-    <value>Before you can chat...</value>
+    <value>Прежде чем вы сможете поговорить...</value>
   </data>
   <data name="Guideline_Rule_1_Info.Description" xml:space="preserve">
-    <value>Absolutely no harassment, witch hunting, sexism, racism or hate speech will be tolerated.</value>
+    <value>Абсолютно никакие притеснения, охота на ведьм, сексизм, расизм или разжигание ненависти недопустимы.</value>
   </data>
   <data name="Guideline_Rule_1_Title.Text" xml:space="preserve">
-    <value>Be respectful</value>
+    <value>Будьте уважительны</value>
   </data>
   <data name="Guideline_Rule_2_Info.Description" xml:space="preserve">
-    <value>No age-restricted or obscene content. This includes text, image and video links featuring nudity, sex, hard violence or other disturbing graphic content.</value>
+    <value>Никаких возрастных ограничений и непристойного контента. Сюда входят текстовые, графические и видеоссылки, показывающие наготу, секс, жестокое насилие или другой тревожный графический контент.</value>
   </data>
   <data name="Guideline_Rule_2_Title.Text" xml:space="preserve">
-    <value>No NSFW content</value>
+    <value>Нет контента NSFW</value>
   </data>
   <data name="Guideline_Rule_3_Info.Description" xml:space="preserve">
-    <value>No spam or promotion (discord server links, advertisements, etc).</value>
+    <value>Никакого спама и рекламы (ссылки на серверы Discord, реклама и т. д.).</value>
   </data>
   <data name="Guideline_Rule_3_Title.Text" xml:space="preserve">
-    <value>No spam or promotion</value>
+    <value>Никакого спама и рекламы</value>
   </data>
   <data name="Help_Card_Hotkeys.Header" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>Горячие клавиши</value>
   </data>
   <data name="Help_Card_Search.Header" xml:space="preserve">
-    <value>Search</value>
+    <value>Поиск</value>
   </data>
   <data name="Help_Card_Notifications.Header" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Уведомления</value>
   </data>
   <data name="Help_Group_Inquiries.Header" xml:space="preserve">
-    <value>More inquiries? Join the Discord!</value>
+    <value>Еще вопросы? Присоединяйтесь к Дискорду!</value>
   </data>
   <data name="Help_Group_Shortcuts.Header" xml:space="preserve">
-    <value>Shortcuts</value>
+    <value>Ярлыки</value>
   </data>
   <data name="HelpDesc.Text" xml:space="preserve">
-    <value>Need help on finding things? 🔍 We got your back!</value>
+    <value>Нужна помощь в поиске вещей? 🔍Мы вас поддержим!</value>
   </data>
   <data name="HelpTitle.Text" xml:space="preserve">
-    <value>Help</value>
+    <value>Помощь</value>
   </data>
   <data name="Library_Most_Popular.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Most popular</value>
+    <value>Самый популярный</value>
   </data>
   <data name="Library_Author.Text" xml:space="preserve">
-    <value>Author</value>
+    <value>Автор</value>
   </data>
   <data name="Library_Game.Text" xml:space="preserve">
-    <value>Game</value>
+    <value>Игра</value>
   </data>
   <data name="Library_Settings.Header" xml:space="preserve">
-    <value>Project settings</value>
+    <value>Настройки проекта</value>
   </data>
   <data name="Library_Settings_Gamemode.Header" xml:space="preserve">
-    <value>Select gamemode</value>
+    <value>Выберите режим игры</value>
   </data>
   <data name="Library_Settings_Platform.Header" xml:space="preserve">
-    <value>Select platform</value>
+    <value>Выберите платформу</value>
   </data>
   <data name="Library_Inject.Text" xml:space="preserve">
-    <value>Inject</value>
+    <value>Вводить</value>
   </data>
   <data name="Library_InjectionCount.Text" xml:space="preserve">
-    <value>Injections</value>
+    <value>Инъекции</value>
   </data>
   <data name="Library_LastUpdateDate.Text" xml:space="preserve">
-    <value>Last updated on</value>
+    <value>Последнее обновление:</value>
   </data>
   <data name="Library_Showcase.Content" xml:space="preserve">
-    <value>Showcase</value>
+    <value>Витрина</value>
   </data>
   <data name="Library_Unload.Text" xml:space="preserve">
-    <value>Unload</value>
+    <value>Разгрузить</value>
   </data>
   <data name="Library_Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>Версия</value>
   </data>
   <data name="Login_Dialog.Title" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>Добро пожаловать в</value>
   </data>
   <data name="Login_Dialog_Button_Login.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>Авторизоваться</value>
   </data>
   <data name="Login_Dialog_Button_Register.Content" xml:space="preserve">
-    <value>Register</value>
+    <value>Зарегистрироваться</value>
   </data>
   <data name="Login_Dialog_Button_Register_Info.Text" xml:space="preserve">
-    <value>New to {App-Name}</value>
+    <value>Новое в {App-Name}</value>
   </data>
   <data name="Login_Dialog_ForgotPassword.Content" xml:space="preserve">
-    <value>Forgot your password?</value>
+    <value>Забыли пароль?</value>
   </data>
   <data name="Login_Dialog_Password.PlaceholderText" xml:space="preserve">
-    <value>Enter your password</value>
+    <value>Введите свой пароль</value>
   </data>
   <data name="Login_Dialog_Username.PlaceholderText" xml:space="preserve">
-    <value>Username</value>
+    <value>Имя пользователя</value>
   </data>
   <data name="Minigame_Selector_Dialog_Cooldown" xml:space="preserve">
-    <value>Cooldown active.</value>
+    <value>Перезарядка активна.</value>
   </data>
   <data name="Minigame_Selector_Dialog_Emoji.Header" xml:space="preserve">
-    <value>Find the 🎉</value>
+    <value>Найдите 🎉</value>
   </data>
   <data name="Minigame_Selector_Dialog_Runner.Header" xml:space="preserve">
-    <value>Endless Runner</value>
+    <value>Бесконечный бегун</value>
   </data>
   <data name="Minigame_Runner_JumpHint.Text" xml:space="preserve">
-    <value>Jump</value>
+    <value>Прыжок</value>
   </data>
   <data name="Minigame_Runner_GameOver.Text" xml:space="preserve">
-    <value>Game Over</value>
+    <value>Игра закончена</value>
   </data>
   <data name="Minigame_Selector_Dialog_Title" xml:space="preserve">
-    <value>Select a minigame</value>
+    <value>Выберите мини-игру</value>
   </data>
   <data name="MyProfile_AccountBalance.Header" xml:space="preserve">
-    <value>Account balance</value>
+    <value>Баланс счета</value>
   </data>
   <data name="MyProfile_AccountRole.Header" xml:space="preserve">
-    <value>Account role</value>
+    <value>Роль аккаунта</value>
   </data>
   <data name="MyProfile_Avatar_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Select an avatar</value>
+    <value>Выберите аватар</value>
   </data>
   <data name="MyProfile_Avatar_Flyout_Title.Text" xml:space="preserve">
-    <value>Avatar customization</value>
+    <value>Настройка аватара</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Select a banner</value>
+    <value>Выберите баннер</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Title.Text" xml:space="preserve">
-    <value>Banner customization</value>
+    <value>Настройка баннера</value>
   </data>
   <data name="MyProfile_Button_Avatar.Content" xml:space="preserve">
-    <value>Browse avatars</value>
+    <value>Просмотр аватаров</value>
   </data>
   <data name="MyProfile_Button_Banner.Content" xml:space="preserve">
-    <value>Browse banners</value>
+    <value>Просмотр баннеров</value>
   </data>
   <data name="MyProfile_Card_AccountInfo.Header" xml:space="preserve">
-    <value>Account info</value>
+    <value>Информация об аккаунте</value>
   </data>
   <data name="MyProfile_Card_Avatar.Header" xml:space="preserve">
-    <value>Choose an avatar</value>
+    <value>Выберите аватар</value>
   </data>
   <data name="MyProfile_Card_Banner.Header" xml:space="preserve">
-    <value>Choose a banner</value>
+    <value>Выберите баннер</value>
   </data>
   <data name="MyProfile_Card_CreationDate.Header" xml:space="preserve">
-    <value>Account creation date</value>
+    <value>Дата создания аккаунта</value>
   </data>
   <data name="MyProfile_Card_SignInOptions.Header" xml:space="preserve">
-    <value>Sign-in options</value>
+    <value>Варианты входа</value>
   </data>
   <data name="MyProfile_Card_Subscription.Header" xml:space="preserve">
-    <value>Subscription</value>
+    <value>Подписка</value>
   </data>
   <data name="MyProfile_Card_TimeOnline.Header" xml:space="preserve">
-    <value>Time spent online</value>
+    <value>Время, проведенное онлайн</value>
   </data>
   <data name="MyProfile_Checkbox_AutoLogin.Content" xml:space="preserve">
-    <value>Auto login</value>
+    <value>Автоматический вход</value>
   </data>
   <data name="MyProfile_Checkbox_RememberMe.Content" xml:space="preserve">
-    <value>Remember me</value>
+    <value>Запомнить меня</value>
   </data>
   <data name="MyProfile_Group_Customization.Header" xml:space="preserve">
-    <value>Account customization</value>
+    <value>Настройка учетной записи</value>
   </data>
   <data name="MyProfile_Group_General.Header" xml:space="preserve">
-    <value>General</value>
+    <value>Общий</value>
   </data>
   <data name="MyProfile_InfoBar_FreeMode.Title" xml:space="preserve">
-    <value>Free mode subscription is active.</value>
+    <value>Подписка на бесплатный режим активна.</value>
   </data>
   <data name="MyProfile_InfoBar_Updated.Title" xml:space="preserve">
-    <value>Account successfully updated.</value>
+    <value>Аккаунт успешно обновлен.</value>
   </data>
   <data name="MyProfile_PageLink_Store.Text" xml:space="preserve">
-    <value>View the store</value>
+    <value>Посмотреть магазин</value>
   </data>
   <data name="MyProfileDesc.Text" xml:space="preserve">
-    <value>Customize your profile to stand out. Win NautaCoins to purchase avatars and banners from the store and show off the in the chat 💬 page!</value>
+    <value>Настройте свой профиль, чтобы выделиться. Выиграйте NautaCoins, чтобы приобрести аватары и баннеры в магазине и похвастаться страницей в чате 💬!</value>
   </data>
   <data name="MyProfileTitle.Text" xml:space="preserve">
-    <value>My account</value>
+    <value>Мой счет</value>
   </data>
   <data name="ConnectionsDesc.Text" xml:space="preserve">
-    <value>Display your Discord activity or connect to your PlayStation 4 to use library content on consoles! 🎮</value>
+    <value>Отобразите свою активность в Discord или подключитесь к PlayStation 4, чтобы использовать контент библиотеки на консолях! 🎮</value>
   </data>
   <data name="ConnectionsTitle.Text" xml:space="preserve">
-    <value>Connections</value>
+    <value>Соединения</value>
   </data>
   <data name="Notifications_Card_Chat.Description" xml:space="preserve">
-    <value>Popup alert badge when a new chat message is sent.</value>
+    <value>Значок всплывающего оповещения при отправке нового сообщения в чате.</value>
   </data>
   <data name="Notifications_Card_Chat.Text" xml:space="preserve">
-    <value>New message alerts</value>
+    <value>Оповещения о новых сообщениях</value>
   </data>
   <data name="Notifications_Card_InfoBar.Description" xml:space="preserve">
-    <value>This setting is required for some alerts.</value>
+    <value>Этот параметр необходим для некоторых оповещений.</value>
   </data>
   <data name="Notifications_Card_InfoBar.Text" xml:space="preserve">
-    <value>Informational alerts</value>
+    <value>Информационные оповещения</value>
   </data>
   <data name="Notifications_Card_Minimized.Description" xml:space="preserve">
-    <value>Receive a system tray alert when the app is minimized.</value>
+    <value>Получите предупреждение на панели задач, когда приложение свернуто.</value>
   </data>
   <data name="Notifications_Card_Minimized.Text" xml:space="preserve">
-    <value>Minimized alerts</value>
+    <value>Свернутые оповещения</value>
   </data>
   <data name="Notifications_Card_Session.Description" xml:space="preserve">
-    <value>Receive various in-app notifications.</value>
+    <value>Получайте различные уведомления в приложении.</value>
   </data>
   <data name="Notifications_Card_Session.Text" xml:space="preserve">
-    <value>Session alerts</value>
+    <value>Оповещения о сеансе</value>
   </data>
   <data name="Notifications_CheckBox_Sounds.Content" xml:space="preserve">
-    <value>Play sound</value>
+    <value>Воспроизвести звук</value>
   </data>
   <data name="Notifications_ComboBox_Everytime.Content" xml:space="preserve">
-    <value>Every time</value>
+    <value>Каждый раз</value>
   </data>
   <data name="Notifications_ComboBox_Never.Content" xml:space="preserve">
-    <value>Never</value>
+    <value>Никогда</value>
   </data>
   <data name="Notifications_ComboBox_Once.Content" xml:space="preserve">
-    <value>Once</value>
+    <value>Один раз</value>
   </data>
   <data name="Notifications_Empty_Hint.Text" xml:space="preserve">
-    <value>It's empty in here... ☹️</value>
+    <value>Здесь пусто... ☹️</value>
   </data>
   <data name="Notifications_Group_InApp.Header" xml:space="preserve">
-    <value>In-App</value>
+    <value>В приложении</value>
   </data>
   <data name="Notifications_Group_Windows.Header" xml:space="preserve">
-    <value>Windows</value>
+    <value>Окна</value>
   </data>
   <data name="Notifications_Hyperlink_Error.Title" xml:space="preserve">
-    <value>Application sounds must be enabled first</value>
+    <value>Звуки приложения должны быть сначала включены</value>
   </data>
   <data name="NotificationsDesc.Text" xml:space="preserve">
-    <value>We understand that there are times when you need uninterrupted focus. Snooze or mute notifications temporarily, providing you with uninterrupted sessions or moments of relaxation. When you're ready to reconnect, notifications will be waiting for you.</value>
+    <value>Мы понимаем, что бывают моменты, когда вам нужна постоянная концентрация. Временно отложите или отключите звук уведомлений, что обеспечит вам непрерывные сеансы или минуты релаксации. Когда вы будете готовы повторно подключиться, вас будут ждать уведомления.</value>
   </data>
   <data name="NotificationsTitle.Text" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Уведомления</value>
   </data>
   <data name="Password_Card_Update.Text" xml:space="preserve">
-    <value>Update password</value>
+    <value>Обновить пароль</value>
   </data>
   <data name="Password_Card_Update_Info.Text" xml:space="preserve">
-    <value>Changing your password will automatically log you out and require you to log back in.</value>
+    <value>Изменение пароля автоматически приведет к выходу из системы и потребует повторного входа в систему.</value>
   </data>
   <data name="Password_InfoBar_Empty.Title" xml:space="preserve">
-    <value>Hold up! Your new password can't be empty. Please input your new password.</value>
+    <value>Задерживать! Ваш новый пароль не может быть пустым. Пожалуйста, введите новый пароль.</value>
   </data>
   <data name="Password_InfoBar_Invalid.Title" xml:space="preserve">
-    <value>Oops! Your new password is invalid. Please make your password unique.</value>
+    <value>Упс! Ваш новый пароль недействителен. Пожалуйста, сделайте свой пароль уникальным.</value>
   </data>
   <data name="Password_InfoBar_Same.Title" xml:space="preserve">
-    <value>Oops! Your new password can't be the same as the old one. Please choose a new and unique password.</value>
+    <value>Упс! Ваш новый пароль не может совпадать со старым. Пожалуйста, выберите новый и уникальный пароль.</value>
   </data>
   <data name="Password_InfoBar_Updated.Title" xml:space="preserve">
-    <value>Your password has been updated successfully. You're all set!</value>
+    <value>Ваш пароль успешно обновлен. Все готово!</value>
   </data>
   <data name="Password_Save.Text" xml:space="preserve">
-    <value>Save</value>
+    <value>Сохранять</value>
   </data>
   <data name="Password_Status_Invalid.Text" xml:space="preserve">
-    <value>Invalid</value>
+    <value>Неверный</value>
   </data>
   <data name="Password_Status_Medium.Text" xml:space="preserve">
-    <value>Medium</value>
+    <value>Середина</value>
   </data>
   <data name="Password_Status_Strong.Text" xml:space="preserve">
-    <value>Strong</value>
+    <value>Сильный</value>
   </data>
   <data name="Password_Status_Weak.Text" xml:space="preserve">
-    <value>Weak</value>
+    <value>Слабый</value>
   </data>
   <data name="PasswordDesc.Text" xml:space="preserve">
-    <value>Forgot your password? Make a request in the official Discord server and we'll fix that for you asap! 😁</value>
+    <value>Забыли пароль? Сделайте запрос на официальном сервере Discord, и мы исправим это для вас как можно скорее! 😁</value>
   </data>
   <data name="PasswordTitle.Text" xml:space="preserve">
-    <value>Password</value>
+    <value>Пароль</value>
   </data>
   <data name="Pattern_Axiom" xml:space="preserve">
-    <value>Axiom</value>
+    <value>Аксиома</value>
   </data>
   <data name="Pattern_Cartographer" xml:space="preserve">
-    <value>Catographer</value>
+    <value>Катограф</value>
   </data>
   <data name="Pattern_Diagmonds" xml:space="preserve">
-    <value>Diagmonds</value>
+    <value>Диагмонды</value>
   </data>
   <data name="Pattern_Diamonds" xml:space="preserve">
-    <value>Diamonds</value>
+    <value>Бриллианты</value>
   </data>
   <data name="Pattern_Geometry" xml:space="preserve">
-    <value>Geometry</value>
+    <value>Геометрия</value>
   </data>
   <data name="Pattern_GPlay" xml:space="preserve">
     <value>GPlay</value>
   </data>
   <data name="Pattern_Mosaic" xml:space="preserve">
-    <value>Mosaic</value>
+    <value>Мозаика</value>
   </data>
   <data name="Pattern_ScanLines" xml:space="preserve">
-    <value>Scan lines</value>
+    <value>Линии сканирования</value>
   </data>
   <data name="Pattern_Stripes" xml:space="preserve">
-    <value>Stripes</value>
+    <value>Полосы</value>
   </data>
   <data name="Progress_Dialog.Text" xml:space="preserve">
-    <value>Please wait</value>
+    <value>пожалуйста, подождите</value>
   </data>
   <data name="Register_Dialog.Title" xml:space="preserve">
-    <value>Set up a new account!</value>
+    <value>Создайте новую учетную запись!</value>
   </data>
   <data name="Register_Dialog_Button_Login_Info.Text" xml:space="preserve">
-    <value>Already have an account?</value>
+    <value>У вас уже есть аккаунт?</value>
   </data>
   <data name="Register_Dialog_ConfirmPassword.PlaceholderText" xml:space="preserve">
-    <value>Confirm Password</value>
+    <value>Подтвердите пароль</value>
   </data>
   <data name="Register_Dialog_InfoBar_Empty" xml:space="preserve">
-    <value>Required input values were left empty.</value>
+    <value>Обязательные входные значения остались пустыми.</value>
   </data>
   <data name="Register_Dialog_InfoBar_Match" xml:space="preserve">
-    <value>Passwords do not match.</value>
+    <value>Пароли не совпадают.</value>
   </data>
   <data name="Register_Dialog_InfoBar_Registered" xml:space="preserve">
-    <value>Account successfully registered.</value>
+    <value>Аккаунт успешно зарегистрирован.</value>
   </data>
   <data name="Register_Dialog_LicenseKey.PlaceholderText" xml:space="preserve">
-    <value>License key</value>
+    <value>Лицензионный ключ</value>
   </data>
   <data name="Settings_About.Content" xml:space="preserve">
-    <value>About</value>
+    <value>О</value>
   </data>
   <data name="Settings_About_State.Content" xml:space="preserve">
-    <value>Reading about</value>
+    <value>Читая о</value>
   </data>
   <data name="Settings_Appearance.Content" xml:space="preserve">
-    <value>Appearance</value>
+    <value>Появление</value>
   </data>
   <data name="Settings_Appearance_State.Content" xml:space="preserve">
-    <value>Tweaking application appearance</value>
+    <value>Настройка внешнего вида приложения</value>
   </data>
   <data name="Settings_Application.Content" xml:space="preserve">
-    <value>Application</value>
+    <value>Приложение</value>
   </data>
   <data name="Settings_Application_State.Content" xml:space="preserve">
-    <value>Tweaking application settings</value>
+    <value>Настройка параметров приложения</value>
   </data>
   <data name="Settings_Connections.Content" xml:space="preserve">
-    <value>Connections</value>
+    <value>Соединения</value>
   </data>
   <data name="Settings_Connections_State.Content" xml:space="preserve">
-    <value>Tweaking connection settings</value>
+    <value>Настройка параметров подключения</value>
   </data>
   <data name="Settings_Help.Content" xml:space="preserve">
-    <value>Help</value>
+    <value>Помощь</value>
   </data>
   <data name="Settings_Help_State.Content" xml:space="preserve">
-    <value>Viewing the help center</value>
+    <value>Просмотр справочного центра</value>
   </data>
   <data name="Settings_MyProfile.Content" xml:space="preserve">
-    <value>My Account</value>
+    <value>Мой счет</value>
   </data>
   <data name="Settings_MyProfile_State.Content" xml:space="preserve">
-    <value>Editing account</value>
+    <value>Редактирование аккаунта</value>
   </data>
   <data name="Settings_Notifications.Content" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Уведомления</value>
   </data>
   <data name="Settings_Notifications_State.Content" xml:space="preserve">
-    <value>Editing notifications</value>
+    <value>Редактирование уведомлений</value>
   </data>
   <data name="Settings_Password.Content" xml:space="preserve">
-    <value>Password</value>
+    <value>Пароль</value>
   </data>
   <data name="Settings_Password_State.Content" xml:space="preserve">
-    <value>Editing account password</value>
+    <value>Редактирование пароля учетной записи</value>
   </data>
   <data name="Shell_Chat.Content" xml:space="preserve">
-    <value>Chat</value>
+    <value>Чат</value>
   </data>
   <data name="Shell_Chat_State.Content" xml:space="preserve">
-    <value>Chatting with users</value>
+    <value>Общение с пользователями</value>
   </data>
   <data name="Shell_Chat_Title.Text" xml:space="preserve">
-    <value>Chat</value>
+    <value>Чат</value>
   </data>
   <data name="Shell_Dashboard.Content" xml:space="preserve">
-    <value>Dashboard</value>
+    <value>Панель управления</value>
   </data>
   <data name="Shell_Dashboard_State.Content" xml:space="preserve">
-    <value>Viewing the dashboard</value>
+    <value>Просмотр панели мониторинга</value>
   </data>
   <data name="Shell_Games.Content" xml:space="preserve">
-    <value>Games</value>
+    <value>Игры</value>
   </data>
   <data name="Shell_Games_State.Content" xml:space="preserve">
-    <value>Browsing games selection</value>
+    <value>Выбор просмотренных игр</value>
   </data>
   <data name="Shell_Games_Title.Text" xml:space="preserve">
-    <value>Games</value>
+    <value>Игры</value>
   </data>
   <data name="Shell_Library.Content" xml:space="preserve">
-    <value>Library</value>
+    <value>Библиотека</value>
   </data>
   <data name="Shell_Library_State.Content" xml:space="preserve">
-    <value>Browsing user made content</value>
+    <value>Просмотр пользовательского контента</value>
   </data>
   <data name="Shell_Library_Title.Text" xml:space="preserve">
-    <value>Library</value>
+    <value>Библиотека</value>
   </data>
   <data name="Shell_Search.PlaceholderText" xml:space="preserve">
-    <value>Search</value>
+    <value>Поиск</value>
   </data>
   <data name="Shell_Settings.Content" xml:space="preserve">
-    <value>Settings</value>
+    <value>Настройки</value>
   </data>
   <data name="Shell_Store.Content" xml:space="preserve">
-    <value>Store</value>
+    <value>Магазин</value>
   </data>
   <data name="Shell_Store_State.Content" xml:space="preserve">
-    <value>Browsing the store</value>
+    <value>Просмотр магазина</value>
   </data>
   <data name="Shell_Store_Title.Text" xml:space="preserve">
-    <value>Store</value>
+    <value>Магазин</value>
   </data>
   <data name="Shell_UserDropDown_AppSettings.Text" xml:space="preserve">
-    <value>Application settings</value>
+    <value>Настройки приложения</value>
   </data>
   <data name="Shell_UserDropDown_BrowseStore.Text" xml:space="preserve">
-    <value>Browse store</value>
+    <value>Обзор магазина</value>
   </data>
   <data name="Shell_UserDropDown_EarnPoints.Text" xml:space="preserve">
-    <value>Earn NautaCoins</value>
+    <value>Зарабатывайте НаутаКоины</value>
   </data>
   <data name="Shell_UserDropDown_MyAccount.Text" xml:space="preserve">
-    <value>My account</value>
+    <value>Мой счет</value>
   </data>
   <data name="Shell_UserDropDown_SignOut.Text" xml:space="preserve">
-    <value>Sign out</value>
+    <value>выход</value>
   </data>
   <data name="Search_Games_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search games</value>
+    <value>Поиск игр</value>
   </data>
   <data name="Search_Library_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search projects</value>
+    <value>Поиск проектов</value>
   </data>
   <data name="Search_Store_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search store</value>
+    <value>Поиск магазина</value>
   </data>
   <data name="Sorting_ComboBox_Hint.PlaceholderText" xml:space="preserve">
-    <value>Sort by</value>
+    <value>Сортировать по</value>
   </data>
   <data name="Sorting_ComboBox_Popularity.Content" xml:space="preserve">
-    <value>Popularity</value>
+    <value>Популярность</value>
   </data>
   <data name="Sorting_ComboBox_DateUpdated.Content" xml:space="preserve">
-    <value>Last updated</value>
+    <value>Последнее обновление</value>
   </data>
   <data name="Sorting_ComboBox_Price_HighLow.Content" xml:space="preserve">
-    <value>Price: High to Low</value>
+    <value>Цена: от высокой к низкой</value>
   </data>
   <data name="Sorting_ComboBox_Price_LowHigh.Content" xml:space="preserve">
-    <value>Price: Low to High</value>
+    <value>Цена: от низкой до высокой</value>
   </data>
   <data name="Sorting_ComboBox_Relevance.Content" xml:space="preserve">
-    <value>Relevance</value>
+    <value>Актуальность</value>
   </data>
   <data name="Sorting_ComboBox_Title_AZ.Content" xml:space="preserve">
-    <value>Title A-Z</value>
+    <value>Название от А до Я</value>
   </data>
   <data name="Sorting_ComboBox_Title_ZA.Content" xml:space="preserve">
-    <value>Title Z-A</value>
+    <value>Название Z-A</value>
   </data>
   <data name="Splash_Status_AuthFailed.Text" xml:space="preserve">
-    <value>Auth failed to initialize.</value>
+    <value>Не удалось инициализировать аутентификацию.</value>
   </data>
   <data name="Splash_Status_AuthSuccess.Text" xml:space="preserve">
-    <value>Connected to server.</value>
+    <value>Подключился к серверу.</value>
   </data>
   <data name="Splash_Status_Initializing.Text" xml:space="preserve">
-    <value>Initializing auth...</value>
+    <value>Инициализация авторизации...</value>
   </data>
   <data name="Splash_Status_Wizard.Text" xml:space="preserve">
-    <value>Complete setup wizard...</value>
+    <value>Полная настройка мастера...</value>
   </data>
   <data name="Splash_Status_Login.Text" xml:space="preserve">
-    <value>Awaiting user login...</value>
+    <value>Ожидание входа пользователя...</value>
   </data>
   <data name="Splash_Status_LoginSuccess.Text" xml:space="preserve">
-    <value>Logging in...</value>
+    <value>Вход в систему...</value>
   </data>
   <data name="Splash_Status_Resources.Text" xml:space="preserve">
-    <value>Gathering user information...</value>
+    <value>Сбор информации о пользователях...</value>
   </data>
   <data name="Splash_Status_Update.Text" xml:space="preserve">
-    <value>New update available!</value>
+    <value>Доступно новое обновление!</value>
   </data>
   <data name="Splash_Status_Downloading.Text" xml:space="preserve">
-    <value>Downloading</value>
+    <value>Загрузка</value>
   </data>
   <data name="Store_Filter_All.Content" xml:space="preserve">
-    <value>All</value>
+    <value>Все</value>
   </data>
   <data name="Store_Filter_Avatars.Content" xml:space="preserve">
-    <value>Avatars</value>
+    <value>Аватары</value>
   </data>
   <data name="Store_Filter_Banners.Content" xml:space="preserve">
-    <value>Banners</value>
+    <value>Баннеры</value>
   </data>
   <data name="Store_Owned.Text" xml:space="preserve">
-    <value>Owned</value>
+    <value>В собственности</value>
   </data>
   <data name="Store_Purchase" xml:space="preserve">
-    <value>purchased</value>
+    <value>куплен</value>
   </data>
   <data name="Store_Purchase_Error" xml:space="preserve">
-    <value>There was an error trying to purchase</value>
+    <value>Произошла ошибка при попытке покупки</value>
   </data>
   <data name="TourGuide_Step1.Title" xml:space="preserve">
-    <value>Getting started 🚀</value>
+    <value>Начинаем 🚀</value>
   </data>
   <data name="TourGuide_Step2.Title" xml:space="preserve">
-    <value>Select your prefered language</value>
+    <value>Выберите предпочитаемый язык</value>
   </data>
   <data name="TourGuide_Step3.Title" xml:space="preserve">
-    <value>Select your prefered theme</value>
+    <value>Выберите предпочитаемую тему</value>
   </data>
   <data name="User_Login.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>Авторизоваться</value>
   </data>
   <data name="User_Login_State.Content" xml:space="preserve">
-    <value>Logging in</value>
+    <value>Вход в систему</value>
   </data>
   <data name="User_Signup.Content" xml:space="preserve">
-    <value>Sign-up</value>
+    <value>Зарегистрироваться</value>
   </data>
   <data name="User_Signup_State.Content" xml:space="preserve">
-    <value>Setting up an account</value>
+    <value>Настройка учетной записи</value>
   </data>
   <data name="Cheat_ForceHost.Header" xml:space="preserve">
-    <value>Force host</value>
+    <value>Принудительный хост</value>
   </data>
 </root>

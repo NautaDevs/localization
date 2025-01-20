@@ -59,1062 +59,1062 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="_LanguageName" xml:space="preserve">
-    <value>English</value>
+    <value>Vietnamese</value>
   </data>
   <data name="Tray_Show.Text" xml:space="preserve">
-    <value>Show</value>
+    <value>Trình diễn</value>
   </data>
   <data name="Tray_Discord.Text" xml:space="preserve">
-    <value>Join the Discord</value>
+    <value>Tham gia vào sự bất hòa</value>
   </data>
   <data name="Tray_Exit.Text" xml:space="preserve">
-    <value>Exit</value>
+    <value>Ra</value>
   </data>
   <data name="About_Card.Text" xml:space="preserve">
-    <value>All rights reserved.</value>
+    <value>Mọi quyền được bảo lưu.</value>
   </data>
   <data name="About_ColorPalette.Header" xml:space="preserve">
-    <value>Color palette</value>
+    <value>Bảng màu</value>
   </data>
   <data name="About_Contributors.Header" xml:space="preserve">
-    <value>Contributors</value>
+    <value>Người đóng góp</value>
   </data>
   <data name="About_Dependencies.Header" xml:space="preserve">
-    <value>Dependencies &amp; references</value>
+    <value>Phụ thuộc &amp; tài liệu tham khảo</value>
   </data>
   <data name="About_Developers.Header" xml:space="preserve">
-    <value>Developers</value>
+    <value>Nhà phát triển</value>
   </data>
   <data name="About_PageLink_BugReport.Text" xml:space="preserve">
-    <value>Report a bug</value>
+    <value>Báo cáo lỗi</value>
   </data>
   <data name="About_PageLink_Discord.Text" xml:space="preserve">
-    <value>Discord</value>
+    <value>Bất hòa</value>
   </data>
   <data name="About_PageLink_Feedback.Text" xml:space="preserve">
-    <value>Send feeback</value>
+    <value>Gửi phản hồi</value>
   </data>
   <data name="About_PageLink_RequestFeature.Text" xml:space="preserve">
-    <value>Request a feature</value>
+    <value>Yêu cầu một tính năng</value>
   </data>
   <data name="About_PageLink_Search.Text" xml:space="preserve">
-    <value>Search for features</value>
+    <value>Tìm kiếm các tính năng</value>
   </data>
   <data name="About_PageLink_Website.Text" xml:space="preserve">
-    <value>Website</value>
+    <value>Trang web</value>
   </data>
   <data name="About_PageLink_YouTube.Text" xml:space="preserve">
     <value>YouTube</value>
   </data>
   <data name="About_PageLink_Docs.Text" xml:space="preserve">
-    <value>Documentation</value>
+    <value>Tài liệu</value>
   </data>
   <data name="About_PageLink_Donate.Text" xml:space="preserve">
-    <value>Donate</value>
+    <value>Quyên tặng</value>
   </data>
   <data name="About_Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>Phiên bản</value>
   </data>
   <data name="AboutDesc.Text" xml:space="preserve">
-    <value>is an elegant and powerful modding tool that aims to be the most sophisticated Call of Duty cheating software available for PC. In addition to having a stunning user interface, which you won't find on any other modding programs, it is also jam-packed with features that other external tools don't provide. Made with 💗 by the Nauta Dev Team.</value>
+    <value>là một công cụ sửa đổi trang nhã và mạnh mẽ nhằm mục đích trở thành phần mềm gian lận Call of Duty tinh vi nhất hiện có cho PC. Ngoài việc có giao diện người dùng tuyệt đẹp mà bạn sẽ không tìm thấy trên bất kỳ chương trình sửa đổi nào khác, nó còn có rất nhiều tính năng mà các công cụ bên ngoài khác không cung cấp. Được tạo bằng 💗 bởi Nhóm phát triển Nauta.</value>
   </data>
   <data name="AboutTitle.Text" xml:space="preserve">
-    <value>About</value>
+    <value>Về</value>
   </data>
   <data name="AppDisplayBuild.Text" xml:space="preserve">
     <value>Alpha</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic" xml:space="preserve">
-    <value>Desktop acrylic</value>
+    <value>Máy tính để bàn acrylic</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic_Base" xml:space="preserve">
-    <value>Acrylic base</value>
+    <value>Đế acrylic</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic_Thin" xml:space="preserve">
-    <value>Acrylic thin</value>
+    <value>Acrylic mỏng</value>
   </data>
   <data name="Appearance_Backdrop_Mica" xml:space="preserve">
     <value>Mica</value>
   </data>
   <data name="Appearance_Backdrop_MicaAlt" xml:space="preserve">
-    <value>Mica alt</value>
+    <value>Mica thay thế</value>
   </data>
   <data name="Appearance_Border_Accent" xml:space="preserve">
-    <value>Accent</value>
+    <value>Giọng</value>
   </data>
   <data name="Appearance_Border_Accent_Secondary" xml:space="preserve">
-    <value>Accent secondary</value>
+    <value>Giọng phụ</value>
   </data>
   <data name="Appearance_Border_Default" xml:space="preserve">
-    <value>Default</value>
+    <value>Mặc định</value>
   </data>
   <data name="Appearance_Border_Dialog.Title" xml:space="preserve">
-    <value>Border settings</value>
+    <value>Cài đặt đường viền</value>
   </data>
   <data name="Appearance_Border_Rainbow" xml:space="preserve">
-    <value>Rainbow</value>
+    <value>cầu vồng</value>
   </data>
   <data name="Appearance_CreateTheme.Text" xml:space="preserve">
-    <value>Create new</value>
+    <value>Tạo mới</value>
   </data>
   <data name="Appearance_ImportTheme.Text" xml:space="preserve">
-    <value>Import theme</value>
+    <value>Nhập chủ đề</value>
   </data>
   <data name="Appearance_ImportTheme_Hint" xml:space="preserve">
-    <value>Successfully imported</value>
+    <value>Đã nhập thành công</value>
   </data>
   <data name="Appearance_ExportTheme.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Export theme</value>
+    <value>Xuất chủ đề</value>
   </data>
   <data name="Appearance_ExportTheme_Hint" xml:space="preserve">
-    <value>Successfully exported to</value>
+    <value>Đã xuất thành công sang</value>
   </data>
   <data name="Appearance_DeleteTheme.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Delete theme</value>
+    <value>Xóa chủ đề</value>
   </data>
   <data name="Appearance_Group_Backdrop.Header" xml:space="preserve">
-    <value>Backdrop</value>
+    <value>Phông nền</value>
   </data>
   <data name="Appearance_Group_Border.Header" xml:space="preserve">
-    <value>Border</value>
+    <value>Ranh giới</value>
   </data>
   <data name="Appearance_Group_MyThemes.Header" xml:space="preserve">
-    <value>My themes</value>
+    <value>Chủ đề của tôi</value>
   </data>
   <data name="Appearance_Group_Theme.Header" xml:space="preserve">
-    <value>Theme</value>
+    <value>chủ đề</value>
   </data>
   <data name="Appearance_Theme_Dark.Content" xml:space="preserve">
-    <value>Dark</value>
+    <value>Tối tăm</value>
   </data>
   <data name="Appearance_Theme_Dark.Text" xml:space="preserve">
-    <value>Dark</value>
+    <value>Tối tăm</value>
   </data>
   <data name="Appearance_Theme_Forest" xml:space="preserve">
-    <value>Bubbles</value>
+    <value>bong bóng</value>
   </data>
   <data name="Appearance_Theme_Glacier" xml:space="preserve">
-    <value>Glacier</value>
+    <value>Sông băng</value>
   </data>
   <data name="Appearance_Theme_Light.Content" xml:space="preserve">
-    <value>Light</value>
+    <value>Ánh sáng</value>
   </data>
   <data name="Appearance_Theme_Light.Text" xml:space="preserve">
-    <value>Light</value>
+    <value>Ánh sáng</value>
   </data>
   <data name="Appearance_Theme_Solitary" xml:space="preserve">
-    <value>Solitary explorer</value>
+    <value>Nhà thám hiểm đơn độc</value>
   </data>
   <data name="Appearance_Theme_Submerged" xml:space="preserve">
-    <value>Submerged</value>
+    <value>chìm trong nước</value>
   </data>
   <data name="Appearance_Theme_System" xml:space="preserve">
-    <value>Use system preferences</value>
+    <value>Sử dụng tùy chọn hệ thống</value>
   </data>
   <data name="AppearanceDesc.Text" xml:space="preserve">
-    <value>Choose from a range of visually appealing themes 🎨 to match your preferences. Breeze through your browsing experience in an environment that reflects your personality.</value>
+    <value>Chọn từ một loạt các chủ đề hấp dẫn trực quan 🎨 để phù hợp với sở thích của bạn. Tận hưởng trải nghiệm duyệt web của bạn trong một môi trường phản ánh cá tính của bạn.</value>
   </data>
   <data name="AppearanceTitle.Text" xml:space="preserve">
-    <value>Appearance</value>
+    <value>Vẻ bề ngoài</value>
   </data>
   <data name="Application_Card_AlwaysOnTop.Header" xml:space="preserve">
-    <value>Always on top</value>
+    <value>Luôn đứng đầu</value>
   </data>
   <data name="Application_Card_CloseToTray.Header" xml:space="preserve">
-    <value>Close to system tray</value>
+    <value>Gần khay hệ thống</value>
   </data>
   <data name="Application_Card_Discord.Description" xml:space="preserve">
-    <value>Display in your Discord activity.</value>
+    <value>Hiển thị trong hoạt động Discord của bạn.</value>
   </data>
   <data name="Application_Card_Discord.Header" xml:space="preserve">
-    <value>Discord Rich Presence</value>
+    <value>Sự hiện diện phong phú của Discord</value>
   </data>
   <data name="Application_Card_DiscordLogoAnim.Description" xml:space="preserve">
-    <value>Toggle between an animated and static logo.</value>
+    <value>Chuyển đổi giữa logo động và logo tĩnh.</value>
   </data>
   <data name="Application_Card_Sounds.Description" xml:space="preserve">
-    <value>Controls provide audible feedback.</value>
+    <value>Bộ điều khiển cung cấp phản hồi bằng âm thanh.</value>
   </data>
   <data name="Application_Card_Sounds.Header" xml:space="preserve">
-    <value>Sounds</value>
+    <value>Âm thanh</value>
   </data>
   <data name="Application_Card_ProcessMem.Header" xml:space="preserve">
-    <value>Process Memory</value>
+    <value>Bộ nhớ xử lý</value>
   </data>
   <data name="Application_Card_CPUMem.Header" xml:space="preserve">
-    <value>CPU Memory</value>
+    <value>Bộ nhớ CPU</value>
   </data>
   <data name="Application_Card_SystemInformation.Header" xml:space="preserve">
-    <value>System Information</value>
+    <value>Thông tin hệ thống</value>
   </data>
   <data name="Application_Card_OSVersion.Header" xml:space="preserve">
-    <value>OS Version</value>
+    <value>Phiên bản hệ điều hành</value>
   </data>
   <data name="Application_Card_ProcessID.Header" xml:space="preserve">
-    <value>Process ID</value>
+    <value>ID tiến trình</value>
   </data>
   <data name="Application_Card_PrivilegedProcess.Header" xml:space="preserve">
-    <value>Privileged Process</value>
+    <value>Quy trình đặc quyền</value>
   </data>
   <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
-    <value>Animated logo</value>
+    <value>Logo hoạt hình</value>
   </data>
   <data name="Application_Group_Behavior.Header" xml:space="preserve">
-    <value>Behavior</value>
+    <value>Hành vi</value>
   </data>
   <data name="Application_Group_Window.Header" xml:space="preserve">
-    <value>Window options</value>
+    <value>Tùy chọn cửa sổ</value>
   </data>
   <data name="Application_InfoBar_Language.Title" xml:space="preserve">
-    <value>Some localized strings may require you to restart to load properly.</value>
+    <value>Một số chuỗi được bản địa hóa có thể yêu cầu bạn khởi động lại để tải đúng cách.</value>
   </data>
   <data name="Application_Language.Header" xml:space="preserve">
-    <value>Language</value>
+    <value>Ngôn ngữ</value>
   </data>
   <data name="Application_Holiday.Header" xml:space="preserve">
-    <value>Holiday overlays</value>
+    <value>Lớp phủ ngày lễ</value>
   </data>
   <data name="ApplicationDesc.Text" xml:space="preserve">
-    <value>Unlock the true potential by personalizing your settings. Select your preferred language, window options, ensuring an experience that resonates with you, wherever you are in the world 🌍.</value>
+    <value>Mở khóa tiềm năng thực sự bằng cách cá nhân hóa cài đặt của bạn. Chọn ngôn ngữ ưa thích của bạn, các tùy chọn cửa sổ, đảm bảo trải nghiệm phù hợp với bạn, dù bạn ở đâu trên thế giới 🌍.</value>
   </data>
   <data name="ApplicationTitle.Text" xml:space="preserve">
-    <value>Application</value>
+    <value>Ứng dụng</value>
   </data>
   <data name="AppNotificationMinimizedTitle" xml:space="preserve">
-    <value>Minimized</value>
+    <value>Giảm thiểu</value>
   </data>
   <data name="AppNotificationMinimizedDescription" xml:space="preserve">
-    <value>has been minimized to the system tray. Right click for more options.</value>
+    <value>đã được thu nhỏ xuống khay hệ thống. Nhấp chuột phải để có thêm tùy chọn.</value>
   </data>
   <data name="AppNotificationMinimizedHint" xml:space="preserve">
-    <value>You can disable this feature in settings.</value>
+    <value>Bạn có thể tắt tính năng này trong cài đặt.</value>
   </data>
   <data name="AppNotificationMinimizedHintButton" xml:space="preserve">
-    <value>Open settings</value>
+    <value>Mở cài đặt</value>
   </data>
   <data name="AppSearchHint.PlaceholderText" xml:space="preserve">
-    <value>Find games, library mods, store items and more</value>
+    <value>Tìm trò chơi, mod thư viện, vật phẩm lưu trữ và hơn thế nữa</value>
   </data>
   <data name="BugReport_Dialog_ComboBox_Page.Text" xml:space="preserve">
-    <value>Where did this issue occur?</value>
+    <value>Vấn đề này xảy ra ở đâu?</value>
   </data>
   <data name="BugReport_Dialog_ComboBox_Unsure.Content" xml:space="preserve">
-    <value>Unsure</value>
+    <value>Không chắc chắn</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Sent" xml:space="preserve">
-    <value>Bug report sent to the developers privately</value>
+    <value>Báo cáo lỗi được gửi riêng cho nhà phát triển</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Wait" xml:space="preserve">
-    <value>You've already sent a report recently. Please wait a few minutes.</value>
+    <value>Gần đây bạn đã gửi báo cáo. Vui lòng chờ vài phút.</value>
   </data>
   <data name="BugReport_Dialog_State" xml:space="preserve">
-    <value>Reporting an issue</value>
+    <value>Báo cáo một vấn đề</value>
   </data>
   <data name="BugReport_Dialog_TextBox_Description.PlaceholderText" xml:space="preserve">
-    <value>Description</value>
+    <value>Sự miêu tả</value>
   </data>
   <data name="BugReport_Dialog_TextBox_Title.PlaceholderText" xml:space="preserve">
-    <value>Title</value>
+    <value>Tiêu đề</value>
   </data>
   <data name="BugReport_Dialog_Title" xml:space="preserve">
-    <value>Report a bug</value>
+    <value>Báo cáo lỗi</value>
   </data>
   <data name="Chat_Guidelines.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Guidelines</value>
+    <value>Hướng dẫn</value>
   </data>
   <data name="Chat_Informational_ReadMe.Text" xml:space="preserve">
-    <value>Read guidelines before chatting</value>
+    <value>Đọc hướng dẫn trước khi trò chuyện</value>
   </data>
   <data name="Chat_Members_Online.Text" xml:space="preserve">
-    <value>Members online</value>
+    <value>Thành viên trực tuyến</value>
   </data>
   <data name="Chat_MembersList_Hide.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Hide members list</value>
+    <value>Ẩn danh sách thành viên</value>
   </data>
   <data name="Chat_MembersList_Show.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Show members list</value>
+    <value>Hiển thị danh sách thành viên</value>
   </data>
   <data name="Chat_MessageBox.PlaceholderText" xml:space="preserve">
-    <value>Message #general-chat</value>
+    <value>Tin nhắn #general-chat</value>
   </data>
   <data name="CustomTheme_Background_Opacity.Text" xml:space="preserve">
-    <value>Background image opacity</value>
+    <value>Độ mờ của hình nền</value>
   </data>
   <data name="CustomTheme_Background_Url.PlaceholderText" xml:space="preserve">
-    <value>Background image url</value>
+    <value>Url hình nền</value>
   </data>
   <data name="CustomTheme_Dialog.Title" xml:space="preserve">
-    <value>Create a custom theme</value>
+    <value>Tạo chủ đề tùy chỉnh</value>
   </data>
   <data name="CustomTheme_Name.Header" xml:space="preserve">
-    <value>Theme name</value>
+    <value>Tên chủ đề</value>
   </data>
   <data name="CustomTheme_Name.PlaceholderText" xml:space="preserve">
-    <value>My theme</value>
+    <value>Chủ đề của tôi</value>
   </data>
   <data name="CustomTheme_Primary.Text" xml:space="preserve">
-    <value>Primary color</value>
+    <value>Màu cơ bản</value>
   </data>
   <data name="CustomTheme_Secondary.Text" xml:space="preserve">
-    <value>Secondary color</value>
+    <value>Màu thứ cấp</value>
   </data>
   <data name="CustomTheme_Theme.Header" xml:space="preserve">
-    <value>Prefered theme</value>
+    <value>Chủ đề ưa thích</value>
   </data>
   <data name="Dashboard_Banner_Button_More.Text" xml:space="preserve">
-    <value>View the library</value>
+    <value>Xem thư viện</value>
   </data>
   <data name="Dashboard_Banner_Button_Use.Text" xml:space="preserve">
-    <value>Use now</value>
+    <value>Sử dụng ngay bây giờ</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout.Text" xml:space="preserve">
-    <value>Banner settings</value>
+    <value>Cài đặt biểu ngữ</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Banner settings</value>
+    <value>Cài đặt biểu ngữ</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_AnimSpeed.Text" xml:space="preserve">
-    <value>Animation speed</value>
+    <value>Tốc độ hoạt hình</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_AnimSpeedDefault.Text" xml:space="preserve">
-    <value>Default</value>
+    <value>Mặc định</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_PatternSelect.Text" xml:space="preserve">
-    <value>Select a pattern</value>
+    <value>Chọn một mẫu</value>
   </data>
   <data name="Dashboard_Banner_Title.Text" xml:space="preserve">
-    <value>Control your experience with {App-LibraryMenu}</value>
+    <value>Kiểm soát trải nghiệm của bạn với {App-LibraryMenu}</value>
   </data>
   <data name="Dashboard_Group_New.Header" xml:space="preserve">
-    <value>What's new</value>
+    <value>Có gì mới</value>
   </data>
   <data name="Dashboard_Group_Stats.Header" xml:space="preserve">
-    <value>Live statistics</value>
+    <value>Thống kê trực tiếp</value>
   </data>
   <data name="Dashboard_Group_More.Header" xml:space="preserve">
-    <value>Even more</value>
+    <value>Thậm chí nhiều hơn</value>
   </data>
   <data name="Dashboard_More_Leaderboard.Text" xml:space="preserve">
-    <value>Leaderboard</value>
+    <value>Bảng xếp hạng</value>
   </data>
   <data name="Dashboard_HeaderMOTD_1.Text" xml:space="preserve">
-    <value>More app designs than Leafized's gsc menus. 😏</value>
+    <value>Nhiều thiết kế ứng dụng hơn menu gsc của Leafized. 😏</value>
   </data>
   <data name="Dashboard_HeaderMOTD_10.Text" xml:space="preserve">
-    <value>Play ZBR today!</value>
+    <value>Chơi ZBR ngay hôm nay!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_11.Text" xml:space="preserve">
-    <value>{App-Helper2}!</value>
+    <value>{Người trợ giúp ứng dụng2}!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_12.Text" xml:space="preserve">
-    <value>{App-Website}</value>
+    <value>{Ứng dụng-Trang web}</value>
   </data>
   <data name="Dashboard_HeaderMOTD_13.Text" xml:space="preserve">
-    <value>Check out our Devlogs on YouTube!</value>
+    <value>Hãy xem Devlog của chúng tôi trên YouTube!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_14.Text" xml:space="preserve">
-    <value>Wake the fuck up babe, {App-Name} just dropped.</value>
+    <value>Tỉnh dậy đi em yêu, {App-Name} vừa bị rớt.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_2.Text" xml:space="preserve">
-    <value>{App-NameShort}-Good tool.</value>
+    <value>{App-NameShort}-Công cụ tốt.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_3.Text" xml:space="preserve">
-    <value>{App-Dev2} was here.</value>
+    <value>{App-Dev2} đã ở đây.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_4.Text" xml:space="preserve">
-    <value>{App-Dev1} was here.</value>
+    <value>{App-Dev1} đã ở đây.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_5.Text" xml:space="preserve">
-    <value>Sorry for the delays! 🤐</value>
+    <value>Xin lỗi vì sự chậm trễ! 🤐</value>
   </data>
   <data name="Dashboard_HeaderMOTD_6.Text" xml:space="preserve">
-    <value>Made with 💸 by {App-Dev1}.</value>
+    <value>Được tạo bằng 💸 bởi {App-Dev1}.</value>
   </data>
   <data name="Dashboard_HeaderMOTD_7.Text" xml:space="preserve">
-    <value>What happened to the {IL} store?</value>
+    <value>Chuyện gì đã xảy ra với cửa hàng {IL}?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_8.Text" xml:space="preserve">
-    <value>Have you heard of {IL} 2.0?</value>
+    <value>Bạn đã nghe nói về {IL} 2.0 chưa?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_9.Text" xml:space="preserve">
-    <value>Yo what is going on guys, {App-Helper1} here.</value>
+    <value>Này chuyện gì đang xảy ra vậy các bạn, {App-Helper1} đây.</value>
   </data>
   <data name="Dashboard_New_Achievements.Text" xml:space="preserve">
-    <value>Achievements</value>
+    <value>Thành tích</value>
   </data>
   <data name="Dashboard_New_Changelogs.Text" xml:space="preserve">
-    <value>Release notes for</value>
+    <value>Ghi chú phát hành cho</value>
   </data>
   <data name="Dashboard_New_MOTD.Text" xml:space="preserve">
-    <value>Message of the day</value>
+    <value>Tin nhắn trong ngày</value>
   </data>
   <data name="Dashboard_Stats_LibraryUses.Text" xml:space="preserve">
-    <value>Library uses</value>
+    <value>Sử dụng thư viện</value>
   </data>
   <data name="Dashboard_Stats_Online.Text" xml:space="preserve">
-    <value>Online</value>
+    <value>Trực tuyến</value>
   </data>
   <data name="Dashboard_Stats_PointsEarned.Text" xml:space="preserve">
-    <value>Points earned</value>
+    <value>Điểm kiếm được</value>
   </data>
   <data name="Dashboard_Stats_PointsSpent.Text" xml:space="preserve">
-    <value>Points spent</value>
+    <value>Số điểm đã chi tiêu</value>
   </data>
   <data name="Dashboard_Stats_StorePurchases.Text" xml:space="preserve">
-    <value>Store purchases</value>
+    <value>Mua hàng tại cửa hàng</value>
   </data>
   <data name="Dashboard_Stats_Users.Text" xml:space="preserve">
-    <value>Users</value>
+    <value>Người dùng</value>
   </data>
   <data name="Dashboard_Tile_Discord.Description" xml:space="preserve">
-    <value>Join the official Discord server.</value>
+    <value>Tham gia máy chủ Discord chính thức.</value>
   </data>
   <data name="Dashboard_Tile_Discord.Title" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Máy chủ bất hòa</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Description" xml:space="preserve">
-    <value>An overview of how it works.</value>
+    <value>Tổng quan về cách thức hoạt động của nó.</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Title" xml:space="preserve">
-    <value>Getting started</value>
+    <value>Bắt đầu</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Description" xml:space="preserve">
-    <value>Help keep it free by donating.</value>
+    <value>Hãy giúp giữ nó miễn phí bằng cách quyên góp.</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Title" xml:space="preserve">
-    <value>Stripe donations</value>
+    <value>Đóng góp sọc</value>
   </data>
   <data name="Dashboard_Tile_Trello.Description" xml:space="preserve">
-    <value>Keep up-to-date with planned features &amp; updates.</value>
+    <value>Luôn cập nhật các tính năng và cập nhật theo kế hoạch.</value>
   </data>
   <data name="Dashboard_Tile_Trello.Title" xml:space="preserve">
-    <value>Trello board</value>
+    <value>bảng Trello</value>
   </data>
   <data name="Dashboard_Tile_Website.Description" xml:space="preserve">
-    <value>Check out our website!</value>
+    <value>Kiểm tra trang web của chúng tôi!</value>
   </data>
   <data name="Dashboard_Tile_Website.Title" xml:space="preserve">
-    <value>Website</value>
+    <value>Trang web</value>
   </data>
   <data name="Dashboard_Tile_YouTube.Description" xml:space="preserve">
-    <value>Check out our devlogs.</value>
+    <value>Hãy xem các nhà phát triển của chúng tôi.</value>
   </data>
   <data name="Dashboard_Tile_YouTube.Title" xml:space="preserve">
-    <value>YouTube channel</value>
+    <value>kênh YouTube</value>
   </data>
   <data name="Dashboard_Tile_IL.Description" xml:space="preserve">
-    <value>The only GSC Compiler tailored for the IW Engine. Supported across Xbox and PC.</value>
+    <value>Trình biên dịch GSC duy nhất được thiết kế riêng cho IW Engine. Được hỗ trợ trên Xbox và PC.</value>
   </data>
   <data name="Dialog_Button_Agree.Content" xml:space="preserve">
-    <value>I agree</value>
+    <value>tôi đồng ý</value>
   </data>
   <data name="Dialog_Button_Buy.Text" xml:space="preserve">
-    <value>Buy for</value>
+    <value>Mua cho</value>
   </data>
   <data name="Dialog_Button_Close.Content" xml:space="preserve">
-    <value>Close</value>
+    <value>Đóng</value>
   </data>
   <data name="Dialog_Button_Save.Content" xml:space="preserve">
-    <value>Save</value>
+    <value>Cứu</value>
   </data>
   <data name="Dialog_Button_Send.Content" xml:space="preserve">
-    <value>Send</value>
+    <value>Gửi</value>
   </data>
   <data name="Dialog_Button_Back.Content" xml:space="preserve">
-    <value>Back</value>
+    <value>Mặt sau</value>
   </data>
   <data name="Dialog_Button_Next.Content" xml:space="preserve">
-    <value>Next</value>
+    <value>Kế tiếp</value>
   </data>
   <data name="Dialog_Button_Start.Content" xml:space="preserve">
-    <value>Let's go</value>
+    <value>đi thôi</value>
   </data>
   <data name="Dialog_Button_Update.Content" xml:space="preserve">
-    <value>Update</value>
+    <value>Cập nhật</value>
   </data>
   <data name="Dialog_Button_AYS.Content" xml:space="preserve">
-    <value>Are you sure?</value>
+    <value>Bạn có chắc không?</value>
   </data>
   <data name="DiscordRPC_Button_Server" xml:space="preserve">
-    <value>Discord Server</value>
+    <value>Máy chủ bất hòa</value>
   </data>
   <data name="DiscordRPC_Button_Website" xml:space="preserve">
-    <value>Website</value>
+    <value>Trang web</value>
   </data>
   <data name="Feedback_Dialog_Title" xml:space="preserve">
-    <value>Send feedback</value>
+    <value>Gửi phản hồi</value>
   </data>
   <data name="Feedback_Dialog_State" xml:space="preserve">
-    <value>Sharing feedback</value>
+    <value>Chia sẻ phản hồi</value>
   </data>
   <data name="Search_Dialog_State" xml:space="preserve">
-    <value>Searching</value>
+    <value>Tìm kiếm</value>
   </data>
   <data name="Filters_Button.Text" xml:space="preserve">
-    <value>Filters</value>
+    <value>Bộ lọc</value>
   </data>
   <data name="Games_ComingSoon.Text" xml:space="preserve">
-    <value>Coming soon</value>
+    <value>Sắp ra mắt</value>
   </data>
   <data name="Games_Platform.Text" xml:space="preserve">
-    <value>Platform</value>
+    <value>Nền tảng</value>
   </data>
   <data name="Guideline_Dialog_Actions.Text" xml:space="preserve">
-    <value>By accepting these rules and participating in this chat, you agree to be bound by these rules. Please note that these rules and guidelines are subject to change at any time. Additionally, we reserve the right to take appropriate action if any rule is found to be broken, including chat mute and bans.</value>
+    <value>Bằng cách chấp nhận các quy tắc này và tham gia vào cuộc trò chuyện này, bạn đồng ý bị ràng buộc bởi các quy tắc này. Xin lưu ý rằng các quy tắc và hướng dẫn này có thể thay đổi bất cứ lúc nào. Ngoài ra, chúng tôi có quyền thực hiện hành động thích hợp nếu phát hiện thấy bất kỳ quy tắc nào bị vi phạm, bao gồm cả việc cấm và tắt tiếng trò chuyện.</value>
   </data>
   <data name="Guideline_Dialog_Agreement.Header" xml:space="preserve">
-    <value>Read and agree to the chat rules.</value>
+    <value>Đọc và đồng ý với các quy tắc trò chuyện.</value>
   </data>
   <data name="Guideline_Dialog_Title" xml:space="preserve">
-    <value>Before you can chat...</value>
+    <value>Trước khi bạn có thể trò chuyện...</value>
   </data>
   <data name="Guideline_Rule_1_Info.Description" xml:space="preserve">
-    <value>Absolutely no harassment, witch hunting, sexism, racism or hate speech will be tolerated.</value>
+    <value>Tuyệt đối không được phép quấy rối, săn phù thủy, phân biệt giới tính, phân biệt chủng tộc hoặc lời nói căm thù.</value>
   </data>
   <data name="Guideline_Rule_1_Title.Text" xml:space="preserve">
-    <value>Be respectful</value>
+    <value>Hãy tôn trọng</value>
   </data>
   <data name="Guideline_Rule_2_Info.Description" xml:space="preserve">
-    <value>No age-restricted or obscene content. This includes text, image and video links featuring nudity, sex, hard violence or other disturbing graphic content.</value>
+    <value>Không có nội dung giới hạn độ tuổi hoặc tục tĩu. Điều này bao gồm các liên kết văn bản, hình ảnh và video có ảnh khỏa thân, tình dục, bạo lực nghiêm trọng hoặc nội dung đồ họa gây phản cảm khác.</value>
   </data>
   <data name="Guideline_Rule_2_Title.Text" xml:space="preserve">
-    <value>No NSFW content</value>
+    <value>Không có nội dung NSFW</value>
   </data>
   <data name="Guideline_Rule_3_Info.Description" xml:space="preserve">
-    <value>No spam or promotion (discord server links, advertisements, etc).</value>
+    <value>Không có thư rác hoặc quảng cáo (liên kết máy chủ bất hòa, quảng cáo, v.v.).</value>
   </data>
   <data name="Guideline_Rule_3_Title.Text" xml:space="preserve">
-    <value>No spam or promotion</value>
+    <value>Không có thư rác hoặc quảng cáo</value>
   </data>
   <data name="Help_Card_Hotkeys.Header" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>Phím nóng</value>
   </data>
   <data name="Help_Card_Search.Header" xml:space="preserve">
-    <value>Search</value>
+    <value>Tìm kiếm</value>
   </data>
   <data name="Help_Card_Notifications.Header" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Thông báo</value>
   </data>
   <data name="Help_Group_Inquiries.Header" xml:space="preserve">
-    <value>More inquiries? Join the Discord!</value>
+    <value>Thêm yêu cầu? Tham gia vào sự bất hòa!</value>
   </data>
   <data name="Help_Group_Shortcuts.Header" xml:space="preserve">
-    <value>Shortcuts</value>
+    <value>Phím tắt</value>
   </data>
   <data name="HelpDesc.Text" xml:space="preserve">
-    <value>Need help on finding things? 🔍 We got your back!</value>
+    <value>Cần giúp đỡ về việc tìm kiếm mọi thứ? 🔍 Chúng tôi đã hỗ trợ bạn!</value>
   </data>
   <data name="HelpTitle.Text" xml:space="preserve">
-    <value>Help</value>
+    <value>Giúp đỡ</value>
   </data>
   <data name="Library_Most_Popular.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Most popular</value>
+    <value>Phổ biến nhất</value>
   </data>
   <data name="Library_Author.Text" xml:space="preserve">
-    <value>Author</value>
+    <value>Tác giả</value>
   </data>
   <data name="Library_Game.Text" xml:space="preserve">
-    <value>Game</value>
+    <value>Trò chơi</value>
   </data>
   <data name="Library_Settings.Header" xml:space="preserve">
-    <value>Project settings</value>
+    <value>Cài đặt dự án</value>
   </data>
   <data name="Library_Settings_Gamemode.Header" xml:space="preserve">
-    <value>Select gamemode</value>
+    <value>Chọn chế độ chơi</value>
   </data>
   <data name="Library_Settings_Platform.Header" xml:space="preserve">
-    <value>Select platform</value>
+    <value>Chọn nền tảng</value>
   </data>
   <data name="Library_Inject.Text" xml:space="preserve">
-    <value>Inject</value>
+    <value>tiêm</value>
   </data>
   <data name="Library_InjectionCount.Text" xml:space="preserve">
-    <value>Injections</value>
+    <value>Thuốc tiêm</value>
   </data>
   <data name="Library_LastUpdateDate.Text" xml:space="preserve">
-    <value>Last updated on</value>
+    <value>Cập nhật lần cuối vào</value>
   </data>
   <data name="Library_Showcase.Content" xml:space="preserve">
-    <value>Showcase</value>
+    <value>trưng bày</value>
   </data>
   <data name="Library_Unload.Text" xml:space="preserve">
-    <value>Unload</value>
+    <value>Dỡ bỏ</value>
   </data>
   <data name="Library_Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>Phiên bản</value>
   </data>
   <data name="Login_Dialog.Title" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>Chào mừng đến với</value>
   </data>
   <data name="Login_Dialog_Button_Login.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>Đăng nhập</value>
   </data>
   <data name="Login_Dialog_Button_Register.Content" xml:space="preserve">
-    <value>Register</value>
+    <value>Đăng ký</value>
   </data>
   <data name="Login_Dialog_Button_Register_Info.Text" xml:space="preserve">
-    <value>New to {App-Name}</value>
+    <value>Mới đối với {App-Name}</value>
   </data>
   <data name="Login_Dialog_ForgotPassword.Content" xml:space="preserve">
-    <value>Forgot your password?</value>
+    <value>Bạn quên mật khẩu?</value>
   </data>
   <data name="Login_Dialog_Password.PlaceholderText" xml:space="preserve">
-    <value>Enter your password</value>
+    <value>Nhập mật khẩu của bạn</value>
   </data>
   <data name="Login_Dialog_Username.PlaceholderText" xml:space="preserve">
-    <value>Username</value>
+    <value>Tên người dùng</value>
   </data>
   <data name="Minigame_Selector_Dialog_Cooldown" xml:space="preserve">
-    <value>Cooldown active.</value>
+    <value>Thời gian hồi chiêu đang hoạt động.</value>
   </data>
   <data name="Minigame_Selector_Dialog_Emoji.Header" xml:space="preserve">
-    <value>Find the 🎉</value>
+    <value>Tìm 🎉</value>
   </data>
   <data name="Minigame_Selector_Dialog_Runner.Header" xml:space="preserve">
-    <value>Endless Runner</value>
+    <value>Á hậu vô tận</value>
   </data>
   <data name="Minigame_Runner_JumpHint.Text" xml:space="preserve">
-    <value>Jump</value>
+    <value>Nhảy</value>
   </data>
   <data name="Minigame_Runner_GameOver.Text" xml:space="preserve">
-    <value>Game Over</value>
+    <value>Trò chơi kết thúc</value>
   </data>
   <data name="Minigame_Selector_Dialog_Title" xml:space="preserve">
-    <value>Select a minigame</value>
+    <value>Chọn một trò chơi nhỏ</value>
   </data>
   <data name="MyProfile_AccountBalance.Header" xml:space="preserve">
-    <value>Account balance</value>
+    <value>Số dư tài khoản</value>
   </data>
   <data name="MyProfile_AccountRole.Header" xml:space="preserve">
-    <value>Account role</value>
+    <value>Vai trò tài khoản</value>
   </data>
   <data name="MyProfile_Avatar_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Select an avatar</value>
+    <value>Chọn một hình đại diện</value>
   </data>
   <data name="MyProfile_Avatar_Flyout_Title.Text" xml:space="preserve">
-    <value>Avatar customization</value>
+    <value>Tùy chỉnh hình đại diện</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Select a banner</value>
+    <value>Chọn một biểu ngữ</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Title.Text" xml:space="preserve">
-    <value>Banner customization</value>
+    <value>Tùy chỉnh biểu ngữ</value>
   </data>
   <data name="MyProfile_Button_Avatar.Content" xml:space="preserve">
-    <value>Browse avatars</value>
+    <value>Duyệt hình đại diện</value>
   </data>
   <data name="MyProfile_Button_Banner.Content" xml:space="preserve">
-    <value>Browse banners</value>
+    <value>Duyệt biểu ngữ</value>
   </data>
   <data name="MyProfile_Card_AccountInfo.Header" xml:space="preserve">
-    <value>Account info</value>
+    <value>Thông tin tài khoản</value>
   </data>
   <data name="MyProfile_Card_Avatar.Header" xml:space="preserve">
-    <value>Choose an avatar</value>
+    <value>Chọn một hình đại diện</value>
   </data>
   <data name="MyProfile_Card_Banner.Header" xml:space="preserve">
-    <value>Choose a banner</value>
+    <value>Chọn một biểu ngữ</value>
   </data>
   <data name="MyProfile_Card_CreationDate.Header" xml:space="preserve">
-    <value>Account creation date</value>
+    <value>Ngày tạo tài khoản</value>
   </data>
   <data name="MyProfile_Card_SignInOptions.Header" xml:space="preserve">
-    <value>Sign-in options</value>
+    <value>Tùy chọn đăng nhập</value>
   </data>
   <data name="MyProfile_Card_Subscription.Header" xml:space="preserve">
-    <value>Subscription</value>
+    <value>Đăng ký</value>
   </data>
   <data name="MyProfile_Card_TimeOnline.Header" xml:space="preserve">
-    <value>Time spent online</value>
+    <value>Thời gian trực tuyến</value>
   </data>
   <data name="MyProfile_Checkbox_AutoLogin.Content" xml:space="preserve">
-    <value>Auto login</value>
+    <value>Tự động đăng nhập</value>
   </data>
   <data name="MyProfile_Checkbox_RememberMe.Content" xml:space="preserve">
-    <value>Remember me</value>
+    <value>nhớ tôi</value>
   </data>
   <data name="MyProfile_Group_Customization.Header" xml:space="preserve">
-    <value>Account customization</value>
+    <value>Tùy chỉnh tài khoản</value>
   </data>
   <data name="MyProfile_Group_General.Header" xml:space="preserve">
-    <value>General</value>
+    <value>Tổng quan</value>
   </data>
   <data name="MyProfile_InfoBar_FreeMode.Title" xml:space="preserve">
-    <value>Free mode subscription is active.</value>
+    <value>Đăng ký chế độ miễn phí đang hoạt động.</value>
   </data>
   <data name="MyProfile_InfoBar_Updated.Title" xml:space="preserve">
-    <value>Account successfully updated.</value>
+    <value>Tài khoản được cập nhật thành công.</value>
   </data>
   <data name="MyProfile_PageLink_Store.Text" xml:space="preserve">
-    <value>View the store</value>
+    <value>Xem cửa hàng</value>
   </data>
   <data name="MyProfileDesc.Text" xml:space="preserve">
-    <value>Customize your profile to stand out. Win NautaCoins to purchase avatars and banners from the store and show off the in the chat 💬 page!</value>
+    <value>Tùy chỉnh hồ sơ của bạn để nổi bật. Kiếm được NautaCoins để mua hình đại diện và biểu ngữ từ cửa hàng và thể hiện trên trang trò chuyện 💬!</value>
   </data>
   <data name="MyProfileTitle.Text" xml:space="preserve">
-    <value>My account</value>
+    <value>Tài khoản của tôi</value>
   </data>
   <data name="ConnectionsDesc.Text" xml:space="preserve">
-    <value>Display your Discord activity or connect to your PlayStation 4 to use library content on consoles! 🎮</value>
+    <value>Hiển thị hoạt động Discord của bạn hoặc kết nối với PlayStation 4 để sử dụng nội dung thư viện trên bảng điều khiển! 🎮</value>
   </data>
   <data name="ConnectionsTitle.Text" xml:space="preserve">
-    <value>Connections</value>
+    <value>Kết nối</value>
   </data>
   <data name="Notifications_Card_Chat.Description" xml:space="preserve">
-    <value>Popup alert badge when a new chat message is sent.</value>
+    <value>Huy hiệu cảnh báo bật lên khi có tin nhắn trò chuyện mới được gửi.</value>
   </data>
   <data name="Notifications_Card_Chat.Text" xml:space="preserve">
-    <value>New message alerts</value>
+    <value>Thông báo tin nhắn mới</value>
   </data>
   <data name="Notifications_Card_InfoBar.Description" xml:space="preserve">
-    <value>This setting is required for some alerts.</value>
+    <value>Cài đặt này là bắt buộc đối với một số cảnh báo.</value>
   </data>
   <data name="Notifications_Card_InfoBar.Text" xml:space="preserve">
-    <value>Informational alerts</value>
+    <value>Thông báo thông tin</value>
   </data>
   <data name="Notifications_Card_Minimized.Description" xml:space="preserve">
-    <value>Receive a system tray alert when the app is minimized.</value>
+    <value>Nhận cảnh báo trên khay hệ thống khi ứng dụng được thu nhỏ.</value>
   </data>
   <data name="Notifications_Card_Minimized.Text" xml:space="preserve">
-    <value>Minimized alerts</value>
+    <value>Cảnh báo giảm thiểu</value>
   </data>
   <data name="Notifications_Card_Session.Description" xml:space="preserve">
-    <value>Receive various in-app notifications.</value>
+    <value>Nhận nhiều thông báo trong ứng dụng.</value>
   </data>
   <data name="Notifications_Card_Session.Text" xml:space="preserve">
-    <value>Session alerts</value>
+    <value>Cảnh báo phiên</value>
   </data>
   <data name="Notifications_CheckBox_Sounds.Content" xml:space="preserve">
-    <value>Play sound</value>
+    <value>Phát âm thanh</value>
   </data>
   <data name="Notifications_ComboBox_Everytime.Content" xml:space="preserve">
-    <value>Every time</value>
+    <value>Mỗi lần</value>
   </data>
   <data name="Notifications_ComboBox_Never.Content" xml:space="preserve">
-    <value>Never</value>
+    <value>Không bao giờ</value>
   </data>
   <data name="Notifications_ComboBox_Once.Content" xml:space="preserve">
-    <value>Once</value>
+    <value>Một lần</value>
   </data>
   <data name="Notifications_Empty_Hint.Text" xml:space="preserve">
-    <value>It's empty in here... ☹️</value>
+    <value>Ở đây trống rỗng... ☹️</value>
   </data>
   <data name="Notifications_Group_InApp.Header" xml:space="preserve">
-    <value>In-App</value>
+    <value>Trong ứng dụng</value>
   </data>
   <data name="Notifications_Group_Windows.Header" xml:space="preserve">
-    <value>Windows</value>
+    <value>cửa sổ</value>
   </data>
   <data name="Notifications_Hyperlink_Error.Title" xml:space="preserve">
-    <value>Application sounds must be enabled first</value>
+    <value>Âm thanh ứng dụng phải được bật trước</value>
   </data>
   <data name="NotificationsDesc.Text" xml:space="preserve">
-    <value>We understand that there are times when you need uninterrupted focus. Snooze or mute notifications temporarily, providing you with uninterrupted sessions or moments of relaxation. When you're ready to reconnect, notifications will be waiting for you.</value>
+    <value>Chúng tôi hiểu rằng có những lúc bạn cần sự tập trung không bị gián đoạn. Báo lại hoặc tắt tiếng thông báo tạm thời, mang đến cho bạn những phiên hoặc giây phút thư giãn không bị gián đoạn. Khi bạn sẵn sàng kết nối lại, thông báo sẽ chờ bạn.</value>
   </data>
   <data name="NotificationsTitle.Text" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Thông báo</value>
   </data>
   <data name="Password_Card_Update.Text" xml:space="preserve">
-    <value>Update password</value>
+    <value>Cập nhật mật khẩu</value>
   </data>
   <data name="Password_Card_Update_Info.Text" xml:space="preserve">
-    <value>Changing your password will automatically log you out and require you to log back in.</value>
+    <value>Việc thay đổi mật khẩu sẽ tự động đăng xuất và yêu cầu bạn đăng nhập lại.</value>
   </data>
   <data name="Password_InfoBar_Empty.Title" xml:space="preserve">
-    <value>Hold up! Your new password can't be empty. Please input your new password.</value>
+    <value>Đợi đã! Mật khẩu mới của bạn không được để trống. Vui lòng nhập mật khẩu mới của bạn.</value>
   </data>
   <data name="Password_InfoBar_Invalid.Title" xml:space="preserve">
-    <value>Oops! Your new password is invalid. Please make your password unique.</value>
+    <value>Ối! Mật khẩu mới của bạn không hợp lệ. Hãy đặt mật khẩu của bạn là duy nhất.</value>
   </data>
   <data name="Password_InfoBar_Same.Title" xml:space="preserve">
-    <value>Oops! Your new password can't be the same as the old one. Please choose a new and unique password.</value>
+    <value>Ối! Mật khẩu mới của bạn không được giống mật khẩu cũ. Vui lòng chọn một mật khẩu mới và duy nhất.</value>
   </data>
   <data name="Password_InfoBar_Updated.Title" xml:space="preserve">
-    <value>Your password has been updated successfully. You're all set!</value>
+    <value>Mật khẩu của bạn đã được cập nhật thành công. Bạn đã hoàn tất!</value>
   </data>
   <data name="Password_Save.Text" xml:space="preserve">
-    <value>Save</value>
+    <value>Cứu</value>
   </data>
   <data name="Password_Status_Invalid.Text" xml:space="preserve">
-    <value>Invalid</value>
+    <value>Không hợp lệ</value>
   </data>
   <data name="Password_Status_Medium.Text" xml:space="preserve">
-    <value>Medium</value>
+    <value>Trung bình</value>
   </data>
   <data name="Password_Status_Strong.Text" xml:space="preserve">
-    <value>Strong</value>
+    <value>Mạnh</value>
   </data>
   <data name="Password_Status_Weak.Text" xml:space="preserve">
-    <value>Weak</value>
+    <value>Yếu đuối</value>
   </data>
   <data name="PasswordDesc.Text" xml:space="preserve">
-    <value>Forgot your password? Make a request in the official Discord server and we'll fix that for you asap! 😁</value>
+    <value>Bạn quên mật khẩu? Hãy gửi yêu cầu trên máy chủ Discord chính thức và chúng tôi sẽ khắc phục điều đó cho bạn trong thời gian sớm nhất! 😁</value>
   </data>
   <data name="PasswordTitle.Text" xml:space="preserve">
-    <value>Password</value>
+    <value>Mật khẩu</value>
   </data>
   <data name="Pattern_Axiom" xml:space="preserve">
-    <value>Axiom</value>
+    <value>tiên đề</value>
   </data>
   <data name="Pattern_Cartographer" xml:space="preserve">
-    <value>Catographer</value>
+    <value>Người vẽ ảnh</value>
   </data>
   <data name="Pattern_Diagmonds" xml:space="preserve">
-    <value>Diagmonds</value>
+    <value>kim cương</value>
   </data>
   <data name="Pattern_Diamonds" xml:space="preserve">
-    <value>Diamonds</value>
+    <value>Kim cương</value>
   </data>
   <data name="Pattern_Geometry" xml:space="preserve">
-    <value>Geometry</value>
+    <value>Hình học</value>
   </data>
   <data name="Pattern_GPlay" xml:space="preserve">
     <value>GPlay</value>
   </data>
   <data name="Pattern_Mosaic" xml:space="preserve">
-    <value>Mosaic</value>
+    <value>Khảm</value>
   </data>
   <data name="Pattern_ScanLines" xml:space="preserve">
-    <value>Scan lines</value>
+    <value>Quét dòng</value>
   </data>
   <data name="Pattern_Stripes" xml:space="preserve">
-    <value>Stripes</value>
+    <value>Sọc</value>
   </data>
   <data name="Progress_Dialog.Text" xml:space="preserve">
-    <value>Please wait</value>
+    <value>Vui lòng chờ</value>
   </data>
   <data name="Register_Dialog.Title" xml:space="preserve">
-    <value>Set up a new account!</value>
+    <value>Thiết lập một tài khoản mới!</value>
   </data>
   <data name="Register_Dialog_Button_Login_Info.Text" xml:space="preserve">
-    <value>Already have an account?</value>
+    <value>Đã có tài khoản?</value>
   </data>
   <data name="Register_Dialog_ConfirmPassword.PlaceholderText" xml:space="preserve">
-    <value>Confirm Password</value>
+    <value>Xác nhận mật khẩu</value>
   </data>
   <data name="Register_Dialog_InfoBar_Empty" xml:space="preserve">
-    <value>Required input values were left empty.</value>
+    <value>Các giá trị đầu vào bắt buộc được để trống.</value>
   </data>
   <data name="Register_Dialog_InfoBar_Match" xml:space="preserve">
-    <value>Passwords do not match.</value>
+    <value>Mật khẩu không khớp.</value>
   </data>
   <data name="Register_Dialog_InfoBar_Registered" xml:space="preserve">
-    <value>Account successfully registered.</value>
+    <value>Tài khoản đã đăng ký thành công.</value>
   </data>
   <data name="Register_Dialog_LicenseKey.PlaceholderText" xml:space="preserve">
-    <value>License key</value>
+    <value>Mã cấp phép</value>
   </data>
   <data name="Settings_About.Content" xml:space="preserve">
-    <value>About</value>
+    <value>Về</value>
   </data>
   <data name="Settings_About_State.Content" xml:space="preserve">
-    <value>Reading about</value>
+    <value>Đọc về</value>
   </data>
   <data name="Settings_Appearance.Content" xml:space="preserve">
-    <value>Appearance</value>
+    <value>Vẻ bề ngoài</value>
   </data>
   <data name="Settings_Appearance_State.Content" xml:space="preserve">
-    <value>Tweaking application appearance</value>
+    <value>Tinh chỉnh giao diện ứng dụng</value>
   </data>
   <data name="Settings_Application.Content" xml:space="preserve">
-    <value>Application</value>
+    <value>Ứng dụng</value>
   </data>
   <data name="Settings_Application_State.Content" xml:space="preserve">
-    <value>Tweaking application settings</value>
+    <value>Tinh chỉnh cài đặt ứng dụng</value>
   </data>
   <data name="Settings_Connections.Content" xml:space="preserve">
-    <value>Connections</value>
+    <value>Kết nối</value>
   </data>
   <data name="Settings_Connections_State.Content" xml:space="preserve">
-    <value>Tweaking connection settings</value>
+    <value>Tinh chỉnh cài đặt kết nối</value>
   </data>
   <data name="Settings_Help.Content" xml:space="preserve">
-    <value>Help</value>
+    <value>Giúp đỡ</value>
   </data>
   <data name="Settings_Help_State.Content" xml:space="preserve">
-    <value>Viewing the help center</value>
+    <value>Xem trung tâm trợ giúp</value>
   </data>
   <data name="Settings_MyProfile.Content" xml:space="preserve">
-    <value>My Account</value>
+    <value>Tài khoản của tôi</value>
   </data>
   <data name="Settings_MyProfile_State.Content" xml:space="preserve">
-    <value>Editing account</value>
+    <value>Chỉnh sửa tài khoản</value>
   </data>
   <data name="Settings_Notifications.Content" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Thông báo</value>
   </data>
   <data name="Settings_Notifications_State.Content" xml:space="preserve">
-    <value>Editing notifications</value>
+    <value>Chỉnh sửa thông báo</value>
   </data>
   <data name="Settings_Password.Content" xml:space="preserve">
-    <value>Password</value>
+    <value>Mật khẩu</value>
   </data>
   <data name="Settings_Password_State.Content" xml:space="preserve">
-    <value>Editing account password</value>
+    <value>Chỉnh sửa mật khẩu tài khoản</value>
   </data>
   <data name="Shell_Chat.Content" xml:space="preserve">
-    <value>Chat</value>
+    <value>Trò chuyện</value>
   </data>
   <data name="Shell_Chat_State.Content" xml:space="preserve">
-    <value>Chatting with users</value>
+    <value>Trò chuyện với người dùng</value>
   </data>
   <data name="Shell_Chat_Title.Text" xml:space="preserve">
-    <value>Chat</value>
+    <value>Trò chuyện</value>
   </data>
   <data name="Shell_Dashboard.Content" xml:space="preserve">
-    <value>Dashboard</value>
+    <value>Trang tổng quan</value>
   </data>
   <data name="Shell_Dashboard_State.Content" xml:space="preserve">
-    <value>Viewing the dashboard</value>
+    <value>Xem bảng điều khiển</value>
   </data>
   <data name="Shell_Games.Content" xml:space="preserve">
-    <value>Games</value>
+    <value>Trò chơi</value>
   </data>
   <data name="Shell_Games_State.Content" xml:space="preserve">
-    <value>Browsing games selection</value>
+    <value>Duyệt lựa chọn trò chơi</value>
   </data>
   <data name="Shell_Games_Title.Text" xml:space="preserve">
-    <value>Games</value>
+    <value>Trò chơi</value>
   </data>
   <data name="Shell_Library.Content" xml:space="preserve">
-    <value>Library</value>
+    <value>Thư viện</value>
   </data>
   <data name="Shell_Library_State.Content" xml:space="preserve">
-    <value>Browsing user made content</value>
+    <value>Duyệt nội dung do người dùng tạo</value>
   </data>
   <data name="Shell_Library_Title.Text" xml:space="preserve">
-    <value>Library</value>
+    <value>Thư viện</value>
   </data>
   <data name="Shell_Search.PlaceholderText" xml:space="preserve">
-    <value>Search</value>
+    <value>Tìm kiếm</value>
   </data>
   <data name="Shell_Settings.Content" xml:space="preserve">
-    <value>Settings</value>
+    <value>Cài đặt</value>
   </data>
   <data name="Shell_Store.Content" xml:space="preserve">
-    <value>Store</value>
+    <value>Cửa hàng</value>
   </data>
   <data name="Shell_Store_State.Content" xml:space="preserve">
-    <value>Browsing the store</value>
+    <value>Duyệt qua cửa hàng</value>
   </data>
   <data name="Shell_Store_Title.Text" xml:space="preserve">
-    <value>Store</value>
+    <value>Cửa hàng</value>
   </data>
   <data name="Shell_UserDropDown_AppSettings.Text" xml:space="preserve">
-    <value>Application settings</value>
+    <value>Cài đặt ứng dụng</value>
   </data>
   <data name="Shell_UserDropDown_BrowseStore.Text" xml:space="preserve">
-    <value>Browse store</value>
+    <value>Duyệt qua cửa hàng</value>
   </data>
   <data name="Shell_UserDropDown_EarnPoints.Text" xml:space="preserve">
-    <value>Earn NautaCoins</value>
+    <value>Kiếm NautaCoin</value>
   </data>
   <data name="Shell_UserDropDown_MyAccount.Text" xml:space="preserve">
-    <value>My account</value>
+    <value>Tài khoản của tôi</value>
   </data>
   <data name="Shell_UserDropDown_SignOut.Text" xml:space="preserve">
-    <value>Sign out</value>
+    <value>Đăng xuất</value>
   </data>
   <data name="Search_Games_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search games</value>
+    <value>Tìm kiếm trò chơi</value>
   </data>
   <data name="Search_Library_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search projects</value>
+    <value>Tìm kiếm dự án</value>
   </data>
   <data name="Search_Store_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search store</value>
+    <value>Tìm kiếm cửa hàng</value>
   </data>
   <data name="Sorting_ComboBox_Hint.PlaceholderText" xml:space="preserve">
-    <value>Sort by</value>
+    <value>Sắp xếp theo</value>
   </data>
   <data name="Sorting_ComboBox_Popularity.Content" xml:space="preserve">
-    <value>Popularity</value>
+    <value>Mức độ phổ biến</value>
   </data>
   <data name="Sorting_ComboBox_DateUpdated.Content" xml:space="preserve">
-    <value>Last updated</value>
+    <value>Cập nhật lần cuối</value>
   </data>
   <data name="Sorting_ComboBox_Price_HighLow.Content" xml:space="preserve">
-    <value>Price: High to Low</value>
+    <value>Giá: Cao đến thấp</value>
   </data>
   <data name="Sorting_ComboBox_Price_LowHigh.Content" xml:space="preserve">
-    <value>Price: Low to High</value>
+    <value>Giá: Thấp đến Cao</value>
   </data>
   <data name="Sorting_ComboBox_Relevance.Content" xml:space="preserve">
-    <value>Relevance</value>
+    <value>Mức độ liên quan</value>
   </data>
   <data name="Sorting_ComboBox_Title_AZ.Content" xml:space="preserve">
-    <value>Title A-Z</value>
+    <value>Tiêu đề A-Z</value>
   </data>
   <data name="Sorting_ComboBox_Title_ZA.Content" xml:space="preserve">
-    <value>Title Z-A</value>
+    <value>Tiêu đề Z-A</value>
   </data>
   <data name="Splash_Status_AuthFailed.Text" xml:space="preserve">
-    <value>Auth failed to initialize.</value>
+    <value>Auth không khởi tạo được.</value>
   </data>
   <data name="Splash_Status_AuthSuccess.Text" xml:space="preserve">
-    <value>Connected to server.</value>
+    <value>Đã kết nối với máy chủ.</value>
   </data>
   <data name="Splash_Status_Initializing.Text" xml:space="preserve">
-    <value>Initializing auth...</value>
+    <value>Đang khởi tạo xác thực...</value>
   </data>
   <data name="Splash_Status_Wizard.Text" xml:space="preserve">
-    <value>Complete setup wizard...</value>
+    <value>Hoàn tất trình hướng dẫn thiết lập...</value>
   </data>
   <data name="Splash_Status_Login.Text" xml:space="preserve">
-    <value>Awaiting user login...</value>
+    <value>Đang chờ người dùng đăng nhập...</value>
   </data>
   <data name="Splash_Status_LoginSuccess.Text" xml:space="preserve">
-    <value>Logging in...</value>
+    <value>Đang đăng nhập...</value>
   </data>
   <data name="Splash_Status_Resources.Text" xml:space="preserve">
-    <value>Gathering user information...</value>
+    <value>Thu thập thông tin người dùng...</value>
   </data>
   <data name="Splash_Status_Update.Text" xml:space="preserve">
-    <value>New update available!</value>
+    <value>Đã có bản cập nhật mới!</value>
   </data>
   <data name="Splash_Status_Downloading.Text" xml:space="preserve">
-    <value>Downloading</value>
+    <value>Đang tải xuống</value>
   </data>
   <data name="Store_Filter_All.Content" xml:space="preserve">
-    <value>All</value>
+    <value>Tất cả</value>
   </data>
   <data name="Store_Filter_Avatars.Content" xml:space="preserve">
-    <value>Avatars</value>
+    <value>Hình đại diện</value>
   </data>
   <data name="Store_Filter_Banners.Content" xml:space="preserve">
-    <value>Banners</value>
+    <value>Biểu ngữ</value>
   </data>
   <data name="Store_Owned.Text" xml:space="preserve">
-    <value>Owned</value>
+    <value>Sở hữu</value>
   </data>
   <data name="Store_Purchase" xml:space="preserve">
-    <value>purchased</value>
+    <value>đã mua</value>
   </data>
   <data name="Store_Purchase_Error" xml:space="preserve">
-    <value>There was an error trying to purchase</value>
+    <value>Đã xảy ra lỗi khi mua hàng</value>
   </data>
   <data name="TourGuide_Step1.Title" xml:space="preserve">
-    <value>Getting started 🚀</value>
+    <value>Bắt đầu 🚀</value>
   </data>
   <data name="TourGuide_Step2.Title" xml:space="preserve">
-    <value>Select your prefered language</value>
+    <value>Chọn ngôn ngữ ưa thích của bạn</value>
   </data>
   <data name="TourGuide_Step3.Title" xml:space="preserve">
-    <value>Select your prefered theme</value>
+    <value>Chọn chủ đề ưa thích của bạn</value>
   </data>
   <data name="User_Login.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>Đăng nhập</value>
   </data>
   <data name="User_Login_State.Content" xml:space="preserve">
-    <value>Logging in</value>
+    <value>Đăng nhập</value>
   </data>
   <data name="User_Signup.Content" xml:space="preserve">
-    <value>Sign-up</value>
+    <value>Đăng ký</value>
   </data>
   <data name="User_Signup_State.Content" xml:space="preserve">
-    <value>Setting up an account</value>
+    <value>Thiết lập tài khoản</value>
   </data>
   <data name="Cheat_ForceHost.Header" xml:space="preserve">
-    <value>Force host</value>
+    <value>Buộc máy chủ</value>
   </data>
 </root>

@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="_LanguageName" xml:space="preserve">
-    <value>Magyar</value>
+    <value>Hungarian</value>
   </data>
   <data name="Tray_Show.Text" xml:space="preserve">
     <value>Megmutat</value>
@@ -270,6 +270,9 @@
   </data>
   <data name="Application_Language.Header" xml:space="preserve">
     <value>Nyelv</value>
+  </data>
+  <data name="Application_Holiday.Header" xml:space="preserve">
+    <value>Ünnepi rátétek</value>
   </data>
   <data name="ApplicationDesc.Text" xml:space="preserve">
     <value>A beállítások személyre szabásával tárja fel a valódi potenciált. Válassza ki a kívánt nyelvet, ablakbeállításokat, így biztosítva, hogy a világ bármely pontján rezonáló élmény legyen 🌍.</value>
@@ -1104,5 +1107,8 @@
   </data>
   <data name="User_Signup_State.Content" xml:space="preserve">
     <value>Fiók beállítása</value>
+  </data>
+  <data name="Cheat_ForceHost.Header" xml:space="preserve">
+    <value>A házigazda kényszerítése</value>
   </data>
 </root>

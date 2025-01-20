@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="_LanguageName" xml:space="preserve">
-    <value>Deutsch</value>
+    <value>German</value>
   </data>
   <data name="Tray_Show.Text" xml:space="preserve">
     <value>Anzeigen</value>
@@ -270,6 +270,9 @@
   </data>
   <data name="Application_Language.Header" xml:space="preserve">
     <value>Sprache</value>
+  </data>
+  <data name="Application_Holiday.Header" xml:space="preserve">
+    <value>Feiertagsüberlagerungen</value>
   </data>
   <data name="ApplicationDesc.Text" xml:space="preserve">
     <value>Schöpfen Sie das wahre Potenzial aus, indem Sie Ihre Einstellungen personalisieren. Wählen Sie Ihre bevorzugte Sprache und Fensteroptionen aus, um ein Erlebnis zu gewährleisten, das zu Ihnen passt, wo immer Sie sich auf der Welt befinden 🌍.</value>
@@ -1110,5 +1113,8 @@
   </data>
   <data name="User_Signup_State.Content" xml:space="preserve">
     <value>Konto einrichten</value>
+  </data>
+  <data name="Cheat_ForceHost.Header" xml:space="preserve">
+    <value>Host erzwingen</value>
   </data>
 </root>

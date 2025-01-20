@@ -59,1062 +59,1062 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="_LanguageName" xml:space="preserve">
-    <value>English</value>
+    <value>Japanese</value>
   </data>
   <data name="Tray_Show.Text" xml:space="preserve">
-    <value>Show</value>
+    <value>見せる</value>
   </data>
   <data name="Tray_Discord.Text" xml:space="preserve">
-    <value>Join the Discord</value>
+    <value>ディスコードに参加する</value>
   </data>
   <data name="Tray_Exit.Text" xml:space="preserve">
-    <value>Exit</value>
+    <value>出口</value>
   </data>
   <data name="About_Card.Text" xml:space="preserve">
-    <value>All rights reserved.</value>
+    <value>無断転載を禁じます。</value>
   </data>
   <data name="About_ColorPalette.Header" xml:space="preserve">
-    <value>Color palette</value>
+    <value>カラーパレット</value>
   </data>
   <data name="About_Contributors.Header" xml:space="preserve">
-    <value>Contributors</value>
+    <value>貢献者</value>
   </data>
   <data name="About_Dependencies.Header" xml:space="preserve">
-    <value>Dependencies &amp; references</value>
+    <value>依存関係と参照</value>
   </data>
   <data name="About_Developers.Header" xml:space="preserve">
-    <value>Developers</value>
+    <value>開発者</value>
   </data>
   <data name="About_PageLink_BugReport.Text" xml:space="preserve">
-    <value>Report a bug</value>
+    <value>バグを報告する</value>
   </data>
   <data name="About_PageLink_Discord.Text" xml:space="preserve">
-    <value>Discord</value>
+    <value>不和</value>
   </data>
   <data name="About_PageLink_Feedback.Text" xml:space="preserve">
-    <value>Send feeback</value>
+    <value>フィードバックを送信する</value>
   </data>
   <data name="About_PageLink_RequestFeature.Text" xml:space="preserve">
-    <value>Request a feature</value>
+    <value>機能をリクエストする</value>
   </data>
   <data name="About_PageLink_Search.Text" xml:space="preserve">
-    <value>Search for features</value>
+    <value>機能を検索する</value>
   </data>
   <data name="About_PageLink_Website.Text" xml:space="preserve">
-    <value>Website</value>
+    <value>Webサイト</value>
   </data>
   <data name="About_PageLink_YouTube.Text" xml:space="preserve">
     <value>YouTube</value>
   </data>
   <data name="About_PageLink_Docs.Text" xml:space="preserve">
-    <value>Documentation</value>
+    <value>ドキュメント</value>
   </data>
   <data name="About_PageLink_Donate.Text" xml:space="preserve">
-    <value>Donate</value>
+    <value>寄付する</value>
   </data>
   <data name="About_Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>バージョン</value>
   </data>
   <data name="AboutDesc.Text" xml:space="preserve">
-    <value>is an elegant and powerful modding tool that aims to be the most sophisticated Call of Duty cheating software available for PC. In addition to having a stunning user interface, which you won't find on any other modding programs, it is also jam-packed with features that other external tools don't provide. Made with 💗 by the Nauta Dev Team.</value>
+    <value>は、PC で利用できる最も洗練された Call of Duty チート ソフトウェアを目指す、エレガントで強力な改造ツールです。他の改造プログラムでは見られない見事なユーザー インターフェイスを備えていることに加えて、他の外部ツールでは提供されない機能も満載です。 Nauta 開発チームによって 💗 を使用して作成されました。</value>
   </data>
   <data name="AboutTitle.Text" xml:space="preserve">
-    <value>About</value>
+    <value>について</value>
   </data>
   <data name="AppDisplayBuild.Text" xml:space="preserve">
-    <value>Alpha</value>
+    <value>アルファ</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic" xml:space="preserve">
-    <value>Desktop acrylic</value>
+    <value>卓上アクリル</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic_Base" xml:space="preserve">
-    <value>Acrylic base</value>
+    <value>アクリルベース</value>
   </data>
   <data name="Appearance_Backdrop_Acrylic_Thin" xml:space="preserve">
-    <value>Acrylic thin</value>
+    <value>アクリル薄手</value>
   </data>
   <data name="Appearance_Backdrop_Mica" xml:space="preserve">
-    <value>Mica</value>
+    <value>雲母</value>
   </data>
   <data name="Appearance_Backdrop_MicaAlt" xml:space="preserve">
-    <value>Mica alt</value>
+    <value>マイカ代替品</value>
   </data>
   <data name="Appearance_Border_Accent" xml:space="preserve">
-    <value>Accent</value>
+    <value>アクセント</value>
   </data>
   <data name="Appearance_Border_Accent_Secondary" xml:space="preserve">
-    <value>Accent secondary</value>
+    <value>二次的なアクセント</value>
   </data>
   <data name="Appearance_Border_Default" xml:space="preserve">
-    <value>Default</value>
+    <value>デフォルト</value>
   </data>
   <data name="Appearance_Border_Dialog.Title" xml:space="preserve">
-    <value>Border settings</value>
+    <value>枠線の設定</value>
   </data>
   <data name="Appearance_Border_Rainbow" xml:space="preserve">
-    <value>Rainbow</value>
+    <value>虹</value>
   </data>
   <data name="Appearance_CreateTheme.Text" xml:space="preserve">
-    <value>Create new</value>
+    <value>新規作成</value>
   </data>
   <data name="Appearance_ImportTheme.Text" xml:space="preserve">
-    <value>Import theme</value>
+    <value>テーマのインポート</value>
   </data>
   <data name="Appearance_ImportTheme_Hint" xml:space="preserve">
-    <value>Successfully imported</value>
+    <value>正常にインポートされました</value>
   </data>
   <data name="Appearance_ExportTheme.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Export theme</value>
+    <value>テーマのエクスポート</value>
   </data>
   <data name="Appearance_ExportTheme_Hint" xml:space="preserve">
-    <value>Successfully exported to</value>
+    <value>に正常にエクスポートされました</value>
   </data>
   <data name="Appearance_DeleteTheme.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Delete theme</value>
+    <value>テーマの削除</value>
   </data>
   <data name="Appearance_Group_Backdrop.Header" xml:space="preserve">
-    <value>Backdrop</value>
+    <value>背景</value>
   </data>
   <data name="Appearance_Group_Border.Header" xml:space="preserve">
-    <value>Border</value>
+    <value>国境</value>
   </data>
   <data name="Appearance_Group_MyThemes.Header" xml:space="preserve">
-    <value>My themes</value>
+    <value>私のテーマ</value>
   </data>
   <data name="Appearance_Group_Theme.Header" xml:space="preserve">
-    <value>Theme</value>
+    <value>テーマ</value>
   </data>
   <data name="Appearance_Theme_Dark.Content" xml:space="preserve">
-    <value>Dark</value>
+    <value>暗い</value>
   </data>
   <data name="Appearance_Theme_Dark.Text" xml:space="preserve">
-    <value>Dark</value>
+    <value>暗い</value>
   </data>
   <data name="Appearance_Theme_Forest" xml:space="preserve">
-    <value>Bubbles</value>
+    <value>泡</value>
   </data>
   <data name="Appearance_Theme_Glacier" xml:space="preserve">
-    <value>Glacier</value>
+    <value>氷河</value>
   </data>
   <data name="Appearance_Theme_Light.Content" xml:space="preserve">
-    <value>Light</value>
+    <value>ライト</value>
   </data>
   <data name="Appearance_Theme_Light.Text" xml:space="preserve">
-    <value>Light</value>
+    <value>ライト</value>
   </data>
   <data name="Appearance_Theme_Solitary" xml:space="preserve">
-    <value>Solitary explorer</value>
+    <value>孤独な探検家</value>
   </data>
   <data name="Appearance_Theme_Submerged" xml:space="preserve">
-    <value>Submerged</value>
+    <value>水没</value>
   </data>
   <data name="Appearance_Theme_System" xml:space="preserve">
-    <value>Use system preferences</value>
+    <value>システム環境設定を使用する</value>
   </data>
   <data name="AppearanceDesc.Text" xml:space="preserve">
-    <value>Choose from a range of visually appealing themes 🎨 to match your preferences. Breeze through your browsing experience in an environment that reflects your personality.</value>
+    <value>好みに合わせて、視覚的に魅力的なテーマ 🎨 から選択してください。あなたの個性を反映した環境で、快適なブラウジング体験をお楽しみください。</value>
   </data>
   <data name="AppearanceTitle.Text" xml:space="preserve">
-    <value>Appearance</value>
+    <value>外観</value>
   </data>
   <data name="Application_Card_AlwaysOnTop.Header" xml:space="preserve">
-    <value>Always on top</value>
+    <value>常にトップにある</value>
   </data>
   <data name="Application_Card_CloseToTray.Header" xml:space="preserve">
-    <value>Close to system tray</value>
+    <value>システムトレイの近く</value>
   </data>
   <data name="Application_Card_Discord.Description" xml:space="preserve">
-    <value>Display in your Discord activity.</value>
+    <value>Discord アクティビティに表示します。</value>
   </data>
   <data name="Application_Card_Discord.Header" xml:space="preserve">
-    <value>Discord Rich Presence</value>
+    <value>Discord のリッチなプレゼンス</value>
   </data>
   <data name="Application_Card_DiscordLogoAnim.Description" xml:space="preserve">
-    <value>Toggle between an animated and static logo.</value>
+    <value>アニメーションロゴと静的ロゴを切り替えます。</value>
   </data>
   <data name="Application_Card_Sounds.Description" xml:space="preserve">
-    <value>Controls provide audible feedback.</value>
+    <value>コントロールは可聴フィードバックを提供します。</value>
   </data>
   <data name="Application_Card_Sounds.Header" xml:space="preserve">
-    <value>Sounds</value>
+    <value>音</value>
   </data>
   <data name="Application_Card_ProcessMem.Header" xml:space="preserve">
-    <value>Process Memory</value>
+    <value>プロセスメモリ</value>
   </data>
   <data name="Application_Card_CPUMem.Header" xml:space="preserve">
-    <value>CPU Memory</value>
+    <value>CPUメモリ</value>
   </data>
   <data name="Application_Card_SystemInformation.Header" xml:space="preserve">
-    <value>System Information</value>
+    <value>システム情報</value>
   </data>
   <data name="Application_Card_OSVersion.Header" xml:space="preserve">
-    <value>OS Version</value>
+    <value>OSバージョン</value>
   </data>
   <data name="Application_Card_ProcessID.Header" xml:space="preserve">
-    <value>Process ID</value>
+    <value>プロセスID</value>
   </data>
   <data name="Application_Card_PrivilegedProcess.Header" xml:space="preserve">
-    <value>Privileged Process</value>
+    <value>特権プロセス</value>
   </data>
   <data name="Application_Checkbox_DiscordLogoAnim.Content" xml:space="preserve">
-    <value>Animated logo</value>
+    <value>アニメーションロゴ</value>
   </data>
   <data name="Application_Group_Behavior.Header" xml:space="preserve">
-    <value>Behavior</value>
+    <value>行動</value>
   </data>
   <data name="Application_Group_Window.Header" xml:space="preserve">
-    <value>Window options</value>
+    <value>ウィンドウのオプション</value>
   </data>
   <data name="Application_InfoBar_Language.Title" xml:space="preserve">
-    <value>Some localized strings may require you to restart to load properly.</value>
+    <value>ローカライズされた文字列によっては、正しく読み込むために再起動が必要になる場合があります。</value>
   </data>
   <data name="Application_Language.Header" xml:space="preserve">
-    <value>Language</value>
+    <value>言語</value>
   </data>
   <data name="Application_Holiday.Header" xml:space="preserve">
-    <value>Holiday overlays</value>
+    <value>ホリデーオーバーレイ</value>
   </data>
   <data name="ApplicationDesc.Text" xml:space="preserve">
-    <value>Unlock the true potential by personalizing your settings. Select your preferred language, window options, ensuring an experience that resonates with you, wherever you are in the world 🌍.</value>
+    <value>設定をパーソナライズして、真の可能性を引き出します。好みの言語、ウィンドウのオプションを選択すると、世界中のどこにいても心に響く体験が保証されます🌍。</value>
   </data>
   <data name="ApplicationTitle.Text" xml:space="preserve">
-    <value>Application</value>
+    <value>応用</value>
   </data>
   <data name="AppNotificationMinimizedTitle" xml:space="preserve">
-    <value>Minimized</value>
+    <value>最小化</value>
   </data>
   <data name="AppNotificationMinimizedDescription" xml:space="preserve">
-    <value>has been minimized to the system tray. Right click for more options.</value>
+    <value>システムトレイに最小化されました。右クリックするとその他のオプションが表示されます。</value>
   </data>
   <data name="AppNotificationMinimizedHint" xml:space="preserve">
-    <value>You can disable this feature in settings.</value>
+    <value>この機能は設定で無効にすることができます。</value>
   </data>
   <data name="AppNotificationMinimizedHintButton" xml:space="preserve">
-    <value>Open settings</value>
+    <value>設定を開く</value>
   </data>
   <data name="AppSearchHint.PlaceholderText" xml:space="preserve">
-    <value>Find games, library mods, store items and more</value>
+    <value>ゲーム、ライブラリ MOD、ストア アイテムなどを検索します</value>
   </data>
   <data name="BugReport_Dialog_ComboBox_Page.Text" xml:space="preserve">
-    <value>Where did this issue occur?</value>
+    <value>この問題はどこで発生しましたか?</value>
   </data>
   <data name="BugReport_Dialog_ComboBox_Unsure.Content" xml:space="preserve">
-    <value>Unsure</value>
+    <value>わからない</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Sent" xml:space="preserve">
-    <value>Bug report sent to the developers privately</value>
+    <value>バグレポートは開発者に非公開で送信されました</value>
   </data>
   <data name="BugReport_Dialog_InfoBar_Wait" xml:space="preserve">
-    <value>You've already sent a report recently. Please wait a few minutes.</value>
+    <value>最近すでにレポートを送信しました。数分お待ちください。</value>
   </data>
   <data name="BugReport_Dialog_State" xml:space="preserve">
-    <value>Reporting an issue</value>
+    <value>問題を報告する</value>
   </data>
   <data name="BugReport_Dialog_TextBox_Description.PlaceholderText" xml:space="preserve">
-    <value>Description</value>
+    <value>説明</value>
   </data>
   <data name="BugReport_Dialog_TextBox_Title.PlaceholderText" xml:space="preserve">
-    <value>Title</value>
+    <value>タイトル</value>
   </data>
   <data name="BugReport_Dialog_Title" xml:space="preserve">
-    <value>Report a bug</value>
+    <value>バグを報告する</value>
   </data>
   <data name="Chat_Guidelines.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Guidelines</value>
+    <value>ガイドライン</value>
   </data>
   <data name="Chat_Informational_ReadMe.Text" xml:space="preserve">
-    <value>Read guidelines before chatting</value>
+    <value>チャットする前にガイドラインをお読みください</value>
   </data>
   <data name="Chat_Members_Online.Text" xml:space="preserve">
-    <value>Members online</value>
+    <value>オンライン会員</value>
   </data>
   <data name="Chat_MembersList_Hide.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Hide members list</value>
+    <value>メンバーリストを非表示にする</value>
   </data>
   <data name="Chat_MembersList_Show.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Show members list</value>
+    <value>メンバーリストを表示</value>
   </data>
   <data name="Chat_MessageBox.PlaceholderText" xml:space="preserve">
-    <value>Message #general-chat</value>
+    <value>メッセージ#一般チャット</value>
   </data>
   <data name="CustomTheme_Background_Opacity.Text" xml:space="preserve">
-    <value>Background image opacity</value>
+    <value>背景画像の不透明度</value>
   </data>
   <data name="CustomTheme_Background_Url.PlaceholderText" xml:space="preserve">
-    <value>Background image url</value>
+    <value>背景画像のURL</value>
   </data>
   <data name="CustomTheme_Dialog.Title" xml:space="preserve">
-    <value>Create a custom theme</value>
+    <value>カスタムテーマを作成する</value>
   </data>
   <data name="CustomTheme_Name.Header" xml:space="preserve">
-    <value>Theme name</value>
+    <value>テーマ名</value>
   </data>
   <data name="CustomTheme_Name.PlaceholderText" xml:space="preserve">
-    <value>My theme</value>
+    <value>私のテーマ</value>
   </data>
   <data name="CustomTheme_Primary.Text" xml:space="preserve">
-    <value>Primary color</value>
+    <value>原色</value>
   </data>
   <data name="CustomTheme_Secondary.Text" xml:space="preserve">
-    <value>Secondary color</value>
+    <value>二次色</value>
   </data>
   <data name="CustomTheme_Theme.Header" xml:space="preserve">
-    <value>Prefered theme</value>
+    <value>希望のテーマ</value>
   </data>
   <data name="Dashboard_Banner_Button_More.Text" xml:space="preserve">
-    <value>View the library</value>
+    <value>ライブラリを見る</value>
   </data>
   <data name="Dashboard_Banner_Button_Use.Text" xml:space="preserve">
-    <value>Use now</value>
+    <value>今すぐ使用</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout.Text" xml:space="preserve">
-    <value>Banner settings</value>
+    <value>バナー設定</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Banner settings</value>
+    <value>バナー設定</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_AnimSpeed.Text" xml:space="preserve">
-    <value>Animation speed</value>
+    <value>アニメーション速度</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_AnimSpeedDefault.Text" xml:space="preserve">
-    <value>Default</value>
+    <value>デフォルト</value>
   </data>
   <data name="Dashboard_Banner_Settings_Flyout_PatternSelect.Text" xml:space="preserve">
-    <value>Select a pattern</value>
+    <value>パターンを選択してください</value>
   </data>
   <data name="Dashboard_Banner_Title.Text" xml:space="preserve">
-    <value>Control your experience with {App-LibraryMenu}</value>
+    <value>{App-LibraryMenu} でエクスペリエンスをコントロール</value>
   </data>
   <data name="Dashboard_Group_New.Header" xml:space="preserve">
-    <value>What's new</value>
+    <value>新着情報</value>
   </data>
   <data name="Dashboard_Group_Stats.Header" xml:space="preserve">
-    <value>Live statistics</value>
+    <value>ライブ統計</value>
   </data>
   <data name="Dashboard_Group_More.Header" xml:space="preserve">
-    <value>Even more</value>
+    <value>さらにもっと</value>
   </data>
   <data name="Dashboard_More_Leaderboard.Text" xml:space="preserve">
-    <value>Leaderboard</value>
+    <value>リーダーボード</value>
   </data>
   <data name="Dashboard_HeaderMOTD_1.Text" xml:space="preserve">
-    <value>More app designs than Leafized's gsc menus. 😏</value>
+    <value>Leafized の gsc メニューよりも多くのアプリ デザイン。 😏</value>
   </data>
   <data name="Dashboard_HeaderMOTD_10.Text" xml:space="preserve">
-    <value>Play ZBR today!</value>
+    <value>今日はZBRをプレイしましょう！</value>
   </data>
   <data name="Dashboard_HeaderMOTD_11.Text" xml:space="preserve">
-    <value>{App-Helper2}!</value>
+    <value>{アプリヘルパー2}!</value>
   </data>
   <data name="Dashboard_HeaderMOTD_12.Text" xml:space="preserve">
-    <value>{App-Website}</value>
+    <value>{アプリ-ウェブサイト}</value>
   </data>
   <data name="Dashboard_HeaderMOTD_13.Text" xml:space="preserve">
-    <value>Check out our Devlogs on YouTube!</value>
+    <value>YouTube の開発者ブログをチェックしてください。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_14.Text" xml:space="preserve">
-    <value>Wake the fuck up babe, {App-Name} just dropped.</value>
+    <value>目を覚ましてください、{App-Name} が落ちたばかりです。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_2.Text" xml:space="preserve">
-    <value>{App-NameShort}-Good tool.</value>
+    <value>{App-NameShort} - 優れたツール。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_3.Text" xml:space="preserve">
-    <value>{App-Dev2} was here.</value>
+    <value>{App-Dev2} がここにありました。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_4.Text" xml:space="preserve">
-    <value>{App-Dev1} was here.</value>
+    <value>{App-Dev1} がここにありました。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_5.Text" xml:space="preserve">
-    <value>Sorry for the delays! 🤐</value>
+    <value>遅れてごめんなさい！ 🤐</value>
   </data>
   <data name="Dashboard_HeaderMOTD_6.Text" xml:space="preserve">
-    <value>Made with 💸 by {App-Dev1}.</value>
+    <value>{App-Dev1} による 💸 を使用して作成されました。</value>
   </data>
   <data name="Dashboard_HeaderMOTD_7.Text" xml:space="preserve">
-    <value>What happened to the {IL} store?</value>
+    <value>{IL} ストアはどうなりましたか?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_8.Text" xml:space="preserve">
-    <value>Have you heard of {IL} 2.0?</value>
+    <value>{IL} 2.0 について聞いたことがありますか?</value>
   </data>
   <data name="Dashboard_HeaderMOTD_9.Text" xml:space="preserve">
-    <value>Yo what is going on guys, {App-Helper1} here.</value>
+    <value>どうしたの、{App-Helper1} さん。</value>
   </data>
   <data name="Dashboard_New_Achievements.Text" xml:space="preserve">
-    <value>Achievements</value>
+    <value>業績</value>
   </data>
   <data name="Dashboard_New_Changelogs.Text" xml:space="preserve">
-    <value>Release notes for</value>
+    <value>のリリースノート</value>
   </data>
   <data name="Dashboard_New_MOTD.Text" xml:space="preserve">
-    <value>Message of the day</value>
+    <value>今日のメッセージ</value>
   </data>
   <data name="Dashboard_Stats_LibraryUses.Text" xml:space="preserve">
-    <value>Library uses</value>
+    <value>図書館の用途</value>
   </data>
   <data name="Dashboard_Stats_Online.Text" xml:space="preserve">
-    <value>Online</value>
+    <value>オンライン</value>
   </data>
   <data name="Dashboard_Stats_PointsEarned.Text" xml:space="preserve">
-    <value>Points earned</value>
+    <value>獲得ポイント</value>
   </data>
   <data name="Dashboard_Stats_PointsSpent.Text" xml:space="preserve">
-    <value>Points spent</value>
+    <value>消費したポイント</value>
   </data>
   <data name="Dashboard_Stats_StorePurchases.Text" xml:space="preserve">
-    <value>Store purchases</value>
+    <value>店頭購入</value>
   </data>
   <data name="Dashboard_Stats_Users.Text" xml:space="preserve">
-    <value>Users</value>
+    <value>ユーザー</value>
   </data>
   <data name="Dashboard_Tile_Discord.Description" xml:space="preserve">
-    <value>Join the official Discord server.</value>
+    <value>公式Discordサーバーに参加してください。</value>
   </data>
   <data name="Dashboard_Tile_Discord.Title" xml:space="preserve">
-    <value>Discord server</value>
+    <value>Discordサーバー</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Description" xml:space="preserve">
-    <value>An overview of how it works.</value>
+    <value>仕組みの概要。</value>
   </data>
   <data name="Dashboard_Tile_GettingStarted.Title" xml:space="preserve">
-    <value>Getting started</value>
+    <value>はじめる</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Description" xml:space="preserve">
-    <value>Help keep it free by donating.</value>
+    <value>寄付して無料の維持にご協力ください。</value>
   </data>
   <data name="Dashboard_Tile_Stripe.Title" xml:space="preserve">
-    <value>Stripe donations</value>
+    <value>ストライプの寄付</value>
   </data>
   <data name="Dashboard_Tile_Trello.Description" xml:space="preserve">
-    <value>Keep up-to-date with planned features &amp; updates.</value>
+    <value>計画されている機能とアップデートについて最新の情報を入手してください。</value>
   </data>
   <data name="Dashboard_Tile_Trello.Title" xml:space="preserve">
-    <value>Trello board</value>
+    <value>Trello ボード</value>
   </data>
   <data name="Dashboard_Tile_Website.Description" xml:space="preserve">
-    <value>Check out our website!</value>
+    <value>私たちのウェブサイトをチェックしてください！</value>
   </data>
   <data name="Dashboard_Tile_Website.Title" xml:space="preserve">
-    <value>Website</value>
+    <value>Webサイト</value>
   </data>
   <data name="Dashboard_Tile_YouTube.Description" xml:space="preserve">
-    <value>Check out our devlogs.</value>
+    <value>開発者ブログをチェックしてください。</value>
   </data>
   <data name="Dashboard_Tile_YouTube.Title" xml:space="preserve">
-    <value>YouTube channel</value>
+    <value>YouTube チャンネル</value>
   </data>
   <data name="Dashboard_Tile_IL.Description" xml:space="preserve">
-    <value>The only GSC Compiler tailored for the IW Engine. Supported across Xbox and PC.</value>
+    <value>IW エンジン用に調整された唯一の GSC コンパイラー。 Xbox と PC でサポートされています。</value>
   </data>
   <data name="Dialog_Button_Agree.Content" xml:space="preserve">
-    <value>I agree</value>
+    <value>同意します</value>
   </data>
   <data name="Dialog_Button_Buy.Text" xml:space="preserve">
-    <value>Buy for</value>
+    <value>購入する</value>
   </data>
   <data name="Dialog_Button_Close.Content" xml:space="preserve">
-    <value>Close</value>
+    <value>近い</value>
   </data>
   <data name="Dialog_Button_Save.Content" xml:space="preserve">
-    <value>Save</value>
+    <value>保存</value>
   </data>
   <data name="Dialog_Button_Send.Content" xml:space="preserve">
-    <value>Send</value>
+    <value>送信</value>
   </data>
   <data name="Dialog_Button_Back.Content" xml:space="preserve">
-    <value>Back</value>
+    <value>戻る</value>
   </data>
   <data name="Dialog_Button_Next.Content" xml:space="preserve">
-    <value>Next</value>
+    <value>次</value>
   </data>
   <data name="Dialog_Button_Start.Content" xml:space="preserve">
-    <value>Let's go</value>
+    <value>さあ行こう</value>
   </data>
   <data name="Dialog_Button_Update.Content" xml:space="preserve">
-    <value>Update</value>
+    <value>アップデート</value>
   </data>
   <data name="Dialog_Button_AYS.Content" xml:space="preserve">
-    <value>Are you sure?</value>
+    <value>本気ですか？</value>
   </data>
   <data name="DiscordRPC_Button_Server" xml:space="preserve">
-    <value>Discord Server</value>
+    <value>ディスコードサーバー</value>
   </data>
   <data name="DiscordRPC_Button_Website" xml:space="preserve">
-    <value>Website</value>
+    <value>Webサイト</value>
   </data>
   <data name="Feedback_Dialog_Title" xml:space="preserve">
-    <value>Send feedback</value>
+    <value>フィードバックを送信する</value>
   </data>
   <data name="Feedback_Dialog_State" xml:space="preserve">
-    <value>Sharing feedback</value>
+    <value>フィードバックの共有</value>
   </data>
   <data name="Search_Dialog_State" xml:space="preserve">
-    <value>Searching</value>
+    <value>検索中</value>
   </data>
   <data name="Filters_Button.Text" xml:space="preserve">
-    <value>Filters</value>
+    <value>フィルター</value>
   </data>
   <data name="Games_ComingSoon.Text" xml:space="preserve">
-    <value>Coming soon</value>
+    <value>近日公開</value>
   </data>
   <data name="Games_Platform.Text" xml:space="preserve">
-    <value>Platform</value>
+    <value>プラットフォーム</value>
   </data>
   <data name="Guideline_Dialog_Actions.Text" xml:space="preserve">
-    <value>By accepting these rules and participating in this chat, you agree to be bound by these rules. Please note that these rules and guidelines are subject to change at any time. Additionally, we reserve the right to take appropriate action if any rule is found to be broken, including chat mute and bans.</value>
+    <value>これらのルールを受け入れてこのチャットに参加すると、これらのルールに拘束されることに同意したことになります。これらのルールとガイドラインはいつでも変更される可能性があることに注意してください。さらに、ルール違反が判明した場合、チャットのミュートや禁止などの適切な措置を講じる権利を留保します。</value>
   </data>
   <data name="Guideline_Dialog_Agreement.Header" xml:space="preserve">
-    <value>Read and agree to the chat rules.</value>
+    <value>チャット ルールを読んで同意します。</value>
   </data>
   <data name="Guideline_Dialog_Title" xml:space="preserve">
-    <value>Before you can chat...</value>
+    <value>チャットする前に...</value>
   </data>
   <data name="Guideline_Rule_1_Info.Description" xml:space="preserve">
-    <value>Absolutely no harassment, witch hunting, sexism, racism or hate speech will be tolerated.</value>
+    <value>ハラスメント、魔女狩り、性差別、人種差別、ヘイトスピーチは絶対に容認されません。</value>
   </data>
   <data name="Guideline_Rule_1_Title.Text" xml:space="preserve">
-    <value>Be respectful</value>
+    <value>敬意を持ちましょう</value>
   </data>
   <data name="Guideline_Rule_2_Info.Description" xml:space="preserve">
-    <value>No age-restricted or obscene content. This includes text, image and video links featuring nudity, sex, hard violence or other disturbing graphic content.</value>
+    <value>年齢制限やわいせつな内容は含まれません。これには、ヌード、セックス、激しい暴力、その他の不穏なグラフィック コンテンツを含むテキスト、画像、ビデオのリンクが含まれます。</value>
   </data>
   <data name="Guideline_Rule_2_Title.Text" xml:space="preserve">
-    <value>No NSFW content</value>
+    <value>NSFW コンテンツはありません</value>
   </data>
   <data name="Guideline_Rule_3_Info.Description" xml:space="preserve">
-    <value>No spam or promotion (discord server links, advertisements, etc).</value>
+    <value>スパムやプロモーション (Discord サーバーのリンク、広告など) はありません。</value>
   </data>
   <data name="Guideline_Rule_3_Title.Text" xml:space="preserve">
-    <value>No spam or promotion</value>
+    <value>スパムや宣伝はありません</value>
   </data>
   <data name="Help_Card_Hotkeys.Header" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>ホットキー</value>
   </data>
   <data name="Help_Card_Search.Header" xml:space="preserve">
-    <value>Search</value>
+    <value>検索</value>
   </data>
   <data name="Help_Card_Notifications.Header" xml:space="preserve">
-    <value>Notifications</value>
+    <value>通知</value>
   </data>
   <data name="Help_Group_Inquiries.Header" xml:space="preserve">
-    <value>More inquiries? Join the Discord!</value>
+    <value>さらにお問い合わせがありますか?ディスコードに参加しましょう！</value>
   </data>
   <data name="Help_Group_Shortcuts.Header" xml:space="preserve">
-    <value>Shortcuts</value>
+    <value>ショートカット</value>
   </data>
   <data name="HelpDesc.Text" xml:space="preserve">
-    <value>Need help on finding things? 🔍 We got your back!</value>
+    <value>物を探すのに助けが必要ですか? 🔍 私たちはあなたの背中を押してくれました！</value>
   </data>
   <data name="HelpTitle.Text" xml:space="preserve">
-    <value>Help</value>
+    <value>ヘルプ</value>
   </data>
   <data name="Library_Most_Popular.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Most popular</value>
+    <value>最も人気のある</value>
   </data>
   <data name="Library_Author.Text" xml:space="preserve">
-    <value>Author</value>
+    <value>著者</value>
   </data>
   <data name="Library_Game.Text" xml:space="preserve">
-    <value>Game</value>
+    <value>ゲーム</value>
   </data>
   <data name="Library_Settings.Header" xml:space="preserve">
-    <value>Project settings</value>
+    <value>プロジェクト設定</value>
   </data>
   <data name="Library_Settings_Gamemode.Header" xml:space="preserve">
-    <value>Select gamemode</value>
+    <value>ゲームモードの選択</value>
   </data>
   <data name="Library_Settings_Platform.Header" xml:space="preserve">
-    <value>Select platform</value>
+    <value>プラットフォームの選択</value>
   </data>
   <data name="Library_Inject.Text" xml:space="preserve">
-    <value>Inject</value>
+    <value>注入する</value>
   </data>
   <data name="Library_InjectionCount.Text" xml:space="preserve">
-    <value>Injections</value>
+    <value>注射</value>
   </data>
   <data name="Library_LastUpdateDate.Text" xml:space="preserve">
-    <value>Last updated on</value>
+    <value>最終更新日</value>
   </data>
   <data name="Library_Showcase.Content" xml:space="preserve">
-    <value>Showcase</value>
+    <value>ショーケース</value>
   </data>
   <data name="Library_Unload.Text" xml:space="preserve">
-    <value>Unload</value>
+    <value>アンロード</value>
   </data>
   <data name="Library_Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>バージョン</value>
   </data>
   <data name="Login_Dialog.Title" xml:space="preserve">
-    <value>Welcome to</value>
+    <value>へようこそ</value>
   </data>
   <data name="Login_Dialog_Button_Login.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>ログイン</value>
   </data>
   <data name="Login_Dialog_Button_Register.Content" xml:space="preserve">
-    <value>Register</value>
+    <value>登録する</value>
   </data>
   <data name="Login_Dialog_Button_Register_Info.Text" xml:space="preserve">
-    <value>New to {App-Name}</value>
+    <value>{アプリ名} を初めて使用する</value>
   </data>
   <data name="Login_Dialog_ForgotPassword.Content" xml:space="preserve">
-    <value>Forgot your password?</value>
+    <value>パスワードをお忘れですか？</value>
   </data>
   <data name="Login_Dialog_Password.PlaceholderText" xml:space="preserve">
-    <value>Enter your password</value>
+    <value>パスワードを入力してください</value>
   </data>
   <data name="Login_Dialog_Username.PlaceholderText" xml:space="preserve">
-    <value>Username</value>
+    <value>ユーザー名</value>
   </data>
   <data name="Minigame_Selector_Dialog_Cooldown" xml:space="preserve">
-    <value>Cooldown active.</value>
+    <value>クールダウンが有効です。</value>
   </data>
   <data name="Minigame_Selector_Dialog_Emoji.Header" xml:space="preserve">
-    <value>Find the 🎉</value>
+    <value>🎉を見つけてください</value>
   </data>
   <data name="Minigame_Selector_Dialog_Runner.Header" xml:space="preserve">
-    <value>Endless Runner</value>
+    <value>エンドレスランナー</value>
   </data>
   <data name="Minigame_Runner_JumpHint.Text" xml:space="preserve">
-    <value>Jump</value>
+    <value>ジャンプ</value>
   </data>
   <data name="Minigame_Runner_GameOver.Text" xml:space="preserve">
-    <value>Game Over</value>
+    <value>ゲームオーバー</value>
   </data>
   <data name="Minigame_Selector_Dialog_Title" xml:space="preserve">
-    <value>Select a minigame</value>
+    <value>ミニゲームを選択してください</value>
   </data>
   <data name="MyProfile_AccountBalance.Header" xml:space="preserve">
-    <value>Account balance</value>
+    <value>口座残高</value>
   </data>
   <data name="MyProfile_AccountRole.Header" xml:space="preserve">
-    <value>Account role</value>
+    <value>アカウントの役割</value>
   </data>
   <data name="MyProfile_Avatar_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Select an avatar</value>
+    <value>アバターを選択してください</value>
   </data>
   <data name="MyProfile_Avatar_Flyout_Title.Text" xml:space="preserve">
-    <value>Avatar customization</value>
+    <value>アバターのカスタマイズ</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Group_Select.Text" xml:space="preserve">
-    <value>Select a banner</value>
+    <value>バナーを選択してください</value>
   </data>
   <data name="MyProfile_Banner_Flyout_Title.Text" xml:space="preserve">
-    <value>Banner customization</value>
+    <value>バナーのカスタマイズ</value>
   </data>
   <data name="MyProfile_Button_Avatar.Content" xml:space="preserve">
-    <value>Browse avatars</value>
+    <value>アバターを閲覧する</value>
   </data>
   <data name="MyProfile_Button_Banner.Content" xml:space="preserve">
-    <value>Browse banners</value>
+    <value>バナーを参照する</value>
   </data>
   <data name="MyProfile_Card_AccountInfo.Header" xml:space="preserve">
-    <value>Account info</value>
+    <value>アカウント情報</value>
   </data>
   <data name="MyProfile_Card_Avatar.Header" xml:space="preserve">
-    <value>Choose an avatar</value>
+    <value>アバターを選択してください</value>
   </data>
   <data name="MyProfile_Card_Banner.Header" xml:space="preserve">
-    <value>Choose a banner</value>
+    <value>バナーを選択してください</value>
   </data>
   <data name="MyProfile_Card_CreationDate.Header" xml:space="preserve">
-    <value>Account creation date</value>
+    <value>アカウント作成日</value>
   </data>
   <data name="MyProfile_Card_SignInOptions.Header" xml:space="preserve">
-    <value>Sign-in options</value>
+    <value>サインインオプション</value>
   </data>
   <data name="MyProfile_Card_Subscription.Header" xml:space="preserve">
-    <value>Subscription</value>
+    <value>サブスクリプション</value>
   </data>
   <data name="MyProfile_Card_TimeOnline.Header" xml:space="preserve">
-    <value>Time spent online</value>
+    <value>オンラインで過ごす時間</value>
   </data>
   <data name="MyProfile_Checkbox_AutoLogin.Content" xml:space="preserve">
-    <value>Auto login</value>
+    <value>自動ログイン</value>
   </data>
   <data name="MyProfile_Checkbox_RememberMe.Content" xml:space="preserve">
-    <value>Remember me</value>
+    <value>私を覚えてますか</value>
   </data>
   <data name="MyProfile_Group_Customization.Header" xml:space="preserve">
-    <value>Account customization</value>
+    <value>アカウントのカスタマイズ</value>
   </data>
   <data name="MyProfile_Group_General.Header" xml:space="preserve">
-    <value>General</value>
+    <value>一般的な</value>
   </data>
   <data name="MyProfile_InfoBar_FreeMode.Title" xml:space="preserve">
-    <value>Free mode subscription is active.</value>
+    <value>無料モードのサブスクリプションがアクティブです。</value>
   </data>
   <data name="MyProfile_InfoBar_Updated.Title" xml:space="preserve">
-    <value>Account successfully updated.</value>
+    <value>アカウントが正常に更新されました。</value>
   </data>
   <data name="MyProfile_PageLink_Store.Text" xml:space="preserve">
-    <value>View the store</value>
+    <value>ストアを見る</value>
   </data>
   <data name="MyProfileDesc.Text" xml:space="preserve">
-    <value>Customize your profile to stand out. Win NautaCoins to purchase avatars and banners from the store and show off the in the chat 💬 page!</value>
+    <value>プロフィールをカスタマイズして目立つようにしましょう。 NautaCoins を獲得してストアからアバターやバナーを購入し、チャット 💬 ページで自慢しましょう!</value>
   </data>
   <data name="MyProfileTitle.Text" xml:space="preserve">
-    <value>My account</value>
+    <value>私のアカウント</value>
   </data>
   <data name="ConnectionsDesc.Text" xml:space="preserve">
-    <value>Display your Discord activity or connect to your PlayStation 4 to use library content on consoles! 🎮</value>
+    <value>Discord アクティビティを表示するか、PlayStation 4 に接続して、コンソール上のライブラリ コンテンツを使用します。 🎮</value>
   </data>
   <data name="ConnectionsTitle.Text" xml:space="preserve">
-    <value>Connections</value>
+    <value>接続</value>
   </data>
   <data name="Notifications_Card_Chat.Description" xml:space="preserve">
-    <value>Popup alert badge when a new chat message is sent.</value>
+    <value>新しいチャット メッセージが送信されると、ポップアップ アラート バッジが表示されます。</value>
   </data>
   <data name="Notifications_Card_Chat.Text" xml:space="preserve">
-    <value>New message alerts</value>
+    <value>新しいメッセージのアラート</value>
   </data>
   <data name="Notifications_Card_InfoBar.Description" xml:space="preserve">
-    <value>This setting is required for some alerts.</value>
+    <value>この設定は一部のアラートに必要です。</value>
   </data>
   <data name="Notifications_Card_InfoBar.Text" xml:space="preserve">
-    <value>Informational alerts</value>
+    <value>情報アラート</value>
   </data>
   <data name="Notifications_Card_Minimized.Description" xml:space="preserve">
-    <value>Receive a system tray alert when the app is minimized.</value>
+    <value>アプリが最小化されているときにシステム トレイのアラートを受け取ります。</value>
   </data>
   <data name="Notifications_Card_Minimized.Text" xml:space="preserve">
-    <value>Minimized alerts</value>
+    <value>最小化されたアラート</value>
   </data>
   <data name="Notifications_Card_Session.Description" xml:space="preserve">
-    <value>Receive various in-app notifications.</value>
+    <value>アプリ内でさまざまな通知を受け取ります。</value>
   </data>
   <data name="Notifications_Card_Session.Text" xml:space="preserve">
-    <value>Session alerts</value>
+    <value>セッションアラート</value>
   </data>
   <data name="Notifications_CheckBox_Sounds.Content" xml:space="preserve">
-    <value>Play sound</value>
+    <value>サウンドを再生する</value>
   </data>
   <data name="Notifications_ComboBox_Everytime.Content" xml:space="preserve">
-    <value>Every time</value>
+    <value>毎回</value>
   </data>
   <data name="Notifications_ComboBox_Never.Content" xml:space="preserve">
-    <value>Never</value>
+    <value>一度もない</value>
   </data>
   <data name="Notifications_ComboBox_Once.Content" xml:space="preserve">
-    <value>Once</value>
+    <value>一度</value>
   </data>
   <data name="Notifications_Empty_Hint.Text" xml:space="preserve">
-    <value>It's empty in here... ☹️</value>
+    <value>ここ空いてるよ…☹️</value>
   </data>
   <data name="Notifications_Group_InApp.Header" xml:space="preserve">
-    <value>In-App</value>
+    <value>アプリ内</value>
   </data>
   <data name="Notifications_Group_Windows.Header" xml:space="preserve">
-    <value>Windows</value>
+    <value>窓</value>
   </data>
   <data name="Notifications_Hyperlink_Error.Title" xml:space="preserve">
-    <value>Application sounds must be enabled first</value>
+    <value>最初にアプリケーションサウンドを有効にする必要があります</value>
   </data>
   <data name="NotificationsDesc.Text" xml:space="preserve">
-    <value>We understand that there are times when you need uninterrupted focus. Snooze or mute notifications temporarily, providing you with uninterrupted sessions or moments of relaxation. When you're ready to reconnect, notifications will be waiting for you.</value>
+    <value>途切れることのない集中力が必要な場合があることを私たちは理解しています。通知を一時的にスヌーズまたはミュートして、中断のないセッションやリラックスした時間を提供します。再接続する準備ができたら、通知が届きます。</value>
   </data>
   <data name="NotificationsTitle.Text" xml:space="preserve">
-    <value>Notifications</value>
+    <value>通知</value>
   </data>
   <data name="Password_Card_Update.Text" xml:space="preserve">
-    <value>Update password</value>
+    <value>パスワードを更新する</value>
   </data>
   <data name="Password_Card_Update_Info.Text" xml:space="preserve">
-    <value>Changing your password will automatically log you out and require you to log back in.</value>
+    <value>パスワードを変更すると自動的にログアウトされ、再度ログインする必要があります。</value>
   </data>
   <data name="Password_InfoBar_Empty.Title" xml:space="preserve">
-    <value>Hold up! Your new password can't be empty. Please input your new password.</value>
+    <value>我慢する！新しいパスワードを空にすることはできません。新しいパスワードを入力してください。</value>
   </data>
   <data name="Password_InfoBar_Invalid.Title" xml:space="preserve">
-    <value>Oops! Your new password is invalid. Please make your password unique.</value>
+    <value>おっと！新しいパスワードは無効です。パスワードは一意のものにしてください。</value>
   </data>
   <data name="Password_InfoBar_Same.Title" xml:space="preserve">
-    <value>Oops! Your new password can't be the same as the old one. Please choose a new and unique password.</value>
+    <value>おっと！新しいパスワードを古いパスワードと同じにすることはできません。新しい一意のパスワードを選択してください。</value>
   </data>
   <data name="Password_InfoBar_Updated.Title" xml:space="preserve">
-    <value>Your password has been updated successfully. You're all set!</value>
+    <value>パスワードは正常に更新されました。準備は完了です!</value>
   </data>
   <data name="Password_Save.Text" xml:space="preserve">
-    <value>Save</value>
+    <value>保存</value>
   </data>
   <data name="Password_Status_Invalid.Text" xml:space="preserve">
-    <value>Invalid</value>
+    <value>無効</value>
   </data>
   <data name="Password_Status_Medium.Text" xml:space="preserve">
-    <value>Medium</value>
+    <value>中くらい</value>
   </data>
   <data name="Password_Status_Strong.Text" xml:space="preserve">
-    <value>Strong</value>
+    <value>強い</value>
   </data>
   <data name="Password_Status_Weak.Text" xml:space="preserve">
-    <value>Weak</value>
+    <value>弱い</value>
   </data>
   <data name="PasswordDesc.Text" xml:space="preserve">
-    <value>Forgot your password? Make a request in the official Discord server and we'll fix that for you asap! 😁</value>
+    <value>パスワードをお忘れですか？公式 Discord サーバーにリクエストを送信してください。できるだけ早く解決します。 😁</value>
   </data>
   <data name="PasswordTitle.Text" xml:space="preserve">
-    <value>Password</value>
+    <value>パスワード</value>
   </data>
   <data name="Pattern_Axiom" xml:space="preserve">
-    <value>Axiom</value>
+    <value>公理</value>
   </data>
   <data name="Pattern_Cartographer" xml:space="preserve">
-    <value>Catographer</value>
+    <value>カトグラファー</value>
   </data>
   <data name="Pattern_Diagmonds" xml:space="preserve">
-    <value>Diagmonds</value>
+    <value>ダイアモンド</value>
   </data>
   <data name="Pattern_Diamonds" xml:space="preserve">
-    <value>Diamonds</value>
+    <value>ダイヤモンド</value>
   </data>
   <data name="Pattern_Geometry" xml:space="preserve">
-    <value>Geometry</value>
+    <value>ジオメトリ</value>
   </data>
   <data name="Pattern_GPlay" xml:space="preserve">
     <value>GPlay</value>
   </data>
   <data name="Pattern_Mosaic" xml:space="preserve">
-    <value>Mosaic</value>
+    <value>モザイク</value>
   </data>
   <data name="Pattern_ScanLines" xml:space="preserve">
-    <value>Scan lines</value>
+    <value>走査線</value>
   </data>
   <data name="Pattern_Stripes" xml:space="preserve">
-    <value>Stripes</value>
+    <value>ストライプ</value>
   </data>
   <data name="Progress_Dialog.Text" xml:space="preserve">
-    <value>Please wait</value>
+    <value>お待ちください</value>
   </data>
   <data name="Register_Dialog.Title" xml:space="preserve">
-    <value>Set up a new account!</value>
+    <value>新しいアカウントを設定してください！</value>
   </data>
   <data name="Register_Dialog_Button_Login_Info.Text" xml:space="preserve">
-    <value>Already have an account?</value>
+    <value>すでにアカウントをお持ちですか?</value>
   </data>
   <data name="Register_Dialog_ConfirmPassword.PlaceholderText" xml:space="preserve">
-    <value>Confirm Password</value>
+    <value>パスワードを認証する</value>
   </data>
   <data name="Register_Dialog_InfoBar_Empty" xml:space="preserve">
-    <value>Required input values were left empty.</value>
+    <value>必要な入力値が空のままでした。</value>
   </data>
   <data name="Register_Dialog_InfoBar_Match" xml:space="preserve">
-    <value>Passwords do not match.</value>
+    <value>パスワードが一致しません。</value>
   </data>
   <data name="Register_Dialog_InfoBar_Registered" xml:space="preserve">
-    <value>Account successfully registered.</value>
+    <value>アカウントが正常に登録されました。</value>
   </data>
   <data name="Register_Dialog_LicenseKey.PlaceholderText" xml:space="preserve">
-    <value>License key</value>
+    <value>ライセンスキー</value>
   </data>
   <data name="Settings_About.Content" xml:space="preserve">
-    <value>About</value>
+    <value>について</value>
   </data>
   <data name="Settings_About_State.Content" xml:space="preserve">
-    <value>Reading about</value>
+    <value>について読む</value>
   </data>
   <data name="Settings_Appearance.Content" xml:space="preserve">
-    <value>Appearance</value>
+    <value>外観</value>
   </data>
   <data name="Settings_Appearance_State.Content" xml:space="preserve">
-    <value>Tweaking application appearance</value>
+    <value>アプリケーションの外観を調整する</value>
   </data>
   <data name="Settings_Application.Content" xml:space="preserve">
-    <value>Application</value>
+    <value>応用</value>
   </data>
   <data name="Settings_Application_State.Content" xml:space="preserve">
-    <value>Tweaking application settings</value>
+    <value>アプリケーション設定の微調整</value>
   </data>
   <data name="Settings_Connections.Content" xml:space="preserve">
-    <value>Connections</value>
+    <value>接続</value>
   </data>
   <data name="Settings_Connections_State.Content" xml:space="preserve">
-    <value>Tweaking connection settings</value>
+    <value>接続設定の微調整</value>
   </data>
   <data name="Settings_Help.Content" xml:space="preserve">
-    <value>Help</value>
+    <value>ヘルプ</value>
   </data>
   <data name="Settings_Help_State.Content" xml:space="preserve">
-    <value>Viewing the help center</value>
+    <value>ヘルプセンターを表示する</value>
   </data>
   <data name="Settings_MyProfile.Content" xml:space="preserve">
-    <value>My Account</value>
+    <value>私のアカウント</value>
   </data>
   <data name="Settings_MyProfile_State.Content" xml:space="preserve">
-    <value>Editing account</value>
+    <value>アカウントの編集</value>
   </data>
   <data name="Settings_Notifications.Content" xml:space="preserve">
-    <value>Notifications</value>
+    <value>通知</value>
   </data>
   <data name="Settings_Notifications_State.Content" xml:space="preserve">
-    <value>Editing notifications</value>
+    <value>通知の編集</value>
   </data>
   <data name="Settings_Password.Content" xml:space="preserve">
-    <value>Password</value>
+    <value>パスワード</value>
   </data>
   <data name="Settings_Password_State.Content" xml:space="preserve">
-    <value>Editing account password</value>
+    <value>アカウントのパスワードを編集する</value>
   </data>
   <data name="Shell_Chat.Content" xml:space="preserve">
-    <value>Chat</value>
+    <value>チャット</value>
   </data>
   <data name="Shell_Chat_State.Content" xml:space="preserve">
-    <value>Chatting with users</value>
+    <value>ユーザーとのチャット</value>
   </data>
   <data name="Shell_Chat_Title.Text" xml:space="preserve">
-    <value>Chat</value>
+    <value>チャット</value>
   </data>
   <data name="Shell_Dashboard.Content" xml:space="preserve">
-    <value>Dashboard</value>
+    <value>ダッシュボード</value>
   </data>
   <data name="Shell_Dashboard_State.Content" xml:space="preserve">
-    <value>Viewing the dashboard</value>
+    <value>ダッシュボードの表示</value>
   </data>
   <data name="Shell_Games.Content" xml:space="preserve">
-    <value>Games</value>
+    <value>ゲーム</value>
   </data>
   <data name="Shell_Games_State.Content" xml:space="preserve">
-    <value>Browsing games selection</value>
+    <value>ブラウジングゲームの選択</value>
   </data>
   <data name="Shell_Games_Title.Text" xml:space="preserve">
-    <value>Games</value>
+    <value>ゲーム</value>
   </data>
   <data name="Shell_Library.Content" xml:space="preserve">
-    <value>Library</value>
+    <value>図書館</value>
   </data>
   <data name="Shell_Library_State.Content" xml:space="preserve">
-    <value>Browsing user made content</value>
+    <value>ユーザー作成コンテンツの閲覧</value>
   </data>
   <data name="Shell_Library_Title.Text" xml:space="preserve">
-    <value>Library</value>
+    <value>図書館</value>
   </data>
   <data name="Shell_Search.PlaceholderText" xml:space="preserve">
-    <value>Search</value>
+    <value>検索</value>
   </data>
   <data name="Shell_Settings.Content" xml:space="preserve">
-    <value>Settings</value>
+    <value>設定</value>
   </data>
   <data name="Shell_Store.Content" xml:space="preserve">
-    <value>Store</value>
+    <value>店</value>
   </data>
   <data name="Shell_Store_State.Content" xml:space="preserve">
-    <value>Browsing the store</value>
+    <value>ストアを閲覧する</value>
   </data>
   <data name="Shell_Store_Title.Text" xml:space="preserve">
-    <value>Store</value>
+    <value>店</value>
   </data>
   <data name="Shell_UserDropDown_AppSettings.Text" xml:space="preserve">
-    <value>Application settings</value>
+    <value>アプリケーション設定</value>
   </data>
   <data name="Shell_UserDropDown_BrowseStore.Text" xml:space="preserve">
-    <value>Browse store</value>
+    <value>ストアを閲覧する</value>
   </data>
   <data name="Shell_UserDropDown_EarnPoints.Text" xml:space="preserve">
-    <value>Earn NautaCoins</value>
+    <value>ナウタコインを獲得する</value>
   </data>
   <data name="Shell_UserDropDown_MyAccount.Text" xml:space="preserve">
-    <value>My account</value>
+    <value>私のアカウント</value>
   </data>
   <data name="Shell_UserDropDown_SignOut.Text" xml:space="preserve">
-    <value>Sign out</value>
+    <value>サインアウト</value>
   </data>
   <data name="Search_Games_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search games</value>
+    <value>ゲームを検索する</value>
   </data>
   <data name="Search_Library_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search projects</value>
+    <value>プロジェクトを検索する</value>
   </data>
   <data name="Search_Store_Hint.PlaceholderText" xml:space="preserve">
-    <value>Search store</value>
+    <value>店舗を探す</value>
   </data>
   <data name="Sorting_ComboBox_Hint.PlaceholderText" xml:space="preserve">
-    <value>Sort by</value>
+    <value>並べ替え</value>
   </data>
   <data name="Sorting_ComboBox_Popularity.Content" xml:space="preserve">
-    <value>Popularity</value>
+    <value>人気</value>
   </data>
   <data name="Sorting_ComboBox_DateUpdated.Content" xml:space="preserve">
-    <value>Last updated</value>
+    <value>最終更新日</value>
   </data>
   <data name="Sorting_ComboBox_Price_HighLow.Content" xml:space="preserve">
-    <value>Price: High to Low</value>
+    <value>価格: 高から低まで</value>
   </data>
   <data name="Sorting_ComboBox_Price_LowHigh.Content" xml:space="preserve">
-    <value>Price: Low to High</value>
+    <value>価格: 低価格から高価格</value>
   </data>
   <data name="Sorting_ComboBox_Relevance.Content" xml:space="preserve">
-    <value>Relevance</value>
+    <value>関連性</value>
   </data>
   <data name="Sorting_ComboBox_Title_AZ.Content" xml:space="preserve">
-    <value>Title A-Z</value>
+    <value>タイトル A ～ Z</value>
   </data>
   <data name="Sorting_ComboBox_Title_ZA.Content" xml:space="preserve">
-    <value>Title Z-A</value>
+    <value>タイトルZ-A</value>
   </data>
   <data name="Splash_Status_AuthFailed.Text" xml:space="preserve">
-    <value>Auth failed to initialize.</value>
+    <value>認証の初期化に失敗しました。</value>
   </data>
   <data name="Splash_Status_AuthSuccess.Text" xml:space="preserve">
-    <value>Connected to server.</value>
+    <value>サーバーに接続されました。</value>
   </data>
   <data name="Splash_Status_Initializing.Text" xml:space="preserve">
-    <value>Initializing auth...</value>
+    <value>認証を初期化しています...</value>
   </data>
   <data name="Splash_Status_Wizard.Text" xml:space="preserve">
-    <value>Complete setup wizard...</value>
+    <value>セットアップ ウィザードを完了します...</value>
   </data>
   <data name="Splash_Status_Login.Text" xml:space="preserve">
-    <value>Awaiting user login...</value>
+    <value>ユーザーのログインを待っています...</value>
   </data>
   <data name="Splash_Status_LoginSuccess.Text" xml:space="preserve">
-    <value>Logging in...</value>
+    <value>ログイン中...</value>
   </data>
   <data name="Splash_Status_Resources.Text" xml:space="preserve">
-    <value>Gathering user information...</value>
+    <value>ユーザー情報を収集しています...</value>
   </data>
   <data name="Splash_Status_Update.Text" xml:space="preserve">
-    <value>New update available!</value>
+    <value>新しいアップデートが利用可能になりました!</value>
   </data>
   <data name="Splash_Status_Downloading.Text" xml:space="preserve">
-    <value>Downloading</value>
+    <value>ダウンロード中</value>
   </data>
   <data name="Store_Filter_All.Content" xml:space="preserve">
-    <value>All</value>
+    <value>全て</value>
   </data>
   <data name="Store_Filter_Avatars.Content" xml:space="preserve">
-    <value>Avatars</value>
+    <value>アバター</value>
   </data>
   <data name="Store_Filter_Banners.Content" xml:space="preserve">
-    <value>Banners</value>
+    <value>バナー</value>
   </data>
   <data name="Store_Owned.Text" xml:space="preserve">
-    <value>Owned</value>
+    <value>所有</value>
   </data>
   <data name="Store_Purchase" xml:space="preserve">
-    <value>purchased</value>
+    <value>購入した</value>
   </data>
   <data name="Store_Purchase_Error" xml:space="preserve">
-    <value>There was an error trying to purchase</value>
+    <value>購入しようとしてエラーが発生しました</value>
   </data>
   <data name="TourGuide_Step1.Title" xml:space="preserve">
-    <value>Getting started 🚀</value>
+    <value>始めましょう 🚀</value>
   </data>
   <data name="TourGuide_Step2.Title" xml:space="preserve">
-    <value>Select your prefered language</value>
+    <value>希望の言語を選択してください</value>
   </data>
   <data name="TourGuide_Step3.Title" xml:space="preserve">
-    <value>Select your prefered theme</value>
+    <value>好みのテーマを選択してください</value>
   </data>
   <data name="User_Login.Content" xml:space="preserve">
-    <value>Login</value>
+    <value>ログイン</value>
   </data>
   <data name="User_Login_State.Content" xml:space="preserve">
-    <value>Logging in</value>
+    <value>ログインする</value>
   </data>
   <data name="User_Signup.Content" xml:space="preserve">
-    <value>Sign-up</value>
+    <value>サインアップ</value>
   </data>
   <data name="User_Signup_State.Content" xml:space="preserve">
-    <value>Setting up an account</value>
+    <value>アカウントの設定</value>
   </data>
   <data name="Cheat_ForceHost.Header" xml:space="preserve">
-    <value>Force host</value>
+    <value>ホストを強制する</value>
   </data>
 </root>

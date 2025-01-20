@@ -61,7 +61,7 @@
   <!-- Main -->
   <!-- About -->
   <data name="_LanguageName" xml:space="preserve">
-    <value>Français</value>
+    <value>French</value>
   </data>
   <data name="Tray_Show.Text" xml:space="preserve">
     <value>Montrer</value>
@@ -272,6 +272,9 @@
   </data>
   <data name="Application_Language.Header" xml:space="preserve">
     <value>Langue</value>
+  </data>
+  <data name="Application_Holiday.Header" xml:space="preserve">
+    <value>Superpositions de vacances</value>
   </data>
   <data name="ApplicationDesc.Text" xml:space="preserve">
     <value>Libérez le véritable potentiel en personnalisant vos paramètres. Sélectionnez votre langue préférée et vos options de fenêtre pour garantir une expérience qui vous satisfait. Et ça, où que vous soyez dans le monde 🌍.</value>
@@ -1106,5 +1109,8 @@
   </data>
   <data name="User_Signup_State.Content" xml:space="preserve">
     <value>Créer un compte</value>
+  </data>
+  <data name="Cheat_ForceHost.Header" xml:space="preserve">
+    <value>Forcer l'hôte</value>
   </data>
 </root>

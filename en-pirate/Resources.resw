@@ -271,6 +271,9 @@
   <data name="Application_Language.Header" xml:space="preserve">
     <value>Language</value>
   </data>
+  <data name="Application_Holiday.Header" xml:space="preserve">
+    <value>Holiday overlays</value>
+  </data>
   <data name="ApplicationDesc.Text" xml:space="preserve">
     <value>Unlock the true potential by personalizin' yer settings. Select yer preferred language, window options, ensurin' an experience that there resonates with ye, wherever ye be in the seven seas 🌍.</value>
   </data>
@@ -1110,5 +1113,8 @@
   </data>
   <data name="User_Signup_State.Content" xml:space="preserve">
     <value>Settin' up an account</value>
+  </data>
+  <data name="Cheat_ForceHost.Header" xml:space="preserve">
+    <value>Force host</value>
   </data>
 </root>
